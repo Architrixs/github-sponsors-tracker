@@ -20,13 +20,15 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: cd frontend && npm install
+        run: npm install
+        working-directory: ${{ github.workspace }}/frontend
 
       - name: Build project
-        run: cd frontend && npm run build
+        run: npm run build
+        working-directory: ${{ github.workspace }}/frontend
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./github-sponsors-tracker/frontend/dist
+          publish_dir: ${{ github.workspace }}/frontend/dist
