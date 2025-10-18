@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          path: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -21,14 +23,14 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./frontend
+        working-directory: ./main/frontend
 
       - name: Build project
         run: npm run build
-        working-directory: ./frontend
+        working-directory: ./main/frontend
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./frontend/dist
+          publish_dir: ./main/frontend/dist
