@@ -1,5 +1,6 @@
-import React, { useState, useEffect, useLayoutEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import Tooltip from './Tooltip';
 
 const ITEMS_PER_PAGE = 25;
 
@@ -8,7 +9,6 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const [truncatedBios, setTruncatedBios] = useState({});
 
   useEffect(() => {
     fetch('./data.json')
@@ -36,22 +36,6 @@ function App() {
     currentPage * ITEMS_PER_PAGE
   );
 
-  useLayoutEffect(() => {
-    const newTruncatedBios = {};
-    const bioElements = document.querySelectorAll('.bio');
-    bioElements.forEach(el => {
-      if (el.scrollWidth > el.clientWidth) {
-        const login = el.dataset.login;
-        newTruncatedBios[login] = true;
-      }
-    });
-
-    // Only update the state if the truncated bios have changed
-    if (JSON.stringify(newTruncatedBios) !== JSON.stringify(truncatedBios)) {
-      setTruncatedBios(newTruncatedBios);
-    }
-  }, [paginatedData, truncatedBios]);
-
   const totalPages = Math.ceil(filteredData.length / ITEMS_PER_PAGE);
 
   return (
@@ -78,7 +62,9 @@ function App() {
             return (
               <div key={sponsor.login} className={cardClassName}>
                 <div className="rank-number">{sponsor.rank}</div>
-                <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" data-tooltip={sponsor.bio} />
+                <Tooltip text={sponsor.bio}>
+                  <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" />
+                </Tooltip>
                 <div className="sponsor-details">
                     <div className="name-location">
                         <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
