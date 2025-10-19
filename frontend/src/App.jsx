@@ -98,6 +98,7 @@ function App() {
                         <strong>{sponsor.sponsorships_count}</strong>
                         <span>Sponsors</span>
                     </div>
+                </div>
                 <a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer" className="sponsor-button">Sponsor</a>
               </div>
             );
