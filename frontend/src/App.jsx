@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
+const ITEMS_PER_PAGE = 25;
+
 function App() {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [filter, setFilter] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
-    // In development, Vite serves from the root, so the path is correct.
-    // In the built version, data.json will be in the same directory as index.html.
     fetch('./data.json')
       .then((response) => response.json())
       .then((data) => {
@@ -20,43 +22,79 @@ function App() {
       });
   }, []);
 
+  const filteredData = data.filter(sponsor =>
+    sponsor.login.toLowerCase().includes(filter.toLowerCase())
+  );
+
+  const paginatedData = filteredData.slice(
+    (currentPage - 1) * ITEMS_PER_PAGE,
+    currentPage * ITEMS_PER_PAGE
+  );
+
+  const totalPages = Math.ceil(filteredData.length / ITEMS_PER_PAGE);
+
   return (
-    <div>
+    <div className="container">
       <h1>GitHub Top Sponsors</h1>
+      <div className="filters">
+        <input
+          type="text"
+          placeholder="Filter by name..."
+          value={filter}
+          onChange={(e) => setFilter(e.target.value)}
+        />
+      </div>
       {loading ? (
         <p>Loading data...</p>
       ) : (
-        <table>
-          <thead>
-            <tr>
-              <th>Avatar</th>
-              <th>Login</th>
-              <th>Followers</th>
-              <th>Sponsorships</th>
-              <th>Bio</th>
-              <th>Location</th>
-              <th>Company</th>
-              <th>Sponsor</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data && data.map(sponsor => (
-              <tr key={sponsor.login}>
-                <td><img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} /></td>
-                <td><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></td>
-                <td>{sponsor.followers}</td>
-                <td>{sponsor.sponsorships_count}</td>
-                <td>{sponsor.bio}</td>
-                <td>{sponsor.location}</td>
-                <td>{sponsor.company}</td>
-                <td><a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer">Sponsor</a></td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <div className="sponsor-list">
+          {paginatedData.map((sponsor, index) => {
+            const rank = (currentPage - 1) * ITEMS_PER_PAGE + index + 1;
+            let cardClassName = 'sponsor-card';
+            if (rank === 1) cardClassName += ' gold';
+            if (rank === 2) cardClassName += ' silver';
+            if (rank === 3) cardClassName += ' bronze';
+
+            return (
+              <div key={sponsor.login} className={cardClassName}>
+                <div className="rank-number">{rank}</div>
+                <div className="sponsor-info">
+                  <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} />
+                  <div className="sponsor-details">
+                    <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
+                    <p className="bio">{sponsor.bio}</p>
+                    <div className="stats">
+                      <span>Followers: {sponsor.followers}</span>
+                      <span>Sponsorships: {sponsor.sponsorships_count}</span>
+                    </div>
+                    <div className="location-company">
+                      {sponsor.location && <span>Location: {sponsor.location}</span>}
+                      {sponsor.company && <span>Company: {sponsor.company}</span>}
+                    </div>
+                  </div>
+                </div>
+                <a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer" className="sponsor-button">Sponsor</a>
+              </div>
+            );
+          })}
+        </div>
+      )}
+      {totalPages > 1 && (
+        <div className="pagination">
+          {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+            <button
+              key={page}
+              className={currentPage === page ? 'active' : ''}
+              onClick={() => setCurrentPage(page)}
+            >
+              {page}
+            </button>
+          ))}
+        </div>
       )}
     </div>
   );
 }
 
 export default App;
+
