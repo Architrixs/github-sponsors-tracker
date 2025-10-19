@@ -8,6 +8,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
+  const [truncatedBios, setTruncatedBios] = useState({});
 
   useEffect(() => {
     fetch('./data.json')
@@ -34,6 +35,18 @@ function App() {
     (currentPage - 1) * ITEMS_PER_PAGE,
     currentPage * ITEMS_PER_PAGE
   );
+
+  useEffect(() => {
+    const newTruncatedBios = {};
+    const bioElements = document.querySelectorAll('.bio');
+    bioElements.forEach(el => {
+      if (el.scrollWidth > el.clientWidth) {
+        const login = el.dataset.login;
+        newTruncatedBios[login] = true;
+      }
+    });
+    setTruncatedBios(newTruncatedBios);
+  }, [paginatedData]); // Re-run when the displayed data changes
 
   const totalPages = Math.ceil(filteredData.length / ITEMS_PER_PAGE);
 
@@ -63,8 +76,21 @@ function App() {
                 <div className="rank-number">{sponsor.rank}</div>
                 <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" />
                 <div className="sponsor-details">
-                    <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
-                    <p className="bio" data-full-bio={sponsor.bio}>{sponsor.bio}</p>
+                    <div className="name-location">
+                        <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
+                        {sponsor.location && (
+                            <span className="location">
+                                📍 {sponsor.location}
+                            </span>
+                        )}
+                    </div>
+                    <p 
+                      className={`bio ${truncatedBios[sponsor.login] ? 'truncated' : ''}`}
+                      data-full-bio={sponsor.bio} 
+                      data-login={sponsor.login}
+                    >
+                      {sponsor.bio}
+                    </p>
                 </div>
                 <div className="sponsor-stats">
                     <div className="stat">
@@ -75,12 +101,6 @@ function App() {
                         <strong>{sponsor.sponsorships_count}</strong>
                         <span>Sponsors</span>
                     </div>
-                    {sponsor.location && (
-                        <div className="stat">
-                            <strong>{sponsor.location}</strong>
-                            <span>Location</span>
-                        </div>
-                    )}
                 </div>
                 <a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer" className="sponsor-button">Sponsor</a>
               </div>
