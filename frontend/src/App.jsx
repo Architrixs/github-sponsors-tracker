@@ -65,7 +65,7 @@ function App() {
                   <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} />
                   <div className="sponsor-details">
                     <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
-                    <p className="bio">{sponsor.bio}</p>
+                    <p className="bio" data-full-bio={sponsor.bio}>{sponsor.bio}</p>
                     <div className="stats">
                       <span>Followers: {sponsor.followers}</span>
                       <span>Sponsorships: {sponsor.sponsorships_count}</span>
