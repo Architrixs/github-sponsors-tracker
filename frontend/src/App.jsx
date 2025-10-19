@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useLayoutEffect } from 'react';
 import './App.css';
 
 const ITEMS_PER_PAGE = 25;
@@ -36,7 +36,7 @@ function App() {
     currentPage * ITEMS_PER_PAGE
   );
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     const newTruncatedBios = {};
     const bioElements = document.querySelectorAll('.bio');
     bioElements.forEach(el => {

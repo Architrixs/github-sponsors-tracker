@@ -224,8 +224,8 @@ h1 {
 
 /* Responsive Styles */
 @media (max-width: 992px) {
-  .sponsor-stats {
-    display: none; /* Hide stats on smaller tablets */
+  .bio {
+    display: none; /* Hide bio on smaller tablets */
   }
 }
 
@@ -239,11 +239,17 @@ h1 {
   }
 
   .sponsor-stats {
-    display: none;
+    gap: 15px;
+  }
+
+  .stat strong {
+    font-size: 14px;
   }
 
   .sponsor-button {
     margin-left: 15px;
+    padding: 6px 12px;
+    font-size: 11px;
   }
 }
 
@@ -255,6 +261,11 @@ h1 {
 
   .sponsor-avatar {
     margin-bottom: 10px;
+  }
+  
+  .sponsor-stats {
+    margin-left: 0;
+    margin-top: 10px;
   }
 
   .sponsor-button {
