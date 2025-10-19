@@ -33,17 +33,23 @@ function App() {
               <th>Login</th>
               <th>Followers</th>
               <th>Sponsorships</th>
-              <th>Profile</th>
+              <th>Bio</th>
+              <th>Location</th>
+              <th>Company</th>
+              <th>Sponsor</th>
             </tr>
           </thead>
           <tbody>
             {data && data.map(sponsor => (
               <tr key={sponsor.login}>
                 <td><img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} /></td>
-                <td>{sponsor.login}</td>
+                <td><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></td>
                 <td>{sponsor.followers}</td>
                 <td>{sponsor.sponsorships_count}</td>
-                <td><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">View Profile</a></td>
+                <td>{sponsor.bio}</td>
+                <td>{sponsor.location}</td>
+                <td>{sponsor.company}</td>
+                <td><a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer">Sponsor</a></td>
               </tr>
             ))}
           </tbody>
@@ -54,4 +60,3 @@ function App() {
 }
 
 export default App;
-

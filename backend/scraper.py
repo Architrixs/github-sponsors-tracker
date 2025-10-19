@@ -9,12 +9,13 @@ load_dotenv()
 # It's recommended to store your token securely, e.g., in an environment variable
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 API_URL = "https://api.github.com/graphql"
+REST_API_URL = "https://api.github.com"
 
 def get_top_users():
     """
     Fetches the top 100 most followed users on GitHub.
     """
-    url = "https://api.github.com/search/users?q=followers:>1000&sort=followers&order=desc&per_page=100"
+    url = f"{REST_API_URL}/search/users?q=followers:>1000&sort=followers&order=desc&per_page=100"
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json"
@@ -22,6 +23,19 @@ def get_top_users():
     response = requests.get(url, headers=headers)
     response.raise_for_status()
     return response.json()["items"]
+
+def get_user_details(login):
+    """
+    Fetches detailed information for a given user.
+    """
+    url = f"{REST_API_URL}/users/{login}"
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    return response.json()
 
 def get_sponsorship_details(login):
     """
@@ -70,8 +84,8 @@ def main():
         for user in top_users:
             login = user["login"]
             print(f"Fetching details for {login}...")
+            
             sponsorship_details = get_sponsorship_details(login)
-
             if "errors" in sponsorship_details:
                 print(f"GraphQL query failed for {login}: {sponsorship_details['errors']}")
                 continue
@@ -79,19 +93,25 @@ def main():
             data = sponsorship_details.get("data", {}).get("repositoryOwner")
             if data and data.get("sponsorshipsAsMaintainer", {}).get("totalCount", 0) > 0:
                 print(f"{login} is a sponsor!")
+                
+                user_details = get_user_details(login)
+                
                 sponsors_data.append({
                     "login": login,
                     "avatar_url": user["avatar_url"],
                     "html_url": user["html_url"],
-                    "followers": user.get("followers", 0),
-                    "sponsorships_count": data["sponsorshipsAsMaintainer"]["totalCount"]
+                    "followers": user_details.get("followers", 0),
+                    "sponsorships_count": data["sponsorshipsAsMaintainer"]["totalCount"],
+                    "bio": user_details.get("bio"),
+                    "location": user_details.get("location"),
+                    "company": user_details.get("company"),
                 })
 
         # Sort sponsors by the number of sponsorships
         sponsors_data.sort(key=lambda x: x["sponsorships_count"], reverse=True)
 
-        # Save data to frontend/src/data.json
-        output_path = os.path.join(os.path.dirname(__file__), "..", "frontend", "src", "data.json")
+        # Save data to frontend/public/data.json
+        output_path = os.path.join(os.path.dirname(__file__), "..", "frontend", "public", "data.json")
         with open(output_path, "w") as f:
             json.dump(sponsors_data, f, indent=2)
 
