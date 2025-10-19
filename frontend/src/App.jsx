@@ -13,7 +13,11 @@ function App() {
     fetch('./data.json')
       .then((response) => response.json())
       .then((data) => {
-        setData(data);
+        const rankedData = data.map((sponsor, index) => ({
+          ...sponsor,
+          rank: index + 1,
+        }));
+        setData(rankedData);
         setLoading(false);
       })
       .catch((error) => {
@@ -48,16 +52,15 @@ function App() {
         <p>Loading data...</p>
       ) : (
         <div className="sponsor-list">
-          {paginatedData.map((sponsor, index) => {
-            const rank = (currentPage - 1) * ITEMS_PER_PAGE + index + 1;
+          {paginatedData.map((sponsor) => {
             let cardClassName = 'sponsor-card';
-            if (rank === 1) cardClassName += ' gold';
-            if (rank === 2) cardClassName += ' silver';
-            if (rank === 3) cardClassName += ' bronze';
+            if (sponsor.rank === 1) cardClassName += ' gold';
+            if (sponsor.rank === 2) cardClassName += ' silver';
+            if (sponsor.rank === 3) cardClassName += ' bronze';
 
             return (
               <div key={sponsor.login} className={cardClassName}>
-                <div className="rank-number">{rank}</div>
+                <div className="rank-number">{sponsor.rank}</div>
                 <div className="sponsor-info">
                   <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} />
                   <div className="sponsor-details">
@@ -97,4 +100,3 @@ function App() {
 }
 
 export default App;
-
