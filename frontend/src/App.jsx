@@ -45,8 +45,12 @@ function App() {
         newTruncatedBios[login] = true;
       }
     });
-    setTruncatedBios(newTruncatedBios);
-  }, [paginatedData]); // Re-run when the displayed data changes
+
+    // Only update the state if the truncated bios have changed
+    if (JSON.stringify(newTruncatedBios) !== JSON.stringify(truncatedBios)) {
+      setTruncatedBios(newTruncatedBios);
+    }
+  }, [paginatedData, truncatedBios]);
 
   const totalPages = Math.ceil(filteredData.length / ITEMS_PER_PAGE);
 
