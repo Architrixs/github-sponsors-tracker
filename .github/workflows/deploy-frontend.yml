@@ -28,7 +28,8 @@ jobs:
         working-directory: ${{ github.workspace }}/frontend
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ${{ github.workspace }}/frontend/dist
+          publish_dir: ./frontend/dist
+          force_orphan: true
