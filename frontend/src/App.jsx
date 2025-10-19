@@ -78,23 +78,16 @@ function App() {
             return (
               <div key={sponsor.login} className={cardClassName}>
                 <div className="rank-number">{sponsor.rank}</div>
-                <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" />
+                <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" data-tooltip={sponsor.bio} />
                 <div className="sponsor-details">
                     <div className="name-location">
                         <h2><a href={sponsor.html_url} target="_blank" rel="noopener noreferrer">{sponsor.login}</a></h2>
-                        {sponsor.location && (
-                            <span className="location">
-                                📍 {sponsor.location}
-                            </span>
-                        )}
                     </div>
-                    <p 
-                      className={`bio ${truncatedBios[sponsor.login] ? 'truncated' : ''}`}
-                      data-full-bio={sponsor.bio} 
-                      data-login={sponsor.login}
-                    >
-                      {sponsor.bio}
-                    </p>
+                    {sponsor.location && (
+                        <span className="location">
+                            📍 {sponsor.location}
+                        </span>
+                    )}
                 </div>
                 <div className="sponsor-stats">
                     <div className="stat">
@@ -105,7 +98,6 @@ function App() {
                         <strong>{sponsor.sponsorships_count}</strong>
                         <span>Sponsors</span>
                     </div>
-                </div>
                 <a href={`https://github.com/sponsors/${sponsor.login}`} target="_blank" rel="noopener noreferrer" className="sponsor-button">Sponsor</a>
               </div>
             );
