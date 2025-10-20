@@ -43,3 +43,17 @@ To ensure data quality and relevance, the scraping process will apply constraint
 - The site should also display metadata from the scraping process, such as:
     - The total number of GitHub accounts scanned/processed to date.
     - The timestamp of the last update.
+  
+  new changes to be made:
+  1. Project Restructure for Multi-Page Navigation: To add an "About" page, I'll need to
+      introduce a routing library (react-router-dom) to the project. This will allow users
+      to navigate between different pages. it will decribe the project, its purpose (it was fun for me, just curious about the data), and any interesting findings.
+   2. New Components: I'll create several new components:
+       * A Header component with a "Sponsor Me" button and navigation links.
+       * A Footer component with your "Made with ❤️ by Architrixs" message and a link to your profile.
+       * An About page component to house the project write-up.
+   3. Scraper and Data Enhancements:
+       * I'll modify the scraper to add a last_updated timestamp to the data.json file.
+       * I'll add this "Last Updated" date to the footer.
+       * I'll add a section to the "About" page discussing the interesting finding that
+         "most followers doesn't mean most sponsors" and other potential data insights.

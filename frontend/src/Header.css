@@ -1,0 +1,43 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+header nav {
+  margin: 0 2rem;
+}
+
+header nav a {
+  margin: 0 1rem;
+  color: #586069;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+header a.sponsor-me-link {
+  background-color: transparent;
+  color: #0366d6;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+header a.sponsor-me-link:hover {
+  color: #005cc5;
+  text-decoration: underline;
+}
