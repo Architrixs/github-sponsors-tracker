@@ -1,252 +1,255 @@
-[
-  {
-    "login": "sindresorhus",
-    "avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
-    "html_url": "https://github.com/sindresorhus",
-    "followers": 75493,
-    "sponsorships_count": 201,
-    "bio": "Full-Time Open-Sourcerer. Focused on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.",
-    "location": null,
-    "company": null
-  },
-  {
-    "login": "antfu",
-    "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4",
-    "html_url": "https://github.com/antfu",
-    "followers": 37387,
-    "sponsorships_count": 198,
-    "bio": "A ship in harbor is safe, but that is not what ships are built for.",
-    "location": "undefined",
-    "company": "@vercel / @nuxt"
-  },
-  {
-    "login": "python",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1525981?v=4",
-    "html_url": "https://github.com/python",
-    "followers": 28036,
-    "sponsorships_count": 195,
-    "bio": "Repositories related to the Python Programming language",
-    "location": null,
-    "company": null
-  },
-  {
-    "login": "geerlingguy",
-    "avatar_url": "https://avatars.githubusercontent.com/u/481677?v=4",
-    "html_url": "https://github.com/geerlingguy",
-    "followers": 25323,
-    "sponsorships_count": 179,
-    "bio": "Father, author, developer, maker. Sometimes called \"an inflammatory enigma\". #stl #drupal #ansible #k8s #raspberrypi #crohns",
-    "location": "St. Louis, MO",
-    "company": "Midwestern Mac, LLC"
-  },
-  {
-    "login": "yyx990803",
-    "avatar_url": "https://avatars.githubusercontent.com/u/499550?v=4",
-    "html_url": "https://github.com/yyx990803",
-    "followers": 105718,
-    "sponsorships_count": 177,
-    "bio": "Founder @voidzero-dev, author of @vuejs and @vitejs. Connoisseur of sushi.",
-    "location": "Singapore",
-    "company": "VoidZero"
-  },
-  {
-    "login": "tiangolo",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1326112?v=4",
-    "html_url": "https://github.com/tiangolo",
-    "followers": 29522,
-    "sponsorships_count": 137,
-    "bio": "Creator of FastAPI, Typer, SQLModel, Asyncer, etc. \ud83d\ude80\r\nFrom \ud83c\udde8\ud83c\uddf4 in \ud83c\udde9\ud83c\uddea. \r\nOpen Source, APIs, and tools for data/ML. \ud83e\udd16 Python, TypeScript, Docker, etc.",
-    "location": "Berlin, Germany",
-    "company": null
-  },
-  {
-    "login": "tpope",
-    "avatar_url": "https://avatars.githubusercontent.com/u/378?v=4",
-    "html_url": "https://github.com/tpope",
-    "followers": 22843,
-    "sponsorships_count": 77,
-    "bio": "Vim plugin artist",
-    "location": "Brooklyn, NY",
-    "company": null
-  },
-  {
-    "login": "ReVanced",
-    "avatar_url": "https://avatars.githubusercontent.com/u/101597779?v=4",
-    "html_url": "https://github.com/ReVanced",
-    "followers": 25775,
-    "sponsorships_count": 47,
-    "bio": "Continuing the legacy of Vanced",
-    "location": "United States of America",
-    "company": null
-  },
-  {
-    "login": "mrdoob",
-    "avatar_url": "https://avatars.githubusercontent.com/u/97088?v=4",
-    "html_url": "https://github.com/mrdoob",
-    "followers": 24453,
-    "sponsorships_count": 36,
-    "bio": null,
-    "location": null,
-    "company": null
-  },
-  {
-    "login": "freeCodeCamp",
-    "avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
-    "html_url": "https://github.com/freeCodeCamp",
-    "followers": 30833,
-    "sponsorships_count": 35,
-    "bio": "Learn to code for free with millions of other people around the world ",
-    "location": "United States of America",
-    "company": null
-  },
-  {
-    "login": "codediodeio",
-    "avatar_url": "https://avatars.githubusercontent.com/u/10172199?v=4",
-    "html_url": "https://github.com/codediodeio",
-    "followers": 22909,
-    "sponsorships_count": 35,
-    "bio": "GDE. Creator of @fireship-io",
-    "location": "Phoenix, AZ",
-    "company": "Fireship LLC"
-  },
-  {
-    "login": "ThePrimeagen",
-    "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
-    "html_url": "https://github.com/ThePrimeagen",
-    "followers": 44432,
-    "sponsorships_count": 31,
-    "bio": null,
-    "location": "9th Ring, Vim",
-    "company": "CEO Of TheStartup"
-  },
-  {
-    "login": "taylorotwell",
-    "avatar_url": "https://avatars.githubusercontent.com/u/463230?v=4",
-    "html_url": "https://github.com/taylorotwell",
-    "followers": 34720,
-    "sponsorships_count": 29,
-    "bio": "Creator of @laravel.",
-    "location": "Little Rock, AR",
-    "company": "Laravel"
-  },
-  {
-    "login": "mitsuhiko",
-    "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4",
-    "html_url": "https://github.com/mitsuhiko",
-    "followers": 22872,
-    "sponsorships_count": 27,
-    "bio": "Software developer and Open Source nut. Creator of the Flask framework. Founder of @earendil-works. Other things of interest: @pallets and @getsentry",
-    "location": "Austria",
-    "company": "Earendil"
-  },
-  {
-    "login": "sdras",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2281088?v=4",
-    "html_url": "https://github.com/sdras",
-    "followers": 24601,
-    "sponsorships_count": 24,
-    "bio": "comprehension over configuration",
-    "location": "All over the place",
-    "company": "Google"
-  },
-  {
-    "login": "getify",
-    "avatar_url": "https://avatars.githubusercontent.com/u/150330?v=4",
-    "html_url": "https://github.com/getify",
-    "followers": 44853,
-    "sponsorships_count": 8,
-    "bio": "Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.",
-    "location": "Austin, TX",
-    "company": "Getify Solutions"
-  },
-  {
-    "login": "kamranahmedse",
-    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
-    "html_url": "https://github.com/kamranahmedse",
-    "followers": 38410,
-    "sponsorships_count": 7,
-    "bio": "I love building things \ud83e\uddd1\u200d\ud83d\udcbb",
-    "location": "United Kingdom",
-    "company": null
-  },
-  {
-    "login": "tj",
-    "avatar_url": "https://avatars.githubusercontent.com/u/25254?v=4",
-    "html_url": "https://github.com/tj",
-    "followers": 51406,
-    "sponsorships_count": 6,
-    "bio": null,
-    "location": null,
-    "company": "Apex"
-  },
-  {
-    "login": "antirez",
-    "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4",
-    "html_url": "https://github.com/antirez",
-    "followers": 24476,
-    "sponsorships_count": 6,
-    "bio": "Computer programmer based in Sicily, Italy. I mostly write OSS software. Born 1977. Not a puritan.",
-    "location": "Catania, Sicily, Italy",
-    "company": "Redis Labs"
-  },
-  {
-    "login": "kennethreitz",
-    "avatar_url": "https://avatars.githubusercontent.com/u/119893?v=4",
-    "html_url": "https://github.com/kennethreitz",
-    "followers": 29628,
-    "sponsorships_count": 5,
-    "bio": "I wrote Requests: HTTP for Humans and Pipenv. The only thing I really care about is user experience.",
-    "location": "Virginia, USA, Earth, Milky Way.",
-    "company": null
-  },
-  {
-    "login": "bradtraversy",
-    "avatar_url": "https://avatars.githubusercontent.com/u/5550850?v=4",
-    "html_url": "https://github.com/bradtraversy",
-    "followers": 75009,
-    "sponsorships_count": 2,
-    "bio": "Full stack web developer and online instructor, specializiing in mostly JS, but also write Python, PHP and some other stuff.",
-    "location": "Massachusetts",
-    "company": "Traversy Media"
-  },
-  {
-    "login": "lucidrains",
-    "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4",
-    "html_url": "https://github.com/lucidrains",
-    "followers": 56665,
-    "sponsorships_count": 1,
-    "bio": "Working with Attention. It's all we need",
-    "location": "San Francisco",
-    "company": null
-  },
-  {
-    "login": "kunal-kushwaha",
-    "avatar_url": "https://avatars.githubusercontent.com/u/42698533?v=4",
-    "html_url": "https://github.com/kunal-kushwaha",
-    "followers": 35258,
-    "sponsorships_count": 1,
-    "bio": "Teaching millions how to code and helping businesses scale. Senior Developer Advocate @castai. Founder @WeMakeDevs",
-    "location": "London, UK",
-    "company": "Civo"
-  },
-  {
-    "login": "adrianhajdin",
-    "avatar_url": "https://avatars.githubusercontent.com/u/24898559?v=4",
-    "html_url": "https://github.com/adrianhajdin",
-    "followers": 34993,
-    "sponsorships_count": 1,
-    "bio": "Next.js Enthusiast & Educator",
-    "location": "Croatia",
-    "company": "JavaScript Mastery"
-  },
-  {
-    "login": "iam-veeramalla",
-    "avatar_url": "https://avatars.githubusercontent.com/u/43399466?v=4",
-    "html_url": "https://github.com/iam-veeramalla",
-    "followers": 26401,
-    "sponsorships_count": 1,
-    "bio": "Keep learning, sharing and growing || Principal Software Engineer at Red Hat || Open Source Enthusiast",
-    "location": "Hyderabad, India",
-    "company": "Red Hat"
-  }
-]
+{
+  "sponsors": [
+    {
+      "login": "sindresorhus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
+      "html_url": "https://github.com/sindresorhus",
+      "followers": 75500,
+      "sponsorships_count": 200,
+      "bio": "Full-Time Open-Sourcerer. Focused on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.",
+      "location": null,
+      "company": null
+    },
+    {
+      "login": "antfu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4",
+      "html_url": "https://github.com/antfu",
+      "followers": 37394,
+      "sponsorships_count": 198,
+      "bio": "A ship in harbor is safe, but that is not what ships are built for.",
+      "location": "undefined",
+      "company": "@vercel / @nuxt"
+    },
+    {
+      "login": "python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1525981?v=4",
+      "html_url": "https://github.com/python",
+      "followers": 28048,
+      "sponsorships_count": 194,
+      "bio": "Repositories related to the Python Programming language",
+      "location": null,
+      "company": null
+    },
+    {
+      "login": "geerlingguy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/481677?v=4",
+      "html_url": "https://github.com/geerlingguy",
+      "followers": 25331,
+      "sponsorships_count": 179,
+      "bio": "Father, author, developer, maker. Sometimes called \"an inflammatory enigma\". #stl #drupal #ansible #k8s #raspberrypi #crohns",
+      "location": "St. Louis, MO",
+      "company": "Midwestern Mac, LLC"
+    },
+    {
+      "login": "yyx990803",
+      "avatar_url": "https://avatars.githubusercontent.com/u/499550?v=4",
+      "html_url": "https://github.com/yyx990803",
+      "followers": 105728,
+      "sponsorships_count": 177,
+      "bio": "Founder @voidzero-dev, author of @vuejs and @vitejs. Connoisseur of sushi.",
+      "location": "Singapore",
+      "company": "VoidZero"
+    },
+    {
+      "login": "tiangolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1326112?v=4",
+      "html_url": "https://github.com/tiangolo",
+      "followers": 29532,
+      "sponsorships_count": 138,
+      "bio": "Creator of FastAPI, Typer, SQLModel, Asyncer, etc. \ud83d\ude80\r\nFrom \ud83c\udde8\ud83c\uddf4 in \ud83c\udde9\ud83c\uddea. \r\nOpen Source, APIs, and tools for data/ML. \ud83e\udd16 Python, TypeScript, Docker, etc.",
+      "location": "Berlin, Germany",
+      "company": null
+    },
+    {
+      "login": "tpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/378?v=4",
+      "html_url": "https://github.com/tpope",
+      "followers": 22842,
+      "sponsorships_count": 77,
+      "bio": "Vim plugin artist",
+      "location": "Brooklyn, NY",
+      "company": null
+    },
+    {
+      "login": "ReVanced",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101597779?v=4",
+      "html_url": "https://github.com/ReVanced",
+      "followers": 25786,
+      "sponsorships_count": 46,
+      "bio": "Continuing the legacy of Vanced",
+      "location": "United States of America",
+      "company": null
+    },
+    {
+      "login": "mrdoob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "html_url": "https://github.com/mrdoob",
+      "followers": 24452,
+      "sponsorships_count": 36,
+      "bio": null,
+      "location": null,
+      "company": null
+    },
+    {
+      "login": "freeCodeCamp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "html_url": "https://github.com/freeCodeCamp",
+      "followers": 30841,
+      "sponsorships_count": 35,
+      "bio": "Learn to code for free with millions of other people around the world ",
+      "location": "United States of America",
+      "company": null
+    },
+    {
+      "login": "codediodeio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172199?v=4",
+      "html_url": "https://github.com/codediodeio",
+      "followers": 22911,
+      "sponsorships_count": 35,
+      "bio": "GDE. Creator of @fireship-io",
+      "location": "Phoenix, AZ",
+      "company": "Fireship LLC"
+    },
+    {
+      "login": "ThePrimeagen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4458174?v=4",
+      "html_url": "https://github.com/ThePrimeagen",
+      "followers": 44442,
+      "sponsorships_count": 31,
+      "bio": null,
+      "location": "9th Ring, Vim",
+      "company": "CEO Of TheStartup"
+    },
+    {
+      "login": "taylorotwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/463230?v=4",
+      "html_url": "https://github.com/taylorotwell",
+      "followers": 34721,
+      "sponsorships_count": 29,
+      "bio": "Creator of @laravel.",
+      "location": "Little Rock, AR",
+      "company": "Laravel"
+    },
+    {
+      "login": "mitsuhiko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4",
+      "html_url": "https://github.com/mitsuhiko",
+      "followers": 22873,
+      "sponsorships_count": 27,
+      "bio": "Software developer and Open Source nut. Creator of the Flask framework. Founder of @earendil-works. Other things of interest: @pallets and @getsentry",
+      "location": "Austria",
+      "company": "Earendil"
+    },
+    {
+      "login": "sdras",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2281088?v=4",
+      "html_url": "https://github.com/sdras",
+      "followers": 24601,
+      "sponsorships_count": 24,
+      "bio": "comprehension over configuration",
+      "location": "All over the place",
+      "company": "Google"
+    },
+    {
+      "login": "getify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150330?v=4",
+      "html_url": "https://github.com/getify",
+      "followers": 44854,
+      "sponsorships_count": 8,
+      "bio": "Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.",
+      "location": "Austin, TX",
+      "company": "Getify Solutions"
+    },
+    {
+      "login": "kamranahmedse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "html_url": "https://github.com/kamranahmedse",
+      "followers": 38410,
+      "sponsorships_count": 7,
+      "bio": "I love building things \ud83e\uddd1\u200d\ud83d\udcbb",
+      "location": "United Kingdom",
+      "company": null
+    },
+    {
+      "login": "tj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25254?v=4",
+      "html_url": "https://github.com/tj",
+      "followers": 51407,
+      "sponsorships_count": 6,
+      "bio": null,
+      "location": null,
+      "company": "Apex"
+    },
+    {
+      "login": "antirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4",
+      "html_url": "https://github.com/antirez",
+      "followers": 24481,
+      "sponsorships_count": 6,
+      "bio": "Computer programmer based in Sicily, Italy. I mostly write OSS software. Born 1977. Not a puritan.",
+      "location": "Catania, Sicily, Italy",
+      "company": "Redis Labs"
+    },
+    {
+      "login": "kennethreitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119893?v=4",
+      "html_url": "https://github.com/kennethreitz",
+      "followers": 29629,
+      "sponsorships_count": 5,
+      "bio": "I wrote Requests: HTTP for Humans and Pipenv. The only thing I really care about is user experience.",
+      "location": "Virginia, USA, Earth, Milky Way.",
+      "company": null
+    },
+    {
+      "login": "bradtraversy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5550850?v=4",
+      "html_url": "https://github.com/bradtraversy",
+      "followers": 75012,
+      "sponsorships_count": 2,
+      "bio": "Full stack web developer and online instructor, specializiing in mostly JS, but also write Python, PHP and some other stuff.",
+      "location": "Massachusetts",
+      "company": "Traversy Media"
+    },
+    {
+      "login": "lucidrains",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108653?v=4",
+      "html_url": "https://github.com/lucidrains",
+      "followers": 56680,
+      "sponsorships_count": 1,
+      "bio": "Working with Attention. It's all we need",
+      "location": "San Francisco",
+      "company": null
+    },
+    {
+      "login": "kunal-kushwaha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42698533?v=4",
+      "html_url": "https://github.com/kunal-kushwaha",
+      "followers": 35265,
+      "sponsorships_count": 1,
+      "bio": "Teaching millions how to code and helping businesses scale. Senior Developer Advocate @castai. Founder @WeMakeDevs",
+      "location": "London, UK",
+      "company": "Civo"
+    },
+    {
+      "login": "adrianhajdin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24898559?v=4",
+      "html_url": "https://github.com/adrianhajdin",
+      "followers": 35002,
+      "sponsorships_count": 1,
+      "bio": "Next.js Enthusiast & Educator",
+      "location": "Croatia",
+      "company": "JavaScript Mastery"
+    },
+    {
+      "login": "iam-veeramalla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43399466?v=4",
+      "html_url": "https://github.com/iam-veeramalla",
+      "followers": 26408,
+      "sponsorships_count": 1,
+      "bio": "Keep learning, sharing and growing || Principal Software Engineer at Red Hat || Open Source Enthusiast",
+      "location": "Hyderabad, India",
+      "company": "Red Hat"
+    }
+  ],
+  "last_updated": "2025-10-20T08:56:03.745009"
+}
