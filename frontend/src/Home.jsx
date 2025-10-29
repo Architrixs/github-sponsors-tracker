@@ -9,18 +9,22 @@ function Home({ sponsors, loading }) {
   const [currentPage, setCurrentPage] = useState(1);
   const [typeFilter, setTypeFilter] = useState('user'); // 'user', 'organization', 'all'
 
-  const filteredData = sponsors
+  // First apply type filter and re-rank
+  const typeFilteredData = sponsors
     .filter(sponsor => {
-      // Type filter
       if (typeFilter === 'user' && sponsor.type === 'organization') return false;
       if (typeFilter === 'organization' && sponsor.type !== 'organization') return false;
-      // Name filter
-      return sponsor.login.toLowerCase().includes(filter.toLowerCase());
+      return true;
     })
     .map((sponsor, index) => ({
       ...sponsor,
-      filteredRank: index + 1 // Re-rank based on filtered results
+      filteredRank: index + 1 // Re-rank based on type filter
     }));
+
+  // Then apply name filter without re-ranking
+  const filteredData = typeFilteredData.filter(sponsor => 
+    sponsor.login.toLowerCase().includes(filter.toLowerCase())
+  );
 
   const paginatedData = filteredData.slice(
     (currentPage - 1) * ITEMS_PER_PAGE,
@@ -91,9 +95,15 @@ function Home({ sponsors, loading }) {
                     )}
                 </div>
                 <div className="sponsor-stats">
+                    {sponsor.type !== 'organization' && (
+                      <div className="stat">
+                          <strong>{sponsor.followers}</strong>
+                          <span>Followers</span>
+                      </div>
+                    )}
                     <div className="stat">
-                        <strong>{sponsor.followers}</strong>
-                        <span>Followers</span>
+                        <strong>{sponsor.public_repos}</strong>
+                        <span>Repos</span>
                     </div>
                     <div className="stat">
                         <strong>{sponsor.sponsorships_count}</strong>

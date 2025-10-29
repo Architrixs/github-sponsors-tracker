@@ -28,7 +28,7 @@ div[data-name="bmc-button"] {
   left: auto !important;
   top: auto !important;
   z-index: 9999 !important;
-  transform: scale(0.65) !important;
+  transform: scale(0.7) !important;
   transform-origin: bottom right !important;
 }
 
