@@ -13,3 +13,32 @@
 .about-container p {
   margin-bottom: 1.5rem;
 }
+
+.strategy-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.strategy-card {
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+}
+
+.strategy-card h4 {
+  margin: 0 0 0.5rem 0;
+  font-weight: 500;
+}
+
+.strategy-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.strategy-card li {
+  margin: 0.25rem 0;
+}

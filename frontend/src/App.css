@@ -33,10 +33,43 @@ h1 {
 
 .filters {
   margin-bottom: 15px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.filter-chips {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.chip {
+  padding: 8px 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background-color: var(--card-background-color);
+  color: var(--text-color);
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.chip:hover {
+  background-color: #e1e4e8;
+  border-color: #d1d5da;
+}
+
+.chip.active {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
 }
 
 .filters input {
-  width: 100%;
+  flex: 1;
   padding: 8px;
   font-size: 14px;
   border: 1px solid var(--border-color);
@@ -130,6 +163,18 @@ h1 {
   text-decoration: underline;
 }
 
+.org-badge {
+  display: inline-block;
+  background-color: #6a737d;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
 .name-location {
   display: flex;
   align-items: center;
@@ -213,6 +258,15 @@ h1 {
 
 /* Responsive Styles */
 @media (max-width: 768px) {
+  .filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filter-chips {
+    justify-content: center;
+  }
+
   .sponsor-card {
     align-items: flex-start;
   }

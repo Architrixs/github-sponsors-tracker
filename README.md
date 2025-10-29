@@ -1,9 +1,39 @@
-# GitHub Sponsors Tracker
+# GitHub Top Sponsors Tracker
 
-This project tracks and displays the top sponsored users and organizations on GitHub.
+Ever wondered who the most sponsored developers on GitHub are? This project tracks and showcases the top sponsored users and organizations, with some interesting findings along the way.
+
+## What I Found
+
+After collecting data using different search strategies, here's what stood out:
+
+- **More followers ≠ more sponsors**: Developers with massive followings don't always have the most sponsors. Quality beats quantity.
+- **Sustained output wins**: People who maintain lots of projects (100+ repos) tend to attract more sponsors than those chasing popularity.
+- **Niche matters**: Focused developers with smaller, engaged communities often get better support than generalists with huge audiences.
+- **Being a GitHub Star helps, but isn't everything**: Only 4-8% of top sponsored devs are official GitHub Stars. The rest earned it through their work.
+
+The data updates weekly and you can filter by users, organizations, or view all together.
+
+## How It Works
+
+The scraper uses GitHub's API with multiple strategies to find sponsorable accounts:
+- **followers**: Popular developers (2K+ followers)
+- **repos**: Prolific creators (100+ repositories)
+- **established**: Veterans (2+ year old accounts)
+- **stars**: The celebrities (10K+ followers)
+- **active**: Balanced maintainers (solid output + moderate following)
+
+Each strategy captures different types of developers, giving a well-rounded picture of who's getting sponsored and why.
 
 ## Tech Stack
 
-- **Backend**: Python scraper running on Vercel/Railway.
-- **Frontend**: React (Vite) deployed to GitHub Pages.
-- **Data**: The scraper commits a `data.json` file to the repository, which the frontend consumes.
+- **Backend**: Python scraper using GitHub GraphQL API
+- **Frontend**: React (Vite) for the website
+- **Data**: JSON files updated weekly with per-strategy breakdowns
+
+## Check It Out
+
+Visit the live site to explore the rankings, filter by type, and see who's leading in each category.
+
+---
+
+Made with 💜 by [architrixs](https://github.com/Architrixs) • Curious about the sponsorship economy on GitHub
