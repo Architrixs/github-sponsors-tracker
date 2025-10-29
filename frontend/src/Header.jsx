@@ -16,7 +16,7 @@ const Header = () => {
         <Link to="/" onClick={() => setMenuOpen(false)}>Home</Link>
         <Link to="/about" onClick={() => setMenuOpen(false)}>About</Link>
       </nav>
-      <a href="https://github.com/sponsors/Architrixs" target="_blank" rel="noopener noreferrer" title="Go on, you know you want to!" className="sponsor-me-link">Sponsor Me</a>
+      <a href="https://github.com/sponsors/Architrixs" target="_blank" rel="noopener noreferrer" title="Go on, you know you want to!" className="sponsor-me-link">Get me on the List!</a>
     </header>
   );
 };

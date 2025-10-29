@@ -18,6 +18,20 @@ body {
   margin: 0;
 }
 
+/* Buy Me a Coffee floating button */
+#bmc-wbtn,
+.bmc-btn-container,
+div[data-name="bmc-button"] {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  left: auto !important;
+  top: auto !important;
+  z-index: 9999 !important;
+  transform: scale(0.8) !important;
+  transform-origin: bottom right !important;
+}
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
