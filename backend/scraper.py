@@ -5,6 +5,8 @@ import json
 import time
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
+import random
 
 load_dotenv()
 
@@ -13,45 +15,134 @@ API_URL = "https://api.github.com/graphql"
 REST_API_URL = "https://api.github.com"
 
 # Rate limiting configuration
-MAX_WORKERS = 8  # Parallel requests
-RATE_LIMIT_DELAY = 0.4  # Seconds between requests
+MAX_WORKERS = 8  # Parallel requests (processing only; API calls are mostly serialized)
+RATE_LIMIT_DELAY = 1  # Seconds between ancillary requests
+PAGE_FETCH_DELAY = 1.5  # Base delay between search pages to avoid secondary throttling
+MAX_PAGE_RETRIES = 3  # Retries for a single page when rate limited
+# Adaptive pacing between pages
+PAGE_DELAY_MIN = 0.8
+PAGE_DELAY_MAX = 2.0
 FETCH_TOP_REPOS = False  # Set to True to fetch popular repos (uses more API calls)
 FETCH_SPONSOR_DETAILS = False  # Set to True to fetch individual sponsor list (uses more API calls)
 
+# Ensure requests are serialized to avoid secondary rate limits when optional per-user fetches are enabled
+REQUEST_LOCK = Lock()
+
+def _calc_retry_after_seconds(resp, attempt):
+  """Determine how long to wait before retrying, using headers if available, else exponential backoff with jitter."""
+  # Prefer explicit Retry-After header
+  try:
+    ra = resp.headers.get("Retry-After")
+    if ra is not None:
+      return max(0, int(float(ra)))
+  except Exception:
+    pass
+
+  # Fall back to X-RateLimit-Reset if present
+  try:
+    reset = resp.headers.get("X-RateLimit-Reset")
+    if reset:
+      reset_epoch = int(reset)
+      now_epoch = int(time.time())
+      wait = max(0, reset_epoch - now_epoch)
+      if wait > 0:
+        return wait
+  except Exception:
+    pass
+
+  # Exponential backoff with cap, plus small jitter
+  base = min(60, 5 * (attempt + 1))  # 5s, 10s, 15s ... capped at 60s
+  return base + random.uniform(0, 0.75)
+
+
 def make_graphql_request(query, variables=None, max_retries=3):
-    """Make a GraphQL request with error handling and retry logic."""
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Content-Type": "application/json"
-    }
-    data = {"query": query}
-    if variables:
-        data["variables"] = variables
-    
-    for attempt in range(max_retries):
+  """Make a GraphQL request with error handling and retry logic."""
+  headers = {
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "Content-Type": "application/json",
+    # Being explicit helps avoid some abuse-detection heuristics
+    "Accept": "application/vnd.github+json",
+    "User-Agent": "github-sponsors-tracker/1.0 (+https://github.com/Architrixs)"
+  }
+  data = {"query": query}
+  if variables:
+    data["variables"] = variables
+
+  for attempt in range(max_retries):
+    try:
+      # Serialize outbound requests to reduce likelihood of secondary rate limits
+      with REQUEST_LOCK:
+        response = requests.post(API_URL, headers=headers, json=data, timeout=30, allow_redirects=True)
+        response.raise_for_status()
+        # If we exhausted the primary limit, wait until reset before releasing the lock
         try:
-            response = requests.post(API_URL, headers=headers, json=data, timeout=30)
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.Timeout:
-            if attempt < max_retries - 1:
-                wait_time = (attempt + 1) * 2  # 2, 4, 6 seconds
-                print(f"  ⏱️  Request timeout, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
-                time.sleep(wait_time)
-            else:
-                print(f"  ❌ Request timed out after {max_retries} attempts")
-                raise
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code in [502, 503, 504]:  # Gateway errors
-                if attempt < max_retries - 1:
-                    wait_time = (attempt + 1) * 3  # 3, 6, 9 seconds for server errors
-                    print(f"  ⏱️  Server error {e.response.status_code}, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
-                    time.sleep(wait_time)
-                else:
-                    print(f"  ❌ Server error {e.response.status_code} after {max_retries} attempts")
-                    raise
-            else:
-                raise  # Other HTTP errors (auth, rate limit, etc.) - don't retry
+          remaining = int(response.headers.get("X-RateLimit-Remaining", "1"))
+        except ValueError:
+          remaining = 1
+        if remaining == 0:
+          reset_hdr = response.headers.get("X-RateLimit-Reset")
+          if reset_hdr:
+            try:
+              reset_epoch = int(reset_hdr)
+              wait = max(0, reset_epoch - int(time.time()))
+              if wait > 0:
+                print(f"  ⏱️  Primary rate limit reached. Waiting {wait}s until reset...")
+                time.sleep(wait + random.uniform(0, 0.5))
+            except Exception:
+              # Fallback minimal wait if header malformed
+              time.sleep(60)
+      return response.json()
+    except requests.exceptions.Timeout:
+      if attempt < max_retries - 1:
+        wait_time = (attempt + 1) * 2  # 2, 4, 6 seconds
+        print(f"  ⏱️  Request timeout, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
+        time.sleep(wait_time)
+      else:
+        print(f"  ❌ Request timed out after {max_retries} attempts")
+        raise
+    except requests.exceptions.HTTPError as e:
+      status = e.response.status_code
+      # Handle secondary rate limit / abuse detection as retryable
+      if status == 403:
+        try:
+          body = e.response.json()
+        except Exception:
+          body = {}
+        message = (body.get("message") or "").lower()
+        is_rate_limited = (
+          "secondary rate limit" in message
+          or "abuse" in message
+          or "rate limit" in message
+          or (isinstance(body, dict) and any(
+            isinstance(err, dict) and (err.get("type") == "RATE_LIMITED" or "rate limit" in str(err).lower())
+            for err in (body.get("errors") or [])
+          ))
+        )
+
+        if is_rate_limited and attempt < max_retries - 1:
+          wait_time = _calc_retry_after_seconds(e.response, attempt)
+          print(f"  ⏱️  Hit rate limiting (403). Waiting {wait_time:.1f}s before retry... (attempt {attempt + 1}/{max_retries})")
+          time.sleep(wait_time)
+          continue
+
+        # Don't retry for clear auth problems
+        if "bad credentials" in message:
+          print("  ❌ Bad credentials for GitHub API. Check GITHUB_TOKEN permissions.")
+          raise
+
+        # Other 403 reasons -> do not retry
+        raise
+
+      if status in [502, 503, 504]:  # Gateway errors
+        if attempt < max_retries - 1:
+          wait_time = (attempt + 1) * 3  # 3, 6, 9 seconds for server errors
+          print(f"  ⏱️  Server error {e.response.status_code}, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
+          time.sleep(wait_time)
+        else:
+          print(f"  ❌ Server error {e.response.status_code} after {max_retries} attempts")
+          raise
+      else:
+        raise  # Other HTTP errors (auth, rate limit, etc.) - don't retry
 
 def search_sponsorable_users(cursor=None, search_type="followers"):
     """
@@ -375,7 +466,8 @@ def main():
       cursor = None
       pages_fetched = 0
       max_pages = 10  # 10 pages per strategy = up to 1000 users per strategy
-
+      current_page_delay = max(PAGE_DELAY_MIN, min(PAGE_FETCH_DELAY, PAGE_DELAY_MAX))
+      page_retry_count = 0
       while pages_fetched < max_pages:
         try:
           result = search_sponsorable_users(cursor, strategy)
@@ -388,9 +480,26 @@ def main():
           print(f"  GraphQL error: {result['errors']}")
           # Check if it's a rate limit or timeout issue
           error_msg = str(result['errors'])
-          if 'timeout' in error_msg.lower() or 'rate limit' in error_msg.lower():
-            print(f"  Waiting 10 seconds before continuing...")
-            time.sleep(10)
+          errors_list = result.get('errors') or []
+          is_rate_limited_graphql = (
+            any((isinstance(err, dict) and err.get('type') == 'RATE_LIMITED') for err in errors_list)
+            or 'secondary rate limit' in error_msg.lower()
+            or 'timeout' in error_msg.lower()
+          )
+          if is_rate_limited_graphql:
+            if page_retry_count < MAX_PAGE_RETRIES:
+              # Smaller backoff steps to keep job under 5-6 minutes while being gentle
+              backoff = min(30, 3 * (page_retry_count + 1)) + random.uniform(0, 0.5)
+              page_retry_count += 1
+              # Increase pacing slightly after a rate-limit
+              current_page_delay = min(PAGE_DELAY_MAX, max(current_page_delay, PAGE_DELAY_MIN) * 1.5)
+              print(f"  ⏱️  Likely rate-limited (GraphQL). Backing off {backoff:.1f}s (retry {page_retry_count}/{MAX_PAGE_RETRIES}), next page delay ~{current_page_delay:.2f}s")
+              time.sleep(backoff)
+              continue  # retry same page/cursor
+            else:
+              print("  ❌ Exceeded max retries for this page due to rate limits. Skipping to next strategy...")
+              break
+          # Other errors: skip this strategy's remaining pages
           break
 
         data = result.get("data", {})
@@ -435,12 +544,14 @@ def main():
 
         cursor = page_info.get("endCursor")
         pages_fetched += 1
-        time.sleep(1)  # Be nice to the API
+        # Adaptive pacing: gently decrease delay on success
+        current_page_delay = max(PAGE_DELAY_MIN, current_page_delay * 0.9)
+        time.sleep(current_page_delay + random.uniform(0, 0.25))
       
-      # Brief pause between strategies to avoid overwhelming the API
-      if strategy != strategies[-1]:  # Don't pause after the last strategy
-        print(f"  Pausing 3 seconds before next strategy...")
-        time.sleep(3)
+    # Brief pause between strategies to avoid overwhelming the API
+    if strategy != strategies[-1]:  # Don't pause after the last strategy
+      print(f"  Pausing 3 seconds before next strategy...")
+      time.sleep(3)
 
     # Sort by sponsorships count
     all_sponsors.sort(key=lambda x: x["sponsorships_count"], reverse=True)
