@@ -1,52 +1,52 @@
 {
-  "last_updated": "2025-12-29T01:28:04.049914+00:00",
+  "last_updated": "2026-01-05T01:32:53.898426+00:00",
   "strategies": {
     "followers": {
-      "total_sponsors": 267,
-      "total_sponsorships": 10347,
-      "avg_sponsors_per_user": 38.75,
-      "avg_follower_count": 7423.96,
-      "avg_conversion_rate": 0.9039,
-      "github_stars_count": 14
-    },
-    "repos": {
-      "total_sponsors": 311,
-      "total_sponsorships": 9136,
-      "avg_sponsors_per_user": 29.38,
-      "avg_follower_count": 4769.63,
-      "avg_conversion_rate": 1.1564,
-      "github_stars_count": 9
-    },
-    "established": {
-      "total_sponsors": 331,
-      "total_sponsorships": 12096,
-      "avg_sponsors_per_user": 36.54,
-      "avg_follower_count": 6228.26,
-      "avg_conversion_rate": 1.0778,
+      "total_sponsors": 265,
+      "total_sponsorships": 10248,
+      "avg_sponsors_per_user": 38.67,
+      "avg_follower_count": 7348.38,
+      "avg_conversion_rate": 0.8998,
       "github_stars_count": 13
     },
-    "stars": {
-      "total_sponsors": 45,
-      "total_sponsorships": 2609,
-      "avg_sponsors_per_user": 57.98,
-      "avg_follower_count": 23273.64,
-      "avg_conversion_rate": 0.3293,
-      "github_stars_count": 5
+    "repos": {
+      "total_sponsors": 303,
+      "total_sponsorships": 9026,
+      "avg_sponsors_per_user": 29.79,
+      "avg_follower_count": 4737.11,
+      "avg_conversion_rate": 1.1643,
+      "github_stars_count": 8
     },
-    "active": {
-      "total_sponsors": 330,
-      "total_sponsorships": 11283,
-      "avg_sponsors_per_user": 34.19,
-      "avg_follower_count": 5814.36,
-      "avg_conversion_rate": 1.0497,
+    "established": {
+      "total_sponsors": 327,
+      "total_sponsorships": 11896,
+      "avg_sponsors_per_user": 36.38,
+      "avg_follower_count": 6187.27,
+      "avg_conversion_rate": 1.0606,
       "github_stars_count": 12
     },
+    "stars": {
+      "total_sponsors": 44,
+      "total_sponsorships": 2601,
+      "avg_sponsors_per_user": 59.11,
+      "avg_follower_count": 23020.27,
+      "avg_conversion_rate": 0.3365,
+      "github_stars_count": 4
+    },
+    "active": {
+      "total_sponsors": 328,
+      "total_sponsorships": 11184,
+      "avg_sponsors_per_user": 34.1,
+      "avg_follower_count": 5735.7,
+      "avg_conversion_rate": 1.0488,
+      "github_stars_count": 11
+    },
     "organizations": {
-      "total_sponsors": 341,
-      "total_sponsorships": 17524,
-      "avg_sponsors_per_user": 51.39,
+      "total_sponsors": 340,
+      "total_sponsorships": 17409,
+      "avg_sponsors_per_user": 51.2,
       "avg_follower_count": 0.0,
-      "avg_conversion_rate": 5139.0029,
+      "avg_conversion_rate": 5120.2941,
       "github_stars_count": 0
     }
   }
