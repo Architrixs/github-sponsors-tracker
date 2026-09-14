@@ -17,14 +17,17 @@
       "followers": 0,
       "following": 0,
       "public_repos": 26,
-      "sponsorships_count": 6386,
+      "sponsorships_count": 6379,
       "sponsoring_count": 0,
-      "sponsors_total": 6386,
+      "sponsors_total": 6379,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 638600.0,
-      "engagement_score": 638.86
+      "sponsor_conversion_rate": 637900.0,
+      "engagement_score": 638.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "neovim",
@@ -49,7 +52,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 94700.0,
-      "engagement_score": 95.0
+      "engagement_score": 95.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Homebrew",
@@ -67,14 +73,17 @@
       "followers": 0,
       "following": 0,
       "public_repos": 29,
-      "sponsorships_count": 668,
+      "sponsorships_count": 666,
       "sponsoring_count": 0,
-      "sponsors_total": 668,
+      "sponsors_total": 666,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 66800.0,
-      "engagement_score": 67.09
+      "sponsor_conversion_rate": 66600.0,
+      "engagement_score": 66.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Notifiarr",
@@ -99,7 +108,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 50400.0,
-      "engagement_score": 50.64
+      "engagement_score": 50.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "debridmediamanager",
@@ -124,7 +136,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 33600.0,
-      "engagement_score": 33.77
+      "engagement_score": 33.77,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "coollabsio",
@@ -142,14 +157,17 @@
       "followers": 0,
       "following": 0,
       "public_repos": 44,
-      "sponsorships_count": 284,
+      "sponsorships_count": 283,
       "sponsoring_count": 0,
-      "sponsors_total": 284,
+      "sponsors_total": 283,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 28400.0,
-      "engagement_score": 28.84
+      "sponsor_conversion_rate": 28300.0,
+      "engagement_score": 28.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "servo",
@@ -174,7 +192,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 26300.0,
-      "engagement_score": 28.23
+      "engagement_score": 28.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "elementary",
@@ -199,7 +220,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 23100.0,
-      "engagement_score": 24.61
+      "engagement_score": 24.61,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "KDE",
@@ -224,7 +248,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 21900.0,
-      "engagement_score": 34.04
+      "engagement_score": 34.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mastodon",
@@ -249,7 +276,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 21600.0,
-      "engagement_score": 22.11
+      "engagement_score": 22.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pi-hole",
@@ -274,7 +304,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 21400.0,
-      "engagement_score": 21.63
+      "engagement_score": 21.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ddev",
@@ -299,7 +332,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 21400.0,
-      "engagement_score": 22.54
+      "engagement_score": 22.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ziglang",
@@ -324,7 +360,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 20900.0,
-      "engagement_score": 21.17
+      "engagement_score": 21.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hachyderm",
@@ -349,7 +388,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 19700.0,
-      "engagement_score": 19.83
+      "engagement_score": 19.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "python",
@@ -374,7 +416,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 16500.0,
-      "engagement_score": 17.46
+      "engagement_score": 17.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "django",
@@ -399,7 +444,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 14000.0,
-      "engagement_score": 14.31
+      "engagement_score": 14.31,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "syncthing",
@@ -424,7 +472,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 13300.0,
-      "engagement_score": 13.53
+      "engagement_score": 13.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "FreeCAD",
@@ -449,7 +500,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 12500.0,
-      "engagement_score": 13.21
+      "engagement_score": 13.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AsahiLinux",
@@ -474,7 +528,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 11900.0,
-      "engagement_score": 12.32
+      "engagement_score": 12.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "typst",
@@ -499,7 +556,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 11100.0,
-      "engagement_score": 11.45
+      "engagement_score": 11.45,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tokio-rs",
@@ -524,7 +584,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 11000.0,
-      "engagement_score": 11.48
+      "engagement_score": 11.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "meshcore-dev",
@@ -549,7 +612,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 10400.0,
-      "engagement_score": 10.51
+      "engagement_score": 10.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "stalwartlabs",
@@ -574,7 +640,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 9800.0,
-      "engagement_score": 10.08
+      "engagement_score": 10.08,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "JuliaLang",
@@ -599,7 +668,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 9000.0,
-      "engagement_score": 9.66
+      "engagement_score": 9.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "openclaw",
@@ -624,7 +696,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 8800.0,
-      "engagement_score": 9.71
+      "engagement_score": 9.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "roots",
@@ -649,7 +724,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 8700.0,
-      "engagement_score": 9.44
+      "engagement_score": 9.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "NixOS",
@@ -674,7 +752,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7800.0,
-      "engagement_score": 8.73
+      "engagement_score": 8.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Gentleman-Programming",
@@ -699,7 +780,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7800.0,
-      "engagement_score": 8.67
+      "engagement_score": 8.67,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "miraheze",
@@ -716,7 +800,7 @@
       "is_github_star": false,
       "followers": 0,
       "following": 0,
-      "public_repos": 50,
+      "public_repos": 51,
       "sponsorships_count": 77,
       "sponsoring_count": 0,
       "sponsors_total": 77,
@@ -724,32 +808,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7700.0,
-      "engagement_score": 8.2
-    },
-    {
-      "login": "bitfireAT",
-      "type": "organization",
-      "name": "bitfire web engineering",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8394049?v=4",
-      "html_url": "https://github.com/bitfireAT",
-      "bio": "Company behind DAVx\u2075 and other things",
-      "location": "Austria",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://www.bitfire.at",
-      "created_at": "2014-08-08T10:45:10Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 18,
-      "sponsorships_count": 76,
-      "sponsoring_count": 0,
-      "sponsors_total": 76,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 7600.0,
-      "engagement_score": 7.78
+      "engagement_score": 8.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "desec-io",
@@ -774,7 +836,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7500.0,
-      "engagement_score": 7.78
+      "engagement_score": 7.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "bitfireAT",
+      "type": "organization",
+      "name": "bitfire web engineering",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8394049?v=4",
+      "html_url": "https://github.com/bitfireAT",
+      "bio": "Company behind DAVx\u2075 and other things",
+      "location": "Austria",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://www.bitfire.at",
+      "created_at": "2014-08-08T10:45:10Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 18,
+      "sponsorships_count": 75,
+      "sponsoring_count": 0,
+      "sponsors_total": 75,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 7500.0,
+      "engagement_score": 7.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "accrescent",
@@ -799,7 +892,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7400.0,
-      "engagement_score": 7.57
+      "engagement_score": 7.57,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "drizzle-team",
@@ -824,7 +920,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7100.0,
-      "engagement_score": 7.55
+      "engagement_score": 7.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "composer",
@@ -849,7 +948,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7100.0,
-      "engagement_score": 7.31
+      "engagement_score": 7.31,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "organicmaps",
@@ -874,7 +976,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 7000.0,
-      "engagement_score": 7.36
+      "engagement_score": 7.36,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "curl",
@@ -899,7 +1004,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6700.0,
-      "engagement_score": 6.95
+      "engagement_score": 6.95,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zed-industries",
@@ -924,7 +1032,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6600.0,
-      "engagement_score": 7.89
+      "engagement_score": 7.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "numfocus",
@@ -949,7 +1060,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6500.0,
-      "engagement_score": 7.15
+      "engagement_score": 7.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bigskysoftware",
@@ -974,7 +1088,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6400.0,
-      "engagement_score": 6.71
+      "engagement_score": 6.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "eslint",
@@ -999,7 +1116,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6300.0,
-      "engagement_score": 6.65
+      "engagement_score": 6.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "photoprism",
@@ -1024,7 +1144,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6200.0,
-      "engagement_score": 6.43
+      "engagement_score": 6.43,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rustfoundation",
@@ -1049,7 +1172,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6200.0,
-      "engagement_score": 6.33
+      "engagement_score": 6.33,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "haiku",
@@ -1074,7 +1200,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 6000.0,
-      "engagement_score": 6.3
+      "engagement_score": 6.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "FossifyOrg",
@@ -1099,7 +1228,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5800.0,
-      "engagement_score": 6.1
+      "engagement_score": 6.1,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "micropython",
@@ -1124,7 +1256,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5700.0,
-      "engagement_score": 5.9
+      "engagement_score": 5.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "atuinsh",
@@ -1149,32 +1284,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5700.0,
-      "engagement_score": 5.93
-    },
-    {
-      "login": "exercism",
-      "type": "organization",
-      "name": "Exercism",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5624255?v=4",
-      "html_url": "https://github.com/exercism",
-      "bio": "",
-      "location": null,
-      "company": null,
-      "twitter_username": "exercism_io",
-      "website_url": "https://exercism.io",
-      "created_at": "2013-10-06T19:36:08Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 436,
-      "sponsorships_count": 56,
-      "sponsoring_count": 0,
-      "sponsors_total": 56,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 5600.0,
-      "engagement_score": 9.96
+      "engagement_score": 5.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bottlesdevs",
@@ -1199,7 +1312,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5600.0,
-      "engagement_score": 6.19
+      "engagement_score": 6.19,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "exercism",
+      "type": "organization",
+      "name": "Exercism",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5624255?v=4",
+      "html_url": "https://github.com/exercism",
+      "bio": "",
+      "location": null,
+      "company": null,
+      "twitter_username": "exercism_io",
+      "website_url": "https://exercism.io",
+      "created_at": "2013-10-06T19:36:08Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 436,
+      "sponsorships_count": 55,
+      "sponsoring_count": 0,
+      "sponsors_total": 55,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 5500.0,
+      "engagement_score": 9.86,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "odin-lang",
@@ -1224,7 +1368,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5400.0,
-      "engagement_score": 5.51
+      "engagement_score": 5.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "MonoGame",
@@ -1249,7 +1396,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5200.0,
-      "engagement_score": 5.71
+      "engagement_score": 5.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "roc-lang",
@@ -1274,7 +1424,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5200.0,
-      "engagement_score": 5.46
+      "engagement_score": 5.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nuxt",
@@ -1299,7 +1452,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5100.0,
-      "engagement_score": 5.75
+      "engagement_score": 5.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "vitejs",
@@ -1324,7 +1480,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5100.0,
-      "engagement_score": 5.42
+      "engagement_score": 5.42,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zen-browser",
@@ -1349,7 +1508,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5000.0,
-      "engagement_score": 5.18
+      "engagement_score": 5.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jsdelivr",
@@ -1374,7 +1536,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5000.0,
-      "engagement_score": 5.48
+      "engagement_score": 5.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nodejs",
@@ -1399,7 +1564,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4700.0,
-      "engagement_score": 7.01
+      "engagement_score": 7.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "PaperMC",
@@ -1424,7 +1592,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4700.0,
-      "engagement_score": 5.37
+      "engagement_score": 5.37,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "GothenburgBitFactory",
@@ -1449,7 +1620,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4600.0,
-      "engagement_score": 4.92
+      "engagement_score": 4.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "archlinux",
@@ -1474,7 +1648,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4500.0,
-      "engagement_score": 5.0
+      "engagement_score": 5.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "RaspAP",
@@ -1499,7 +1676,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4300.0,
-      "engagement_score": 4.44
+      "engagement_score": 4.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "linuxserver",
@@ -1524,7 +1704,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4200.0,
-      "engagement_score": 7.39
+      "engagement_score": 7.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "gleam-lang",
@@ -1549,7 +1732,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4200.0,
-      "engagement_score": 4.73
+      "engagement_score": 4.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "prettier",
@@ -1574,7 +1760,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4100.0,
-      "engagement_score": 4.56
+      "engagement_score": 4.56,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "plone",
@@ -1599,7 +1788,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4000.0,
-      "engagement_score": 8.27
+      "engagement_score": 8.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "golangci",
@@ -1624,7 +1816,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4000.0,
-      "engagement_score": 4.68
+      "engagement_score": 4.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pnpm",
@@ -1649,7 +1844,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3900.0,
-      "engagement_score": 5.08
+      "engagement_score": 5.08,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "biomejs",
@@ -1674,7 +1872,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3800.0,
-      "engagement_score": 4.0
+      "engagement_score": 4.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "babel",
@@ -1699,7 +1900,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3700.0,
-      "engagement_score": 4.33
+      "engagement_score": 4.33,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ReVanced",
@@ -1724,7 +1928,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3600.0,
-      "engagement_score": 4.07
+      "engagement_score": 4.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zulip",
@@ -1749,7 +1956,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3600.0,
-      "engagement_score": 4.28
+      "engagement_score": 4.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "PCSX2",
@@ -1774,7 +1984,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3600.0,
-      "engagement_score": 3.79
+      "engagement_score": 3.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tauri-apps",
@@ -1799,7 +2012,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3500.0,
-      "engagement_score": 4.62
+      "engagement_score": 4.62,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ImageMagick",
@@ -1824,7 +2040,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3500.0,
-      "engagement_score": 4.23
+      "engagement_score": 4.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "phpstan",
@@ -1849,7 +2068,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3500.0,
-      "engagement_score": 3.75
+      "engagement_score": 3.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "vapor",
@@ -1874,7 +2096,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3400.0,
-      "engagement_score": 4.18
+      "engagement_score": 4.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "meshtastic",
@@ -1899,7 +2124,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3300.0,
-      "engagement_score": 4.75
+      "engagement_score": 4.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "maplibre",
@@ -1924,7 +2152,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3300.0,
-      "engagement_score": 3.88
+      "engagement_score": 3.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AzuraCast",
@@ -1949,7 +2180,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3200.0,
-      "engagement_score": 3.51
+      "engagement_score": 3.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "silverbulletmd",
@@ -1974,7 +2208,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3200.0,
-      "engagement_score": 3.36
+      "engagement_score": 3.36,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "LycheeOrg",
@@ -1999,7 +2236,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3200.0,
-      "engagement_score": 3.5
+      "engagement_score": 3.5,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "f-droid",
@@ -2024,7 +2264,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3100.0,
-      "engagement_score": 3.24
+      "engagement_score": 3.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zigtools",
@@ -2049,7 +2292,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3100.0,
-      "engagement_score": 3.34
+      "engagement_score": 3.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pallets",
@@ -2074,7 +2320,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3000.0,
-      "engagement_score": 3.17
+      "engagement_score": 3.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "encode",
@@ -2099,7 +2348,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3000.0,
-      "engagement_score": 3.15
+      "engagement_score": 3.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tcgdex",
@@ -2124,7 +2376,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3000.0,
-      "engagement_score": 3.16
+      "engagement_score": 3.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "freeCodeCamp",
@@ -2149,7 +2404,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 5.32
+      "engagement_score": 5.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cryptomator",
@@ -2174,32 +2432,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 3.41
-    },
-    {
-      "login": "OSGeo",
-      "type": "organization",
-      "name": "Open Source Geospatial Foundation",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1058467?v=4",
-      "html_url": "https://github.com/OSGeo",
-      "bio": "Empower everyone with open source geospatial",
-      "location": "United States of America",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://www.osgeo.org",
-      "created_at": "2011-09-17T16:36:47Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 44,
-      "sponsorships_count": 29,
-      "sponsoring_count": 0,
-      "sponsors_total": 29,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 3.34
+      "engagement_score": 3.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "LizardByte",
@@ -2224,7 +2460,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 3.53
+      "engagement_score": 3.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ueberdosis",
@@ -2249,7 +2488,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 3.3
+      "engagement_score": 3.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rust-analyzer",
@@ -2274,7 +2516,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2900.0,
-      "engagement_score": 3.14
+      "engagement_score": 3.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "OCA",
@@ -2299,7 +2544,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2800.0,
-      "engagement_score": 5.46
+      "engagement_score": 5.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "outline",
@@ -2324,7 +2572,66 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2800.0,
-      "engagement_score": 3.0
+      "engagement_score": 3.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "OSGeo",
+      "type": "organization",
+      "name": "Open Source Geospatial Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1058467?v=4",
+      "html_url": "https://github.com/OSGeo",
+      "bio": "Empower everyone with open source geospatial",
+      "location": "United States of America",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://www.osgeo.org",
+      "created_at": "2011-09-17T16:36:47Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 44,
+      "sponsorships_count": 28,
+      "sponsoring_count": 0,
+      "sponsors_total": 28,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 2800.0,
+      "engagement_score": 3.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "unifiedjs",
+      "type": "organization",
+      "name": "unified",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21332676?v=4",
+      "html_url": "https://github.com/unifiedjs",
+      "bio": "content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!",
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://unifiedjs.com",
+      "created_at": "2016-08-30T08:47:00Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 22,
+      "sponsorships_count": 28,
+      "sponsoring_count": 0,
+      "sponsors_total": 28,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 2800.0,
+      "engagement_score": 3.02,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "amidaware",
@@ -2349,7 +2656,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2800.0,
-      "engagement_score": 2.91
+      "engagement_score": 2.91,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "termux",
@@ -2374,7 +2684,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 3.33
+      "engagement_score": 3.33,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "withastro",
@@ -2399,7 +2712,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 3.29
+      "engagement_score": 3.29,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "armbian",
@@ -2424,7 +2740,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 3.32
+      "engagement_score": 3.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cloudposse",
@@ -2449,7 +2768,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 5.15
+      "engagement_score": 5.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "openssl",
@@ -2474,7 +2796,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 2.9
+      "engagement_score": 2.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "plantuml",
@@ -2499,7 +2824,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 3.18
+      "engagement_score": 3.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rclone",
@@ -2524,32 +2852,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 2.96
-    },
-    {
-      "login": "unifiedjs",
-      "type": "organization",
-      "name": "unified",
-      "avatar_url": "https://avatars.githubusercontent.com/u/21332676?v=4",
-      "html_url": "https://github.com/unifiedjs",
-      "bio": "content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!",
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://unifiedjs.com",
-      "created_at": "2016-08-30T08:47:00Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 22,
-      "sponsorships_count": 27,
-      "sponsoring_count": 0,
-      "sponsors_total": 27,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 2.92
+      "engagement_score": 2.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "devlooped",
@@ -2574,7 +2880,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2700.0,
-      "engagement_score": 3.84
+      "engagement_score": 3.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AvaloniaUI",
@@ -2599,7 +2908,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2600.0,
-      "engagement_score": 3.23
+      "engagement_score": 3.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "actualbudget",
@@ -2624,7 +2936,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2600.0,
-      "engagement_score": 2.83
+      "engagement_score": 2.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dimforge",
@@ -2649,7 +2964,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2600.0,
-      "engagement_score": 2.97
+      "engagement_score": 2.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "BlueBubblesApp",
@@ -2674,7 +2992,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2600.0,
-      "engagement_score": 3.03
+      "engagement_score": 3.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "catppuccin",
@@ -2699,7 +3020,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2500.0,
-      "engagement_score": 6.12
+      "engagement_score": 6.12,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "spatie",
@@ -2724,7 +3048,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2500.0,
-      "engagement_score": 7.79
+      "engagement_score": 7.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "plausible",
@@ -2749,7 +3076,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2500.0,
-      "engagement_score": 2.71
+      "engagement_score": 2.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nvaccess",
@@ -2774,7 +3104,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2500.0,
-      "engagement_score": 2.86
+      "engagement_score": 2.86,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "simplex-chat",
@@ -2799,7 +3132,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2400.0,
-      "engagement_score": 3.01
+      "engagement_score": 3.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ruffle-rs",
@@ -2824,7 +3160,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2400.0,
-      "engagement_score": 2.65
+      "engagement_score": 2.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Virtual-Coffee",
@@ -2849,7 +3188,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2400.0,
-      "engagement_score": 2.57
+      "engagement_score": 2.57,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lando",
@@ -2874,7 +3216,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2400.0,
-      "engagement_score": 3.11
+      "engagement_score": 3.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "RocketChat",
@@ -2899,7 +3244,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 5.63
+      "engagement_score": 5.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pypa",
@@ -2924,7 +3272,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 2.89
+      "engagement_score": 2.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ppy",
@@ -2949,7 +3300,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 2.83
+      "engagement_score": 2.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "skiptools",
@@ -2974,7 +3328,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 3.24
+      "engagement_score": 3.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "misskey-dev",
@@ -2999,7 +3356,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 2.69
+      "engagement_score": 2.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Vets-Who-Code",
@@ -3024,7 +3384,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2300.0,
-      "engagement_score": 2.85
+      "engagement_score": 2.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ente",
@@ -3049,7 +3412,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2200.0,
-      "engagement_score": 2.97
+      "engagement_score": 2.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "openemr",
@@ -3074,7 +3440,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2200.0,
-      "engagement_score": 2.6
+      "engagement_score": 2.6,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "supabase",
@@ -3099,32 +3468,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2100.0,
-      "engagement_score": 3.79
-    },
-    {
-      "login": "vllm-project",
-      "type": "organization",
-      "name": "vLLM",
-      "avatar_url": "https://avatars.githubusercontent.com/u/136984999?v=4",
-      "html_url": "https://github.com/vllm-project",
-      "bio": "",
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": null,
-      "created_at": "2023-06-18T14:54:57Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 49,
-      "sponsorships_count": 21,
-      "sponsoring_count": 0,
-      "sponsors_total": 21,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 2100.0,
-      "engagement_score": 2.59
+      "engagement_score": 3.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "anomalyco",
@@ -3149,7 +3496,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.81
+      "engagement_score": 2.81,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "vllm-project",
+      "type": "organization",
+      "name": "vLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136984999?v=4",
+      "html_url": "https://github.com/vllm-project",
+      "bio": "",
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": null,
+      "created_at": "2023-06-18T14:54:57Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 49,
+      "sponsorships_count": 20,
+      "sponsoring_count": 0,
+      "sponsors_total": 20,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 2000.0,
+      "engagement_score": 2.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AlmaLinux",
@@ -3174,7 +3552,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.97
+      "engagement_score": 2.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "wevm",
@@ -3199,7 +3580,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.44
+      "engagement_score": 2.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "knurling-rs",
@@ -3224,7 +3608,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.22
+      "engagement_score": 2.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zauberzeug",
@@ -3249,7 +3636,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.73
+      "engagement_score": 2.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hanami",
@@ -3274,7 +3664,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.35
+      "engagement_score": 2.35,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Ablaze-MIRAI",
@@ -3299,7 +3692,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.54
+      "engagement_score": 2.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "subsurface",
@@ -3324,7 +3720,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2000.0,
-      "engagement_score": 2.11
+      "engagement_score": 2.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "psf",
@@ -3349,7 +3748,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1900.0,
-      "engagement_score": 2.32
+      "engagement_score": 2.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "capawesome-team",
@@ -3374,7 +3776,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1900.0,
-      "engagement_score": 2.65
+      "engagement_score": 2.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "open-meteo",
@@ -3399,7 +3804,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1900.0,
-      "engagement_score": 2.11
+      "engagement_score": 2.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "borgbackup",
@@ -3424,7 +3832,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1900.0,
-      "engagement_score": 2.01
+      "engagement_score": 2.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "emacs-lsp",
@@ -3449,7 +3860,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1900.0,
-      "engagement_score": 2.17
+      "engagement_score": 2.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sveltejs",
@@ -3474,7 +3888,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.68
+      "engagement_score": 2.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nix-community",
@@ -3499,7 +3916,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 3.97
+      "engagement_score": 3.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "directus",
@@ -3524,7 +3944,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.06
+      "engagement_score": 2.06,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "xyflow",
@@ -3549,7 +3972,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.04
+      "engagement_score": 2.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "music-assistant",
@@ -3574,7 +4000,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.24
+      "engagement_score": 2.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "metabrainz",
@@ -3599,7 +4028,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 3.75
+      "engagement_score": 3.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mswjs",
@@ -3624,7 +4056,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.05
+      "engagement_score": 2.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "iina",
@@ -3649,7 +4084,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 1.97
+      "engagement_score": 1.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "racket",
@@ -3674,32 +4112,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 3.09
-    },
-    {
-      "login": "SixLabors",
-      "type": "organization",
-      "name": "Six Labors",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25224152?v=4",
-      "html_url": "https://github.com/SixLabors",
-      "bio": "Cross platform, open source, graphics processing libraries for .NET.",
-      "location": "Australia",
-      "company": null,
-      "twitter_username": "SixLabors",
-      "website_url": "https://sixlabors.com",
-      "created_at": "2017-01-19T12:47:45Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 26,
-      "sponsorships_count": 18,
-      "sponsoring_count": 0,
-      "sponsors_total": 18,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 2.06
+      "engagement_score": 3.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "voxpupuli",
@@ -3724,7 +4140,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1800.0,
-      "engagement_score": 5.72
+      "engagement_score": 5.72,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "DioxusLabs",
@@ -3749,7 +4168,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 2.32
+      "engagement_score": 2.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "livewire",
@@ -3774,7 +4196,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 1.89
+      "engagement_score": 1.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fosrl",
@@ -3799,7 +4224,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 1.9
+      "engagement_score": 1.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "SixLabors",
+      "type": "organization",
+      "name": "Six Labors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25224152?v=4",
+      "html_url": "https://github.com/SixLabors",
+      "bio": "Cross platform, open source, graphics processing libraries for .NET.",
+      "location": "Australia",
+      "company": null,
+      "twitter_username": "SixLabors",
+      "website_url": "https://sixlabors.com",
+      "created_at": "2017-01-19T12:47:45Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 26,
+      "sponsorships_count": 17,
+      "sponsoring_count": 0,
+      "sponsors_total": 17,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 1700.0,
+      "engagement_score": 1.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "phalcon",
@@ -3824,7 +4280,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 2.4
+      "engagement_score": 2.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "probe-rs",
@@ -3849,7 +4308,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 2.08
+      "engagement_score": 2.08,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "positron-solutions",
@@ -3874,7 +4336,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1700.0,
-      "engagement_score": 1.9
+      "engagement_score": 1.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "opencv",
@@ -3899,7 +4364,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.78
+      "engagement_score": 1.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Leaflet",
@@ -3924,7 +4392,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.76
+      "engagement_score": 1.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Heroic-Games-Launcher",
@@ -3949,7 +4420,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.75
+      "engagement_score": 1.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "NLnetLabs",
@@ -3974,7 +4448,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 2.78
+      "engagement_score": 2.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "compiler-explorer",
@@ -3999,7 +4476,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 2.16
+      "engagement_score": 2.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mailcow",
@@ -4024,7 +4504,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.72
+      "engagement_score": 1.72,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "c3lang",
@@ -4049,7 +4532,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.78
+      "engagement_score": 1.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "openscad",
@@ -4074,7 +4560,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 2.02
+      "engagement_score": 2.02,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "napi-rs",
@@ -4099,7 +4588,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 1.78
+      "engagement_score": 1.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SWI-Prolog",
@@ -4124,7 +4616,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1600.0,
-      "engagement_score": 2.53
+      "engagement_score": 2.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pmndrs",
@@ -4149,7 +4644,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 2.51
+      "engagement_score": 2.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "uutils",
@@ -4174,7 +4672,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 1.79
+      "engagement_score": 1.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ratatui",
@@ -4199,7 +4700,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 1.74
+      "engagement_score": 1.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AstroNvim",
@@ -4224,7 +4728,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 1.64
+      "engagement_score": 1.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "doctrine",
@@ -4249,7 +4756,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 2.27
+      "engagement_score": 2.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "xunit",
@@ -4274,7 +4784,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 1.69
+      "engagement_score": 1.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "calagopus",
@@ -4299,32 +4812,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1500.0,
-      "engagement_score": 1.7
-    },
-    {
-      "login": "processing",
-      "type": "organization",
-      "name": "Processing Foundation",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1617169?v=4",
-      "html_url": "https://github.com/processing",
-      "bio": "We create platforms to promote software literacy within the visual arts, and visual literacy within technology-related fields.",
-      "location": "Boston, New York, Los Angeles, Worldwide",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://processingfoundation.org/",
-      "created_at": "2012-04-06T00:27:35Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 81,
-      "sponsorships_count": 14,
-      "sponsoring_count": 0,
-      "sponsors_total": 14,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 2.21
+      "engagement_score": 1.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "utmapp",
@@ -4349,7 +4840,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 1.83
+      "engagement_score": 1.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sagemath",
@@ -4374,7 +4868,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 2.29
+      "engagement_score": 2.29,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "11ty",
@@ -4399,7 +4896,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 2.14
+      "engagement_score": 2.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fyne-io",
@@ -4424,7 +4924,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 1.84
+      "engagement_score": 1.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "emberjs",
@@ -4449,7 +4952,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 2.02
+      "engagement_score": 2.02,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Excel-DNA",
@@ -4474,7 +4980,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 1.63
+      "engagement_score": 1.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "FyraLabs",
@@ -4499,7 +5008,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 2.49
+      "engagement_score": 2.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "vivliostyle",
@@ -4524,7 +5036,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1400.0,
-      "engagement_score": 1.69
+      "engagement_score": 1.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "CodingTrain",
@@ -4549,7 +5064,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 2.39
+      "engagement_score": 2.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SeleniumHQ",
@@ -4574,7 +5092,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.53
+      "engagement_score": 1.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "processing",
+      "type": "organization",
+      "name": "Processing Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1617169?v=4",
+      "html_url": "https://github.com/processing",
+      "bio": "We create platforms to promote software literacy within the visual arts, and visual literacy within technology-related fields.",
+      "location": "Boston, New York, Los Angeles, Worldwide",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://processingfoundation.org/",
+      "created_at": "2012-04-06T00:27:35Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 81,
+      "sponsorships_count": 13,
+      "sponsoring_count": 0,
+      "sponsors_total": 13,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 1300.0,
+      "engagement_score": 2.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "testcontainers",
@@ -4599,7 +5148,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.87
+      "engagement_score": 1.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fastify",
@@ -4624,7 +5176,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 2.7
+      "engagement_score": 2.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "better-auth",
@@ -4649,7 +5204,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.46
+      "engagement_score": 1.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ActivityWatch",
@@ -4674,7 +5232,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.9
+      "engagement_score": 1.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "gristlabs",
@@ -4699,7 +5260,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.85
+      "engagement_score": 1.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "MobiFlight",
@@ -4724,7 +5288,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.49
+      "engagement_score": 1.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "inventree",
@@ -4749,7 +5316,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.52
+      "engagement_score": 1.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "clap-rs",
@@ -4774,7 +5344,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1300.0,
-      "engagement_score": 1.44
+      "engagement_score": 1.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pydantic",
@@ -4799,7 +5372,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 2.05
+      "engagement_score": 2.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "matplotlib",
@@ -4824,7 +5400,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.74
+      "engagement_score": 1.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "discordjs",
@@ -4849,7 +5428,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.53
+      "engagement_score": 1.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "netbirdio",
@@ -4874,7 +5456,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.77
+      "engagement_score": 1.77,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "preactjs",
@@ -4899,7 +5484,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.59
+      "engagement_score": 1.59,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "react-navigation",
@@ -4924,7 +5512,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.49
+      "engagement_score": 1.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "stashapp",
@@ -4949,7 +5540,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.34
+      "engagement_score": 1.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pdm-project",
@@ -4974,7 +5568,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.41
+      "engagement_score": 1.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tqdm",
@@ -4999,7 +5596,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1200.0,
-      "engagement_score": 1.4
+      "engagement_score": 1.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tree-sitter",
@@ -5024,7 +5624,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.66
+      "engagement_score": 1.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "opnsense",
@@ -5049,57 +5652,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.32
-    },
-    {
-      "login": "Vanilla-OS",
-      "type": "organization",
-      "name": "Vanilla OS",
-      "avatar_url": "https://avatars.githubusercontent.com/u/112941747?v=4",
-      "html_url": "https://github.com/Vanilla-OS",
-      "bio": "Taste the GNOME Vanilla experience on Debian with some spice.",
-      "location": null,
-      "company": null,
-      "twitter_username": "VanillaOSLinux",
-      "website_url": "https://vanillaos.org",
-      "created_at": "2022-09-06T10:01:08Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 116,
-      "sponsorships_count": 11,
-      "sponsoring_count": 0,
-      "sponsors_total": 11,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 2.26
-    },
-    {
-      "login": "thunderbird",
-      "type": "organization",
-      "name": "Thunderbird",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15187237?v=4",
-      "html_url": "https://github.com/thunderbird",
-      "bio": "",
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://thunderbird.net",
-      "created_at": "2015-10-19T00:40:04Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 144,
-      "sponsorships_count": 11,
-      "sponsoring_count": 0,
-      "sponsors_total": 11,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 2.54
+      "engagement_score": 1.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "qgis",
@@ -5124,7 +5680,66 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.82
+      "engagement_score": 1.82,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "Vanilla-OS",
+      "type": "organization",
+      "name": "Vanilla OS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112941747?v=4",
+      "html_url": "https://github.com/Vanilla-OS",
+      "bio": "Taste the GNOME Vanilla experience on Debian with some spice.",
+      "location": null,
+      "company": null,
+      "twitter_username": "VanillaOSLinux",
+      "website_url": "https://vanillaos.org",
+      "created_at": "2022-09-06T10:01:08Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 116,
+      "sponsorships_count": 11,
+      "sponsoring_count": 0,
+      "sponsors_total": 11,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 1100.0,
+      "engagement_score": 2.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "thunderbird",
+      "type": "organization",
+      "name": "Thunderbird",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15187237?v=4",
+      "html_url": "https://github.com/thunderbird",
+      "bio": "",
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://thunderbird.net",
+      "created_at": "2015-10-19T00:40:04Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 144,
+      "sponsorships_count": 11,
+      "sponsoring_count": 0,
+      "sponsors_total": 11,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 1100.0,
+      "engagement_score": 2.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "privacyguides",
@@ -5149,7 +5764,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.3
+      "engagement_score": 1.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pytest-dev",
@@ -5174,7 +5792,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.88
+      "engagement_score": 1.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ostris",
@@ -5199,7 +5820,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.26
+      "engagement_score": 1.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "defold",
@@ -5224,7 +5848,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 2.7
+      "engagement_score": 2.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pybricks",
@@ -5249,7 +5876,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.54
+      "engagement_score": 1.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "loro-dev",
@@ -5274,7 +5904,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.4
+      "engagement_score": 1.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "readest",
@@ -5299,7 +5932,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.23
+      "engagement_score": 1.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "chirpstack",
@@ -5324,7 +5960,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.31
+      "engagement_score": 1.31,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "strawberry-graphql",
@@ -5349,7 +5988,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1100.0,
-      "engagement_score": 1.35
+      "engagement_score": 1.35,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "scikit-learn",
@@ -5374,7 +6016,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.17
+      "engagement_score": 1.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "opencloud-eu",
@@ -5399,7 +6044,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.52
+      "engagement_score": 1.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "libretro",
@@ -5424,7 +6072,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 3.79
+      "engagement_score": 3.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "invoke-ai",
@@ -5449,7 +6100,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.15
+      "engagement_score": 1.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "adoptium",
@@ -5474,7 +6128,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.87
+      "engagement_score": 1.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "macadmins",
@@ -5499,7 +6156,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.6
+      "engagement_score": 1.6,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pulsar-edit",
@@ -5524,7 +6184,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 4.27
+      "engagement_score": 4.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "trpc",
@@ -5549,7 +6212,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.22
+      "engagement_score": 1.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SeaQL",
@@ -5574,32 +6240,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.22
-    },
-    {
-      "login": "statamic",
-      "type": "organization",
-      "name": "Statamic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1669353?v=4",
-      "html_url": "https://github.com/statamic",
-      "bio": "Build beautiful, easy to manage websites. The flat-first, open source, Laravel + git powered CMS.",
-      "location": "USA",
-      "company": null,
-      "twitter_username": "statamic",
-      "website_url": "https://statamic.com",
-      "created_at": "2012-04-23T02:51:04Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 77,
-      "sponsorships_count": 10,
-      "sponsoring_count": 0,
-      "sponsors_total": 10,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.77
+      "engagement_score": 1.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "typelevel",
@@ -5624,7 +6268,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 2.15
+      "engagement_score": 2.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "statamic",
+      "type": "organization",
+      "name": "Statamic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1669353?v=4",
+      "html_url": "https://github.com/statamic",
+      "bio": "Build beautiful, easy to manage websites. The flat-first, open source, Laravel + git powered CMS.",
+      "location": "USA",
+      "company": null,
+      "twitter_username": "statamic",
+      "website_url": "https://statamic.com",
+      "created_at": "2012-04-23T02:51:04Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 77,
+      "sponsorships_count": 10,
+      "sponsoring_count": 0,
+      "sponsors_total": 10,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 1000.0,
+      "engagement_score": 1.77,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dokku",
@@ -5649,7 +6324,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.99
+      "engagement_score": 1.99,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mlr-org",
@@ -5674,7 +6352,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.94
+      "engagement_score": 1.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "secureblue",
@@ -5699,7 +6380,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.27
+      "engagement_score": 1.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hpc-social",
@@ -5724,7 +6408,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.15
+      "engagement_score": 1.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Lidarr",
@@ -5749,7 +6436,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1000.0,
-      "engagement_score": 1.13
+      "engagement_score": 1.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "unslothai",
@@ -5774,7 +6464,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.01
+      "engagement_score": 1.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kiwix",
@@ -5799,7 +6492,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.2
+      "engagement_score": 1.2,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "floci-io",
@@ -5824,32 +6520,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.07
-    },
-    {
-      "login": "oxc-project",
-      "type": "organization",
-      "name": "oxc",
-      "avatar_url": "https://avatars.githubusercontent.com/u/149946238?v=4",
-      "html_url": "https://github.com/oxc-project",
-      "bio": "\u2693 A collection of high-performance tools for JavaScript and TypeScript written in Rust.",
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://oxc.rs/",
-      "created_at": "2023-11-05T13:09:12Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 66,
-      "sponsorships_count": 9,
-      "sponsoring_count": 0,
-      "sponsors_total": 9,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.56
+      "engagement_score": 1.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "BC-SECURITY",
@@ -5874,7 +6548,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.48
+      "engagement_score": 1.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "swiftwasm",
@@ -5899,7 +6576,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.5
+      "engagement_score": 1.5,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "phosphor-icons",
@@ -5924,7 +6604,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.12
+      "engagement_score": 1.12,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "WeblateOrg",
@@ -5949,7 +6632,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.22
+      "engagement_score": 1.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "skeletonlabs",
@@ -5974,7 +6660,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.09
+      "engagement_score": 1.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "DestinyItemManager",
@@ -5999,7 +6688,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.21
+      "engagement_score": 1.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AvengeMedia",
@@ -6024,7 +6716,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.06
+      "engagement_score": 1.06,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "vikejs",
@@ -6049,7 +6744,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.07
+      "engagement_score": 1.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pythonkr",
@@ -6074,7 +6772,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.39
+      "engagement_score": 1.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "shakacode",
@@ -6099,7 +6800,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 2.94
+      "engagement_score": 2.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "EssentialsX",
@@ -6124,7 +6828,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 900.0,
-      "engagement_score": 1.03
+      "engagement_score": 1.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "twbs",
@@ -6149,7 +6856,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.08
+      "engagement_score": 1.08,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "NativePHP",
@@ -6174,7 +6884,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.18
+      "engagement_score": 1.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "software-mansion",
@@ -6199,7 +6912,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.47
+      "engagement_score": 1.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "LawnchairLauncher",
@@ -6224,7 +6940,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.03
+      "engagement_score": 1.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pterodactyl",
@@ -6249,7 +6968,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 0.92
+      "engagement_score": 0.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "oxc-project",
+      "type": "organization",
+      "name": "oxc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149946238?v=4",
+      "html_url": "https://github.com/oxc-project",
+      "bio": "\u2693 A collection of high-performance tools for JavaScript and TypeScript written in Rust.",
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://oxc.rs/",
+      "created_at": "2023-11-05T13:09:12Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 66,
+      "sponsorships_count": 8,
+      "sponsoring_count": 0,
+      "sponsors_total": 8,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 800.0,
+      "engagement_score": 1.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "traefik",
@@ -6274,7 +7024,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.45
+      "engagement_score": 1.45,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "CodeEditApp",
@@ -6299,7 +7052,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 0.96
+      "engagement_score": 0.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "OpenRefine",
@@ -6324,7 +7080,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.06
+      "engagement_score": 1.06,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Flow-Launcher",
@@ -6349,7 +7108,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.18
+      "engagement_score": 1.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ChurchApps",
@@ -6374,7 +7136,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.07
+      "engagement_score": 1.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "gulpjs",
@@ -6399,7 +7164,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.52
+      "engagement_score": 1.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ZoneMinder",
@@ -6424,7 +7192,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.02
+      "engagement_score": 1.02,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "aurelia",
@@ -6449,57 +7220,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 800.0,
-      "engagement_score": 1.7
-    },
-    {
-      "login": "go-gitea",
-      "type": "organization",
-      "name": "Gitea",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12724356?v=4",
-      "html_url": "https://github.com/go-gitea",
-      "bio": "Git with a cup of tea",
-      "location": "Git Earth",
-      "company": null,
-      "twitter_username": "giteaio",
-      "website_url": "https://gitea.com",
-      "created_at": "2015-06-03T02:47:41Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 28,
-      "sponsorships_count": 7,
-      "sponsoring_count": 0,
-      "sponsors_total": 7,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.98
-    },
-    {
-      "login": "darkroomengineering",
-      "type": "organization",
-      "name": "darkroom.engineering",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67077908?v=4",
-      "html_url": "https://github.com/darkroomengineering",
-      "bio": "where development happens",
-      "location": null,
-      "company": null,
-      "twitter_username": "darkroomdevs",
-      "website_url": "https://darkroom.engineering",
-      "created_at": "2020-06-17T21:54:45Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 50,
-      "sponsorships_count": 7,
-      "sponsoring_count": 0,
-      "sponsors_total": 7,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 700.0,
-      "engagement_score": 1.2
+      "engagement_score": 1.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "frida",
@@ -6524,7 +7248,66 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 2.37
+      "engagement_score": 2.37,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "darkroomengineering",
+      "type": "organization",
+      "name": "darkroom.engineering",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67077908?v=4",
+      "html_url": "https://github.com/darkroomengineering",
+      "bio": "where development happens",
+      "location": null,
+      "company": null,
+      "twitter_username": "darkroomdevs",
+      "website_url": "https://darkroom.engineering",
+      "created_at": "2020-06-17T21:54:45Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 50,
+      "sponsorships_count": 7,
+      "sponsoring_count": 0,
+      "sponsors_total": 7,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 700.0,
+      "engagement_score": 1.2,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "go-gitea",
+      "type": "organization",
+      "name": "Gitea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12724356?v=4",
+      "html_url": "https://github.com/go-gitea",
+      "bio": "Git with a cup of tea",
+      "location": "Git Earth",
+      "company": null,
+      "twitter_username": "giteaio",
+      "website_url": "https://gitea.com",
+      "created_at": "2015-06-03T02:47:41Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 28,
+      "sponsorships_count": 7,
+      "sponsoring_count": 0,
+      "sponsors_total": 7,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 700.0,
+      "engagement_score": 0.98,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "chatwoot",
@@ -6549,7 +7332,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 1.42
+      "engagement_score": 1.42,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "guardianproject",
@@ -6574,7 +7360,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 2.63
+      "engagement_score": 2.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "aio-libs",
@@ -6599,7 +7388,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 1.38
+      "engagement_score": 1.38,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ScoopInstaller",
@@ -6624,7 +7416,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.94
+      "engagement_score": 0.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "siderolabs",
@@ -6649,7 +7444,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 2.17
+      "engagement_score": 2.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "stan-dev",
@@ -6674,7 +7472,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 1.22
+      "engagement_score": 1.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tuist",
@@ -6699,7 +7500,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 2.63
+      "engagement_score": 2.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "formkit",
@@ -6724,7 +7528,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.85
+      "engagement_score": 0.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "BlockchainCommons",
@@ -6749,7 +7556,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 2.46
+      "engagement_score": 2.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sphinx-doc",
@@ -6774,7 +7584,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.93
+      "engagement_score": 0.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nvim-treesitter",
@@ -6799,7 +7612,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.84
+      "engagement_score": 0.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ExistentialAudio",
@@ -6824,7 +7640,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.89
+      "engagement_score": 0.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "woodpecker-ci",
@@ -6849,7 +7668,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 700.0,
-      "engagement_score": 0.97
+      "engagement_score": 0.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "EbookFoundation",
@@ -6874,7 +7696,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.97
+      "engagement_score": 0.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "terraform-aws-modules",
@@ -6899,7 +7724,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.22
+      "engagement_score": 1.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SciML",
@@ -6916,7 +7744,7 @@
       "is_github_star": false,
       "followers": 0,
       "following": 0,
-      "public_repos": 227,
+      "public_repos": 228,
       "sponsorships_count": 6,
       "sponsoring_count": 0,
       "sponsors_total": 6,
@@ -6924,7 +7752,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 2.87
+      "engagement_score": 2.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "toeverything",
@@ -6949,7 +7780,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.05
+      "engagement_score": 1.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "msys2",
@@ -6974,7 +7808,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.92
+      "engagement_score": 0.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SlimeVR",
@@ -6999,7 +7836,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.05
+      "engagement_score": 1.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "yarnpkg",
@@ -7024,7 +7864,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.84
+      "engagement_score": 0.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "react-hook-form",
@@ -7049,7 +7892,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.75
+      "engagement_score": 0.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "swc-project",
@@ -7074,7 +7920,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.96
+      "engagement_score": 0.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "yiisoft",
@@ -7099,7 +7948,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 2.74
+      "engagement_score": 2.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "junit-team",
@@ -7124,7 +7976,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.8
+      "engagement_score": 0.8,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "moonrepo",
@@ -7149,7 +8004,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.95
+      "engagement_score": 0.95,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "csstools",
@@ -7174,7 +8032,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.8
+      "engagement_score": 1.8,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pyenv",
@@ -7199,7 +8060,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.75
+      "engagement_score": 0.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "webrecorder",
@@ -7224,32 +8088,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.4
-    },
-    {
-      "login": "mautic",
-      "type": "organization",
-      "name": "Mautic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5257677?v=4",
-      "html_url": "https://github.com/mautic",
-      "bio": "Free and Open Source Marketing Automation",
-      "location": "Boston, MA",
-      "company": null,
-      "twitter_username": "MauticCommunity",
-      "website_url": "https://www.mautic.org",
-      "created_at": "2013-08-19T00:34:49Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 134,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.94
+      "engagement_score": 1.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "litestar-org",
@@ -7274,7 +8116,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.11
+      "engagement_score": 1.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "mautic",
+      "type": "organization",
+      "name": "Mautic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5257677?v=4",
+      "html_url": "https://github.com/mautic",
+      "bio": "Free and Open Source Marketing Automation",
+      "location": "Boston, MA",
+      "company": null,
+      "twitter_username": "MauticCommunity",
+      "website_url": "https://www.mautic.org",
+      "created_at": "2013-08-19T00:34:49Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 134,
+      "sponsorships_count": 6,
+      "sponsoring_count": 0,
+      "sponsors_total": 6,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 600.0,
+      "engagement_score": 1.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "celery",
@@ -7299,7 +8172,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.87
+      "engagement_score": 0.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ferdium",
@@ -7324,7 +8200,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.73
+      "engagement_score": 0.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "JasperFx",
@@ -7349,7 +8228,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.88
+      "engagement_score": 0.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "vyperlang",
@@ -7374,7 +8256,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.95
+      "engagement_score": 0.95,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "django-cms",
@@ -7399,7 +8284,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 1.09
+      "engagement_score": 1.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cumbucadev",
@@ -7424,7 +8312,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.87
+      "engagement_score": 0.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "code-hike",
@@ -7449,7 +8340,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.78
+      "engagement_score": 0.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "serverless-dns",
@@ -7474,7 +8368,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.74
+      "engagement_score": 0.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "semaphoreui",
@@ -7499,32 +8396,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.74
-    },
-    {
-      "login": "starfederation",
-      "type": "organization",
-      "name": "Star Federation",
-      "avatar_url": "https://avatars.githubusercontent.com/u/187214970?v=4",
-      "html_url": "https://github.com/starfederation",
-      "bio": "Uncomplicated tools to help web developers reach for the stars.",
-      "location": "United States of America",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://data-star.dev",
-      "created_at": "2024-11-03T20:19:25Z",
-      "is_github_star": false,
-      "followers": 0,
-      "following": 0,
-      "public_repos": 25,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.85
+      "engagement_score": 0.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "networkupstools",
@@ -7549,7 +8424,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.81
+      "engagement_score": 0.81,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "starfederation",
+      "type": "organization",
+      "name": "Star Federation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187214970?v=4",
+      "html_url": "https://github.com/starfederation",
+      "bio": "Uncomplicated tools to help web developers reach for the stars.",
+      "location": "United States of America",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://data-star.dev",
+      "created_at": "2024-11-03T20:19:25Z",
+      "is_github_star": false,
+      "followers": 0,
+      "following": 0,
+      "public_repos": 25,
+      "sponsorships_count": 6,
+      "sponsoring_count": 0,
+      "sponsors_total": 6,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 600.0,
+      "engagement_score": 0.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dprint",
@@ -7574,7 +8480,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 600.0,
-      "engagement_score": 0.89
+      "engagement_score": 0.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "VoltAgent",
@@ -7599,7 +8508,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.71
+      "engagement_score": 0.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "FlowiseAI",
@@ -7624,7 +8536,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.64
+      "engagement_score": 0.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "TryGhost",
@@ -7649,7 +8564,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 2.04
+      "engagement_score": 2.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tinygrad",
@@ -7674,7 +8592,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.73
+      "engagement_score": 0.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "BerriAI",
@@ -7699,7 +8620,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.15
+      "engagement_score": 1.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ciderapp",
@@ -7724,7 +8648,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.38
+      "engagement_score": 1.38,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "thoughtbot",
@@ -7749,7 +8676,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 5.24
+      "engagement_score": 5.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "typesense",
@@ -7774,7 +8704,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.42
+      "engagement_score": 1.42,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "flarum",
@@ -7799,7 +8732,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.03
+      "engagement_score": 1.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "freelawproject",
@@ -7824,7 +8760,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.09
+      "engagement_score": 1.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rolldown",
@@ -7849,7 +8788,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.76
+      "engagement_score": 0.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "automerge",
@@ -7874,7 +8816,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.92
+      "engagement_score": 0.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AudioKit",
@@ -7899,7 +8844,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.93
+      "engagement_score": 0.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ipython",
@@ -7924,7 +8872,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.78
+      "engagement_score": 0.78,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "macports",
@@ -7949,7 +8900,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.91
+      "engagement_score": 0.91,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "NativeScript",
@@ -7974,7 +8928,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 3.13
+      "engagement_score": 3.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "reactphp",
@@ -7999,7 +8956,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.69
+      "engagement_score": 0.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ethers-io",
@@ -8024,7 +8984,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.82
+      "engagement_score": 0.82,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mainsail-crew",
@@ -8049,7 +9012,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.71
+      "engagement_score": 0.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "DjangoGirls",
@@ -8074,7 +9040,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.66
+      "engagement_score": 0.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Tresjs",
@@ -8099,7 +9068,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.68
+      "engagement_score": 0.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hummingbird-project",
@@ -8124,7 +9096,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.81
+      "engagement_score": 0.81,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "artifact-keeper",
@@ -8149,7 +9124,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.7
+      "engagement_score": 0.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bugzilla",
@@ -8174,7 +9152,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.03
+      "engagement_score": 1.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "MediaArea",
@@ -8199,7 +9180,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.26
+      "engagement_score": 1.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "stylelint",
@@ -8224,7 +9208,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.75
+      "engagement_score": 0.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "moleculerjs",
@@ -8249,7 +9236,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 1.07
+      "engagement_score": 1.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "atomvm",
@@ -8274,7 +9264,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.76
+      "engagement_score": 0.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "f3d-app",
@@ -8299,16 +9292,19 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 500.0,
-      "engagement_score": 0.66
+      "engagement_score": 0.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     }
   ],
   "statistics": {
     "total_sponsors": 332,
-    "total_sponsorships": 18382,
-    "avg_sponsors_per_user": 55.37,
+    "total_sponsorships": 18366,
+    "avg_sponsors_per_user": 55.32,
     "avg_follower_count": 0.0,
-    "avg_conversion_rate": 5536.747,
+    "avg_conversion_rate": 5531.9277,
     "github_stars_count": 0
   },
-  "last_updated": "2026-09-14T18:20:40.930027+00:00"
+  "last_updated": "2026-09-14T19:50:24.699329+00:00"
 }

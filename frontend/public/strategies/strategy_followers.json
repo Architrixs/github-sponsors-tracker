@@ -17,14 +17,17 @@
       "followers": 2287,
       "following": 11,
       "public_repos": 15,
-      "sponsorships_count": 684,
+      "sponsorships_count": 683,
       "sponsoring_count": 0,
-      "sponsors_total": 684,
+      "sponsors_total": 683,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 29.9082,
-      "engagement_score": 68.78
+      "sponsor_conversion_rate": 29.8645,
+      "engagement_score": 68.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "foosel",
@@ -42,14 +45,17 @@
       "followers": 2338,
       "following": 14,
       "public_repos": 131,
-      "sponsorships_count": 559,
+      "sponsorships_count": 558,
       "sponsoring_count": 8,
-      "sponsors_total": 559,
+      "sponsors_total": 558,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 23.9093,
-      "engagement_score": 57.44
+      "sponsor_conversion_rate": 23.8666,
+      "engagement_score": 57.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "simonw",
@@ -64,7 +70,7 @@
       "website_url": "https://simonwillison.net/",
       "created_at": "2008-05-07T17:22:14Z",
       "is_github_star": true,
-      "followers": 16878,
+      "followers": 16880,
       "following": 140,
       "public_repos": 1027,
       "sponsorships_count": 486,
@@ -73,8 +79,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 2.8795,
-      "engagement_score": 60.56
+      "sponsor_conversion_rate": 2.8791,
+      "engagement_score": 60.56,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Vendicated",
@@ -99,7 +108,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 9.707,
-      "engagement_score": 27.56
+      "engagement_score": 27.56,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lpil",
@@ -124,7 +136,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 10.4372,
-      "engagement_score": 31.28
+      "engagement_score": 31.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "skydoves",
@@ -149,7 +164,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.6023,
-      "engagement_score": 23.08
+      "engagement_score": 23.08,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sindresorhus",
@@ -164,7 +182,7 @@
       "website_url": "https://sindresorhus.com/apps",
       "created_at": "2009-12-20T22:57:02Z",
       "is_github_star": false,
-      "followers": 83930,
+      "followers": 83931,
       "following": 30,
       "public_repos": 1164,
       "sponsorships_count": 168,
@@ -174,7 +192,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2002,
-      "engagement_score": 36.83
+      "engagement_score": 36.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tannerlinsley",
@@ -189,17 +210,20 @@
       "website_url": "https://tanstack.com",
       "created_at": "2013-09-30T21:34:41Z",
       "is_github_star": false,
-      "followers": 15005,
+      "followers": 15006,
       "following": 14,
       "public_repos": 209,
-      "sponsorships_count": 168,
+      "sponsorships_count": 167,
       "sponsoring_count": 17,
-      "sponsors_total": 168,
+      "sponsors_total": 167,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 1.1196,
-      "engagement_score": 20.39
+      "sponsor_conversion_rate": 1.1129,
+      "engagement_score": 20.29,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jesseduffield",
@@ -224,7 +248,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2.3934,
-      "engagement_score": 17.85
+      "engagement_score": 17.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sebastianbergmann",
@@ -249,7 +276,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2.0806,
-      "engagement_score": 17.48
+      "engagement_score": 17.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "wez",
@@ -274,7 +304,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4.0133,
-      "engagement_score": 17.68
+      "engagement_score": 17.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "antfu",
@@ -289,7 +322,7 @@
       "website_url": "https://antfu.me",
       "created_at": "2015-02-28T16:55:50Z",
       "is_github_star": true,
-      "followers": 40055,
+      "followers": 40056,
       "following": 392,
       "public_repos": 569,
       "sponsorships_count": 154,
@@ -299,7 +332,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3845,
-      "engagement_score": 25.1
+      "engagement_score": 25.1,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hlissner",
@@ -324,7 +360,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5.6506,
-      "engagement_score": 16.1
+      "engagement_score": 16.1,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "geerlingguy",
@@ -349,7 +388,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5326,
-      "engagement_score": 20.76
+      "engagement_score": 20.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "yyx990803",
@@ -374,7 +416,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.123,
-      "engagement_score": 27.21
+      "engagement_score": 27.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fasterthanlime",
@@ -389,7 +434,7 @@
       "website_url": "https://fasterthanli.me",
       "created_at": "2014-06-26T17:10:33Z",
       "is_github_star": false,
-      "followers": 4713,
+      "followers": 4712,
       "following": 33,
       "public_repos": 568,
       "sponsorships_count": 134,
@@ -398,8 +443,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 2.8432,
-      "engagement_score": 19.55
+      "sponsor_conversion_rate": 2.8438,
+      "engagement_score": 19.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "raysan5",
@@ -417,14 +465,17 @@
       "followers": 5616,
       "following": 288,
       "public_repos": 35,
-      "sponsorships_count": 132,
+      "sponsorships_count": 131,
       "sponsoring_count": 8,
-      "sponsors_total": 132,
+      "sponsors_total": 131,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 2.3504,
-      "engagement_score": 14.11
+      "sponsor_conversion_rate": 2.3326,
+      "engagement_score": 14.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Koenkk",
@@ -449,7 +500,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 5.0153,
-      "engagement_score": 14.52
+      "engagement_score": 14.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dtolnay",
@@ -474,7 +528,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.2216,
-      "engagement_score": 14.21
+      "engagement_score": 14.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tiangolo",
@@ -499,7 +556,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3634,
-      "engagement_score": 15.65
+      "engagement_score": 15.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Xe",
@@ -524,7 +584,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2.7046,
-      "engagement_score": 14.5
+      "engagement_score": 14.5,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "borkdude",
@@ -549,7 +612,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4.5338,
-      "engagement_score": 15.21
+      "engagement_score": 15.21,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "BurntSushi",
@@ -564,7 +630,7 @@
       "website_url": "https://burntsushi.net",
       "created_at": "2010-10-27T16:54:30Z",
       "is_github_star": false,
-      "followers": 13206,
+      "followers": 13207,
       "following": 3,
       "public_repos": 196,
       "sponsorships_count": 103,
@@ -574,7 +640,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7799,
-      "engagement_score": 13.58
+      "engagement_score": 13.58,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "laurent22",
@@ -599,7 +668,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 3.5794,
-      "engagement_score": 11.89
+      "engagement_score": 11.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "calebporzio",
@@ -624,7 +696,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.6112,
-      "engagement_score": 10.7
+      "engagement_score": 10.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "d4rken",
@@ -642,14 +717,17 @@
       "followers": 2240,
       "following": 39,
       "public_repos": 94,
-      "sponsorships_count": 90,
+      "sponsorships_count": 89,
       "sponsoring_count": 1,
-      "sponsors_total": 90,
+      "sponsors_total": 89,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 4.0179,
-      "engagement_score": 10.16
+      "sponsor_conversion_rate": 3.9732,
+      "engagement_score": 10.06,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kovidgoyal",
@@ -674,7 +752,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.539,
-      "engagement_score": 9.83
+      "engagement_score": 9.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "danharrin",
@@ -699,7 +780,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 4.1257,
-      "engagement_score": 8.94
+      "engagement_score": 8.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "SaltyAom",
@@ -714,7 +798,7 @@
       "website_url": "https://saltyaom.com",
       "created_at": "2018-01-02T10:00:32Z",
       "is_github_star": false,
-      "followers": 4139,
+      "followers": 4140,
       "following": 26,
       "public_repos": 345,
       "sponsorships_count": 83,
@@ -723,8 +807,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 2.0053,
-      "engagement_score": 12.16
+      "sponsor_conversion_rate": 2.0048,
+      "engagement_score": 12.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "awesomekling",
@@ -749,7 +836,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.353,
-      "engagement_score": 8.69
+      "engagement_score": 8.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "azu",
@@ -774,7 +864,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2.6914,
-      "engagement_score": 23.51
+      "engagement_score": 23.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "cart",
+      "type": "user",
+      "name": "Carter Anderson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2694663?u=0c899e4b49bab67aac554b7cb283014a0fb2880e&v=4",
+      "html_url": "https://github.com/cart",
+      "bio": "Creator of Bevy Engine | GameDev | Programmer | Artist | Previously Senior Software Engineer at Microsoft",
+      "location": null,
+      "company": "@bevyengine ",
+      "twitter_username": null,
+      "website_url": null,
+      "created_at": "2012-10-31T22:08:41Z",
+      "is_github_star": false,
+      "followers": 2001,
+      "following": 0,
+      "public_repos": 50,
+      "sponsorships_count": 75,
+      "sponsoring_count": 0,
+      "sponsors_total": 75,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 3.7481,
+      "engagement_score": 8.2,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bbatsov",
@@ -799,7 +920,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.5334,
-      "engagement_score": 9.82
+      "engagement_score": 9.82,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "frenck",
@@ -824,7 +948,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.4177,
-      "engagement_score": 9.1
+      "engagement_score": 9.1,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tpope",
@@ -849,7 +976,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2949,
-      "engagement_score": 10.15
+      "engagement_score": 10.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "junegunn",
@@ -864,7 +994,7 @@
       "website_url": "https://junegunn.github.io/",
       "created_at": "2011-03-31T05:09:54Z",
       "is_github_star": false,
-      "followers": 8674,
+      "followers": 8675,
       "following": 0,
       "public_repos": 156,
       "sponsorships_count": 67,
@@ -873,8 +1003,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.7724,
-      "engagement_score": 9.13
+      "sponsor_conversion_rate": 0.7723,
+      "engagement_score": 9.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sharkdp",
@@ -889,7 +1022,7 @@
       "website_url": "https://david-peter.de/",
       "created_at": "2013-04-20T11:07:58Z",
       "is_github_star": false,
-      "followers": 8231,
+      "followers": 8232,
       "following": 25,
       "public_repos": 130,
       "sponsorships_count": 63,
@@ -898,8 +1031,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.7654,
-      "engagement_score": 8.42
+      "sponsor_conversion_rate": 0.7653,
+      "engagement_score": 8.42,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bagder",
@@ -917,14 +1053,17 @@
       "followers": 7954,
       "following": 23,
       "public_repos": 65,
-      "sponsorships_count": 62,
+      "sponsorships_count": 61,
       "sponsoring_count": 0,
-      "sponsors_total": 62,
+      "sponsors_total": 61,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.7795,
-      "engagement_score": 7.65
+      "sponsor_conversion_rate": 0.7669,
+      "engagement_score": 7.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "marcan",
@@ -949,7 +1088,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.171,
-      "engagement_score": 7.48
+      "engagement_score": 7.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "seanmonstar",
@@ -974,7 +1116,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.7523,
-      "engagement_score": 7.76
+      "engagement_score": 7.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jdx",
@@ -999,32 +1144,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.366,
-      "engagement_score": 12.9
-    },
-    {
-      "login": "xPaw",
-      "type": "user",
-      "name": "Pavel Djundik",
-      "avatar_url": "https://avatars.githubusercontent.com/u/613331?u=837d2ffa0b85b67c6e088840b246e64f3d140bfb&v=4",
-      "html_url": "https://github.com/xPaw",
-      "bio": "\u2728 I make stuff work.",
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://xpaw.me",
-      "created_at": "2011-02-11T19:22:45Z",
-      "is_github_star": false,
-      "followers": 2778,
-      "following": 3,
-      "public_repos": 52,
-      "sponsorships_count": 57,
-      "sponsoring_count": 0,
-      "sponsors_total": 57,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 2.0518,
-      "engagement_score": 6.5
+      "engagement_score": 12.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ljharb",
@@ -1034,7 +1157,7 @@
       "html_url": "https://github.com/ljharb",
       "bio": "software engineer/nerd/teacher/will try anything once; surgeon with git rebase. @TC39 ex @Coinbase @Airbnb @Twitter @MobBase. Fav punctuation \u2e2e, scent petrichor",
       "location": "Hillsborough, CA",
-      "company": "@socketdev @tc39 $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "company": "@socketdev @tc39 @ecma-tc54",
       "twitter_username": "LJHarb",
       "website_url": "https://linkedin.com/in/ljharb",
       "created_at": "2009-01-10T01:28:02Z",
@@ -1049,7 +1172,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6758,
-      "engagement_score": 11.75
+      "engagement_score": 11.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "xPaw",
+      "type": "user",
+      "name": "Pavel Djundik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/613331?u=837d2ffa0b85b67c6e088840b246e64f3d140bfb&v=4",
+      "html_url": "https://github.com/xPaw",
+      "bio": "\u2728 I make stuff work.",
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://xpaw.me",
+      "created_at": "2011-02-11T19:22:45Z",
+      "is_github_star": false,
+      "followers": 2777,
+      "following": 3,
+      "public_repos": 52,
+      "sponsorships_count": 56,
+      "sponsoring_count": 0,
+      "sponsors_total": 56,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 2.0166,
+      "engagement_score": 6.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "juliangarnier",
@@ -1074,7 +1228,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9627,
-      "engagement_score": 6.17
+      "engagement_score": 6.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bep",
@@ -1099,7 +1256,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 2.1635,
-      "engagement_score": 9.48
+      "engagement_score": 9.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rui314",
@@ -1124,7 +1284,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7696,
-      "engagement_score": 6.4
+      "engagement_score": 6.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "colinhacks",
@@ -1149,7 +1312,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.2894,
-      "engagement_score": 7.85
+      "engagement_score": 7.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "shadcn",
@@ -1164,7 +1330,7 @@
       "website_url": null,
       "created_at": "2009-09-08T17:49:59Z",
       "is_github_star": false,
-      "followers": 16692,
+      "followers": 16698,
       "following": 0,
       "public_repos": 250,
       "sponsorships_count": 51,
@@ -1173,8 +1339,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.3055,
-      "engagement_score": 9.27
+      "sponsor_conversion_rate": 0.3054,
+      "engagement_score": 9.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tjdevries",
@@ -1199,7 +1368,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3516,
-      "engagement_score": 8.3
+      "engagement_score": 8.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jart",
@@ -1214,7 +1386,7 @@
       "website_url": "https://justine.lol",
       "created_at": "2009-01-26T04:30:36Z",
       "is_github_star": false,
-      "followers": 12098,
+      "followers": 12099,
       "following": 127,
       "public_repos": 244,
       "sponsorships_count": 49,
@@ -1224,7 +1396,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.405,
-      "engagement_score": 8.55
+      "engagement_score": 8.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "obra",
@@ -1249,7 +1424,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5706,
-      "engagement_score": 8.26
+      "engagement_score": 8.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sxzz",
@@ -1274,7 +1452,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9936,
-      "engagement_score": 8.25
+      "engagement_score": 8.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ggerganov",
@@ -1289,7 +1470,7 @@
       "website_url": "https://ggerganov.com",
       "created_at": "2012-07-17T12:41:43Z",
       "is_github_star": false,
-      "followers": 20599,
+      "followers": 20601,
       "following": 11,
       "public_repos": 81,
       "sponsorships_count": 47,
@@ -1298,8 +1479,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2282,
-      "engagement_score": 7.57
+      "sponsor_conversion_rate": 0.2281,
+      "engagement_score": 7.57,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mholt",
@@ -1324,7 +1508,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6968,
-      "engagement_score": 5.94
+      "engagement_score": 5.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mattgodbolt",
@@ -1349,7 +1536,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.0409,
-      "engagement_score": 6.04
+      "engagement_score": 6.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mattn",
@@ -1374,7 +1564,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3186,
-      "engagement_score": 28.66
+      "engagement_score": 28.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "matz",
@@ -1399,7 +1592,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4027,
-      "engagement_score": 5.56
+      "engagement_score": 5.56,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "posva",
@@ -1414,7 +1610,7 @@
       "website_url": "https://esm.dev",
       "created_at": "2011-03-11T14:29:46Z",
       "is_github_star": false,
-      "followers": 6567,
+      "followers": 6566,
       "following": 61,
       "public_repos": 397,
       "sponsorships_count": 41,
@@ -1423,8 +1619,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.6243,
-      "engagement_score": 8.73
+      "sponsor_conversion_rate": 0.6244,
+      "engagement_score": 8.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "balloob",
@@ -1449,7 +1648,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.3819,
-      "engagement_score": 6.89
+      "engagement_score": 6.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "marijnh",
@@ -1474,7 +1676,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.563,
-      "engagement_score": 5.36
+      "engagement_score": 5.36,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "richhickey",
@@ -1489,7 +1694,7 @@
       "website_url": "http://clojure.org",
       "created_at": "2008-11-12T12:42:08Z",
       "is_github_star": false,
-      "followers": 6396,
+      "followers": 6395,
       "following": 0,
       "public_repos": 13,
       "sponsorships_count": 39,
@@ -1498,8 +1703,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.6098,
-      "engagement_score": 4.67
+      "sponsor_conversion_rate": 0.6099,
+      "engagement_score": 4.67,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "willmcgugan",
@@ -1524,7 +1732,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7568,
-      "engagement_score": 4.94
+      "engagement_score": 4.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "JanDeDobbeleer",
@@ -1549,7 +1760,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.962,
-      "engagement_score": 5.44
+      "engagement_score": 5.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "thetutlage",
@@ -1574,7 +1788,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.4818,
-      "engagement_score": 7.34
+      "engagement_score": 7.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "schickling",
@@ -1599,7 +1816,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.5777,
-      "engagement_score": 5.64
+      "engagement_score": 5.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "yusukebe",
@@ -1614,7 +1834,7 @@
       "website_url": "https://yusu.ke",
       "created_at": "2008-05-18T16:21:48Z",
       "is_github_star": false,
-      "followers": 4033,
+      "followers": 4034,
       "following": 364,
       "public_repos": 384,
       "sponsorships_count": 38,
@@ -1623,8 +1843,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.9422,
-      "engagement_score": 8.04
+      "sponsor_conversion_rate": 0.942,
+      "engagement_score": 8.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "theacodes",
@@ -1649,7 +1872,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.6122,
-      "engagement_score": 9.93
+      "engagement_score": 9.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Boshen",
@@ -1674,7 +1900,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.736,
-      "engagement_score": 5.41
+      "engagement_score": 5.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Seldaek",
@@ -1699,7 +1928,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7846,
-      "engagement_score": 7.04
+      "engagement_score": 7.04,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "m-ou-se",
@@ -1714,7 +1946,7 @@
       "website_url": "https://mara.nl/",
       "created_at": "2011-05-12T07:32:26Z",
       "is_github_star": false,
-      "followers": 3787,
+      "followers": 3788,
       "following": 11,
       "public_repos": 120,
       "sponsorships_count": 36,
@@ -1723,8 +1955,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.9506,
-      "engagement_score": 5.18
+      "sponsor_conversion_rate": 0.9504,
+      "engagement_score": 5.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "louislam",
@@ -1749,7 +1984,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9972,
-      "engagement_score": 4.55
+      "engagement_score": 4.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zx2c4",
@@ -1774,7 +2012,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.5901,
-      "engagement_score": 4.14
+      "engagement_score": 4.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jgm",
@@ -1799,7 +2040,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.0448,
-      "engagement_score": 4.95
+      "engagement_score": 4.95,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jonhoo",
@@ -1814,7 +2058,7 @@
       "website_url": "https://thesquareplanet.com",
       "created_at": "2010-01-04T19:06:44Z",
       "is_github_star": false,
-      "followers": 13956,
+      "followers": 13957,
       "following": 5,
       "public_repos": 288,
       "sponsorships_count": 34,
@@ -1824,7 +2068,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2436,
-      "engagement_score": 7.68
+      "engagement_score": 7.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "danielroe",
+      "type": "user",
+      "name": "Daniel Roe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
+      "html_url": "https://github.com/danielroe",
+      "bio": "@nuxt \u2022 @npmx-dev \u2022 @unjs \u2022 @vuejs \u2022 @elk-zone",
+      "location": "Edinburgh, UK",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "https://roe.dev",
+      "created_at": "2017-05-15T12:06:30Z",
+      "is_github_star": true,
+      "followers": 6014,
+      "following": 158,
+      "public_repos": 1032,
+      "sponsorships_count": 34,
+      "sponsoring_count": 28,
+      "sponsors_total": 34,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.5653,
+      "engagement_score": 14.32,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "asottile",
@@ -1849,32 +2124,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5593,
-      "engagement_score": 5.28
-    },
-    {
-      "login": "danielroe",
-      "type": "user",
-      "name": "Daniel Roe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
-      "html_url": "https://github.com/danielroe",
-      "bio": "@nuxt \u2022 @npmx-dev \u2022 @unjs \u2022 @vuejs \u2022 @elk-zone",
-      "location": "Edinburgh, UK",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "https://roe.dev",
-      "created_at": "2017-05-15T12:06:30Z",
-      "is_github_star": true,
-      "followers": 6013,
-      "following": 158,
-      "public_repos": 1032,
-      "sponsorships_count": 34,
-      "sponsoring_count": 28,
-      "sponsors_total": 34,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.5654,
-      "engagement_score": 14.32
+      "engagement_score": 5.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "schollz",
@@ -1899,7 +2152,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.8788,
-      "engagement_score": 15.47
+      "engagement_score": 15.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "patak-cat",
@@ -1924,7 +2180,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9792,
-      "engagement_score": 4.3
+      "engagement_score": 4.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nekohasekai",
@@ -1949,7 +2208,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.2688,
-      "engagement_score": 3.83
+      "engagement_score": 3.83,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nunomaduro",
@@ -1966,7 +2228,7 @@
       "is_github_star": false,
       "followers": 9354,
       "following": 2,
-      "public_repos": 338,
+      "public_repos": 339,
       "sponsorships_count": 31,
       "sponsoring_count": 0,
       "sponsors_total": 31,
@@ -1974,7 +2236,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3314,
-      "engagement_score": 7.42
+      "engagement_score": 7.43,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "orhun",
@@ -1989,7 +2254,7 @@
       "website_url": "orhun.dev",
       "created_at": "2016-12-05T15:47:47Z",
       "is_github_star": false,
-      "followers": 5404,
+      "followers": 5405,
       "following": 548,
       "public_repos": 561,
       "sponsorships_count": 31,
@@ -1998,8 +2263,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.5736,
-      "engagement_score": 9.25
+      "sponsor_conversion_rate": 0.5735,
+      "engagement_score": 9.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "TkDodo",
@@ -2024,7 +2292,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.8792,
-      "engagement_score": 4.13
+      "engagement_score": 4.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fabpot",
@@ -2049,7 +2320,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2207,
-      "engagement_score": 5.41
+      "engagement_score": 5.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "privatenumber",
@@ -2074,7 +2348,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7568,
-      "engagement_score": 6.26
+      "engagement_score": 6.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Kludex",
@@ -2099,7 +2376,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9124,
-      "engagement_score": 5.3
+      "engagement_score": 5.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "alexellis",
@@ -2124,7 +2404,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5588,
-      "engagement_score": 8.65
+      "engagement_score": 8.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "phil-opp",
@@ -2149,7 +2432,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9239,
-      "engagement_score": 4.85
+      "engagement_score": 4.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "HerringtonDarkholme",
@@ -2174,7 +2460,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.1876,
-      "engagement_score": 5.54
+      "engagement_score": 5.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mrdoob",
@@ -2189,7 +2478,7 @@
       "website_url": "https://mrdoob.com",
       "created_at": "2009-06-19T16:54:00Z",
       "is_github_star": false,
-      "followers": 25521,
+      "followers": 25522,
       "following": 197,
       "public_repos": 79,
       "sponsorships_count": 28,
@@ -2199,7 +2488,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1097,
-      "engagement_score": 6.14
+      "engagement_score": 6.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "progrium",
@@ -2224,7 +2516,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7016,
-      "engagement_score": 6.15
+      "engagement_score": 6.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ThePrimeagen",
@@ -2239,7 +2534,7 @@
       "website_url": "http://twitch.tv/ThePrimeagen",
       "created_at": "2013-05-17T15:05:59Z",
       "is_github_star": false,
-      "followers": 49686,
+      "followers": 49687,
       "following": 5,
       "public_repos": 242,
       "sponsorships_count": 27,
@@ -2249,7 +2544,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0543,
-      "engagement_score": 10.09
+      "engagement_score": 10.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rrousselGit",
@@ -2274,7 +2572,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3547,
-      "engagement_score": 4.19
+      "engagement_score": 4.19,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "egoist",
@@ -2299,7 +2600,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1936,
-      "engagement_score": 12.8
+      "engagement_score": 12.8,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rsms",
@@ -2324,7 +2628,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3253,
-      "engagement_score": 5.27
+      "engagement_score": 5.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "badlogic",
@@ -2349,7 +2656,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3389,
-      "engagement_score": 6.15
+      "engagement_score": 6.15,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "samuelcolvin",
@@ -2374,7 +2684,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3908,
-      "engagement_score": 6.54
+      "engagement_score": 6.54,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "caarlos0",
@@ -2399,7 +2712,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5578,
-      "engagement_score": 5.91
+      "engagement_score": 5.91,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ThePhD",
@@ -2424,32 +2740,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.1022,
-      "engagement_score": 3.79
-    },
-    {
-      "login": "mitsuhiko",
-      "type": "user",
-      "name": "Armin Ronacher",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4",
-      "html_url": "https://github.com/mitsuhiko",
-      "bio": "Software developer and Open Source nut. Creator of the Flask framework. Founder of @earendil-works. Other things of interest: @pallets and @getsentry",
-      "location": "Austria",
-      "company": "Earendil",
-      "twitter_username": "mitsuhiko",
-      "website_url": "https://lucumr.pocoo.org/",
-      "created_at": "2008-04-15T10:03:57Z",
-      "is_github_star": false,
-      "followers": 26132,
-      "following": 24,
-      "public_repos": 364,
-      "sponsorships_count": 25,
-      "sponsoring_count": 0,
-      "sponsors_total": 25,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.0957,
-      "engagement_score": 8.75
+      "engagement_score": 3.79,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "codediodeio",
@@ -2474,7 +2768,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1081,
-      "engagement_score": 5.66
+      "engagement_score": 5.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "mitsuhiko",
+      "type": "user",
+      "name": "Armin Ronacher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4",
+      "html_url": "https://github.com/mitsuhiko",
+      "bio": "Software developer and Open Source nut. Creator of the Flask framework. Founder of @earendil-works. Other things of interest: @pallets and @getsentry",
+      "location": "Austria",
+      "company": "Earendil",
+      "twitter_username": "mitsuhiko",
+      "website_url": "https://lucumr.pocoo.org/",
+      "created_at": "2008-04-15T10:03:57Z",
+      "is_github_star": false,
+      "followers": 26133,
+      "following": 24,
+      "public_repos": 364,
+      "sponsorships_count": 25,
+      "sponsoring_count": 0,
+      "sponsors_total": 25,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0957,
+      "engagement_score": 8.75,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "paulmillr",
@@ -2499,7 +2824,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5582,
-      "engagement_score": 3.49
+      "engagement_score": 3.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "0atman",
@@ -2524,7 +2852,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9048,
-      "engagement_score": 4.43
+      "engagement_score": 4.43,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "taylorotwell",
@@ -2549,7 +2880,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0668,
-      "engagement_score": 6.25
+      "engagement_score": 6.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "steipete",
@@ -2574,7 +2908,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0454,
-      "engagement_score": 10.03
+      "engagement_score": 10.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "yihui",
@@ -2599,7 +2936,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2431,
-      "engagement_score": 4.96
+      "engagement_score": 4.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Shougo",
@@ -2624,7 +2964,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4778,
-      "engagement_score": 5.18
+      "engagement_score": 5.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "raphamorim",
@@ -2649,7 +2992,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9382,
-      "engagement_score": 6.52
+      "engagement_score": 6.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hajimehoshi",
@@ -2674,7 +3020,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9596,
-      "engagement_score": 4.47
+      "engagement_score": 4.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "messense",
@@ -2699,7 +3048,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 1.0944,
-      "engagement_score": 4.05
+      "engagement_score": 4.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "andrewrk",
@@ -2714,7 +3066,7 @@
       "website_url": "https://andrewkelley.me/",
       "created_at": "2009-07-19T09:21:03Z",
       "is_github_star": false,
-      "followers": 10606,
+      "followers": 10607,
       "following": 188,
       "public_repos": 288,
       "sponsorships_count": 23,
@@ -2723,8 +3075,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2169,
-      "engagement_score": 6.24
+      "sponsor_conversion_rate": 0.2168,
+      "engagement_score": 6.24,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mrousavy",
@@ -2749,32 +3104,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.435,
-      "engagement_score": 4.77
-    },
-    {
-      "login": "swannodette",
-      "type": "user",
-      "name": "David Nolen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13516?u=d4b32c4b3c703a42094564713d162a8ddd05fc22&v=4",
-      "html_url": "https://github.com/swannodette",
-      "bio": "Lead developer of ClojureScript. Staff Software Engineer at https://lightweightlabs.com",
-      "location": "New York",
-      "company": null,
-      "twitter_username": null,
-      "website_url": "http://swannodette.github.io",
-      "created_at": "2008-06-12T18:55:41Z",
-      "is_github_star": false,
-      "followers": 4379,
-      "following": 136,
-      "public_repos": 181,
-      "sponsorships_count": 23,
-      "sponsoring_count": 6,
-      "sponsors_total": 23,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.5252,
-      "engagement_score": 4.55
+      "engagement_score": 4.77,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Ocramius",
@@ -2799,7 +3132,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.525,
-      "engagement_score": 6.92
+      "engagement_score": 6.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "swannodette",
+      "type": "user",
+      "name": "David Nolen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13516?u=d4b32c4b3c703a42094564713d162a8ddd05fc22&v=4",
+      "html_url": "https://github.com/swannodette",
+      "bio": "Lead developer of ClojureScript. Staff Software Engineer at https://lightweightlabs.com",
+      "location": "New York",
+      "company": null,
+      "twitter_username": null,
+      "website_url": "http://swannodette.github.io",
+      "created_at": "2008-06-12T18:55:41Z",
+      "is_github_star": false,
+      "followers": 4379,
+      "following": 136,
+      "public_repos": 181,
+      "sponsorships_count": 23,
+      "sponsoring_count": 6,
+      "sponsors_total": 23,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.5252,
+      "engagement_score": 4.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mvdan",
@@ -2824,7 +3188,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.8587,
-      "engagement_score": 3.31
+      "engagement_score": 3.31,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dai-shi",
@@ -2849,7 +3216,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2568,
-      "engagement_score": 4.52
+      "engagement_score": 4.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pi0",
@@ -2874,7 +3244,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4101,
-      "engagement_score": 8.07
+      "engagement_score": 8.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "zkat",
@@ -2899,7 +3272,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.443,
-      "engagement_score": 4.9
+      "engagement_score": 4.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dunglas",
@@ -2924,7 +3300,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4553,
-      "engagement_score": 7.64
+      "engagement_score": 7.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "antonmedv",
@@ -2949,7 +3328,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6522,
-      "engagement_score": 3.13
+      "engagement_score": 3.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nicolas-grekas",
@@ -2974,7 +3356,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9845,
-      "engagement_score": 3.68
+      "engagement_score": 3.68,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "isaacs",
@@ -2999,7 +3384,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.123,
-      "engagement_score": 8.88
+      "engagement_score": 8.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "neuecc",
@@ -3024,7 +3412,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4857,
-      "engagement_score": 3.09
+      "engagement_score": 3.09,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "steveruizok",
@@ -3049,7 +3440,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5799,
-      "engagement_score": 4.17
+      "engagement_score": 4.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "erincatto",
@@ -3064,7 +3458,7 @@
       "website_url": "http://box2d.org",
       "created_at": "2014-04-13T23:05:49Z",
       "is_github_star": false,
-      "followers": 2239,
+      "followers": 2240,
       "following": 8,
       "public_repos": 25,
       "sponsorships_count": 20,
@@ -3073,8 +3467,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.8933,
-      "engagement_score": 2.47
+      "sponsor_conversion_rate": 0.8929,
+      "engagement_score": 2.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "brandonroberts",
@@ -3099,7 +3496,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9183,
-      "engagement_score": 6.17
+      "engagement_score": 6.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rustdesk",
@@ -3124,7 +3524,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2014,
-      "engagement_score": 3.35
+      "engagement_score": 3.35,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "doodlewind",
@@ -3149,7 +3552,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3986,
-      "engagement_score": 3.76
+      "engagement_score": 3.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mrexodia",
@@ -3174,7 +3580,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4882,
-      "engagement_score": 9.58
+      "engagement_score": 9.58,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "samaaron",
@@ -3199,7 +3608,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.9346,
-      "engagement_score": 3.39
+      "engagement_score": 3.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sdras",
@@ -3224,7 +3636,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0718,
-      "engagement_score": 5.53
+      "engagement_score": 5.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "antonbabenko",
@@ -3239,7 +3654,7 @@
       "website_url": "https://www.betajob.com",
       "created_at": "2010-09-09T12:20:36Z",
       "is_github_star": false,
-      "followers": 5564,
+      "followers": 5563,
       "following": 246,
       "public_repos": 53,
       "sponsorships_count": 18,
@@ -3248,8 +3663,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.3235,
-      "engagement_score": 2.89
+      "sponsor_conversion_rate": 0.3236,
+      "engagement_score": 2.89,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kazupon",
@@ -3274,7 +3692,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4137,
-      "engagement_score": 6.01
+      "engagement_score": 6.01,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "gcanti",
@@ -3299,7 +3720,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6739,
-      "engagement_score": 2.93
+      "engagement_score": 2.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nedbat",
@@ -3324,7 +3748,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.7332,
-      "engagement_score": 3.64
+      "engagement_score": 3.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ai",
@@ -3349,7 +3776,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1677,
-      "engagement_score": 4.26
+      "engagement_score": 4.26,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lissy93",
@@ -3374,32 +3804,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2283,
-      "engagement_score": 3.86
-    },
-    {
-      "login": "teknium1",
-      "type": "user",
-      "name": "Teknium",
-      "avatar_url": "https://avatars.githubusercontent.com/u/127238744?u=b17ed1d4d68a017b076db1f674491d2896d6076d&v=4",
-      "html_url": "https://github.com/teknium1",
-      "bio": "Maximize Human Potential",
-      "location": null,
-      "company": null,
-      "twitter_username": "Teknium",
-      "website_url": null,
-      "created_at": "2023-03-07T17:39:31Z",
-      "is_github_star": false,
-      "followers": 6679,
-      "following": 28,
-      "public_repos": 67,
-      "sponsorships_count": 17,
-      "sponsoring_count": 0,
-      "sponsors_total": 17,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2545,
-      "engagement_score": 3.04
+      "engagement_score": 3.86,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Akryum",
@@ -3424,7 +3832,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3198,
-      "engagement_score": 4.72
+      "engagement_score": 4.72,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Brooooooklyn",
@@ -3449,7 +3860,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3346,
-      "engagement_score": 5.57
+      "engagement_score": 5.57,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Torantulino",
@@ -3474,7 +3888,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4758,
-      "engagement_score": 2.49
+      "engagement_score": 2.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "WerWolv",
@@ -3499,7 +3916,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5407,
-      "engagement_score": 3.46
+      "engagement_score": 3.46,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "JoshuaKGoldberg",
@@ -3524,7 +3944,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.572,
-      "engagement_score": 8.16
+      "engagement_score": 8.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nzakas",
@@ -3549,7 +3972,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1483,
-      "engagement_score": 3.55
+      "engagement_score": 3.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "teknium1",
+      "type": "user",
+      "name": "Teknium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127238744?u=b17ed1d4d68a017b076db1f674491d2896d6076d&v=4",
+      "html_url": "https://github.com/teknium1",
+      "bio": "Maximize Human Potential",
+      "location": null,
+      "company": null,
+      "twitter_username": "Teknium",
+      "website_url": null,
+      "created_at": "2023-03-07T17:39:31Z",
+      "is_github_star": false,
+      "followers": 6680,
+      "following": 28,
+      "public_repos": 67,
+      "sponsorships_count": 16,
+      "sponsoring_count": 0,
+      "sponsors_total": 16,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2395,
+      "engagement_score": 2.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "medvednikov",
@@ -3574,7 +4028,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5867,
-      "engagement_score": 2.56
+      "engagement_score": 2.56,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "ZacSweers",
@@ -3599,7 +4056,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6107,
-      "engagement_score": 4.52
+      "engagement_score": 4.52,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "danielmiessler",
@@ -3624,32 +4084,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0888,
-      "engagement_score": 3.99
-    },
-    {
-      "login": "ChrisTitusTech",
-      "type": "user",
-      "name": "Chris Titus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7896101?u=af642f9bbd072e6b21622e77c163298ebed45db1&v=4",
-      "html_url": "https://github.com/ChrisTitusTech",
-      "bio": "\r\n    Tech Content Creator\r\n",
-      "location": "Dallas, TX",
-      "company": "CT Tech Group LLC",
-      "twitter_username": "christitustech",
-      "website_url": "christitus.com",
-      "created_at": "2014-06-15T19:34:29Z",
-      "is_github_star": false,
-      "followers": 16313,
-      "following": 37,
-      "public_repos": 94,
-      "sponsorships_count": 15,
-      "sponsoring_count": 0,
-      "sponsors_total": 15,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.092,
-      "engagement_score": 4.07
+      "engagement_score": 3.99,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jonschlinkert",
@@ -3674,7 +4112,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3027,
-      "engagement_score": 13.64
+      "engagement_score": 13.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "D4Vinci",
@@ -3689,7 +4130,7 @@
       "website_url": null,
       "created_at": "2016-07-22T22:10:18Z",
       "is_github_star": false,
-      "followers": 3742,
+      "followers": 3743,
       "following": 87,
       "public_repos": 47,
       "sponsorships_count": 15,
@@ -3698,8 +4139,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.4009,
-      "engagement_score": 2.34
+      "sponsor_conversion_rate": 0.4007,
+      "engagement_score": 2.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "wooorm",
@@ -3724,7 +4168,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4208,
-      "engagement_score": 4.41
+      "engagement_score": 4.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "johnlindquist",
@@ -3749,7 +4196,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6646,
-      "engagement_score": 9.18
+      "engagement_score": 9.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "ChrisTitusTech",
+      "type": "user",
+      "name": "Chris Titus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7896101?u=af642f9bbd072e6b21622e77c163298ebed45db1&v=4",
+      "html_url": "https://github.com/ChrisTitusTech",
+      "bio": "\r\n    Tech Content Creator\r\n",
+      "location": "Dallas, TX",
+      "company": "CT Tech Group LLC",
+      "twitter_username": "christitustech",
+      "website_url": "christitus.com",
+      "created_at": "2014-06-15T19:34:29Z",
+      "is_github_star": false,
+      "followers": 16313,
+      "following": 37,
+      "public_repos": 94,
+      "sponsorships_count": 14,
+      "sponsoring_count": 0,
+      "sponsors_total": 14,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0858,
+      "engagement_score": 3.97,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tw93",
@@ -3764,7 +4242,7 @@
       "website_url": null,
       "created_at": "2014-09-11T11:54:35Z",
       "is_github_star": false,
-      "followers": 13015,
+      "followers": 13016,
       "following": 9,
       "public_repos": 47,
       "sponsorships_count": 14,
@@ -3774,7 +4252,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1076,
-      "engagement_score": 3.17
+      "engagement_score": 3.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "typicode",
@@ -3799,7 +4280,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.137,
-      "engagement_score": 3.2
+      "engagement_score": 3.2,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jgthms",
@@ -3824,7 +4308,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2324,
-      "engagement_score": 3.05
+      "engagement_score": 3.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mudler",
@@ -3849,7 +4336,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.5499,
-      "engagement_score": 5.48
+      "engagement_score": 5.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "PINTO0309",
@@ -3874,7 +4364,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.6186,
-      "engagement_score": 6.25
+      "engagement_score": 6.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "t3dotgg",
@@ -3889,7 +4382,7 @@
       "website_url": "t3.gg",
       "created_at": "2014-02-21T21:06:44Z",
       "is_github_star": false,
-      "followers": 20036,
+      "followers": 20037,
       "following": 62,
       "public_repos": 157,
       "sponsorships_count": 13,
@@ -3899,7 +4392,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0649,
-      "engagement_score": 4.87
+      "engagement_score": 4.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "GrahamCampbell",
@@ -3924,7 +4420,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1832,
-      "engagement_score": 3.17
+      "engagement_score": 3.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hzoo",
@@ -3949,7 +4448,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.243,
-      "engagement_score": 2.73
+      "engagement_score": 2.73,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nlohmann",
@@ -3974,7 +4476,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4179,
-      "engagement_score": 2.07
+      "engagement_score": 2.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mattpocock",
@@ -3989,7 +4494,7 @@
       "website_url": "https://totaltypescript.com",
       "created_at": "2017-05-02T09:05:18Z",
       "is_github_star": false,
-      "followers": 45161,
+      "followers": 45167,
       "following": 32,
       "public_repos": 251,
       "sponsorships_count": 12,
@@ -3999,7 +4504,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0266,
-      "engagement_score": 8.23
+      "engagement_score": 8.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kijai",
@@ -4024,7 +4532,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1799,
-      "engagement_score": 3.0
+      "engagement_score": 3.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "KATT",
@@ -4049,7 +4560,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3824,
-      "engagement_score": 4.51
+      "engagement_score": 4.51,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Eugeny",
@@ -4074,7 +4588,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4678,
-      "engagement_score": 2.77
+      "engagement_score": 2.77,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "antirez",
@@ -4089,7 +4606,7 @@
       "website_url": "http://invece.org",
       "created_at": "2009-03-21T22:29:53Z",
       "is_github_star": false,
-      "followers": 31604,
+      "followers": 31605,
       "following": 4,
       "public_repos": 111,
       "sponsorships_count": 11,
@@ -4099,7 +4616,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0348,
-      "engagement_score": 5.37
+      "engagement_score": 5.37,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "felangel",
+      "type": "user",
+      "name": "Felix Angelov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8855632?u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4",
+      "html_url": "https://github.com/felangel",
+      "bio": "software engineer by day, software engineer by night.",
+      "location": "Chicago",
+      "company": null,
+      "twitter_username": "felangelov",
+      "website_url": "https://felangel.dev",
+      "created_at": "2014-09-22T02:35:58Z",
+      "is_github_star": false,
+      "followers": 9282,
+      "following": 68,
+      "public_repos": 173,
+      "sponsorships_count": 11,
+      "sponsoring_count": 0,
+      "sponsors_total": 11,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1185,
+      "engagement_score": 3.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kamilmysliwiec",
@@ -4124,32 +4672,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1234,
-      "engagement_score": 2.62
-    },
-    {
-      "login": "felangel",
-      "type": "user",
-      "name": "Felix Angelov",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8855632?u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4",
-      "html_url": "https://github.com/felangel",
-      "bio": "software engineer by day, software engineer by night.",
-      "location": "Chicago",
-      "company": null,
-      "twitter_username": "felangelov",
-      "website_url": "https://felangel.dev",
-      "created_at": "2014-09-22T02:35:58Z",
-      "is_github_star": false,
-      "followers": 9283,
-      "following": 68,
-      "public_repos": 173,
-      "sponsorships_count": 11,
-      "sponsoring_count": 0,
-      "sponsors_total": 11,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1185,
-      "engagement_score": 3.76
+      "engagement_score": 2.62,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "timothystewart6",
@@ -4164,7 +4690,7 @@
       "website_url": "https://technotim.com",
       "created_at": "2012-01-11T16:11:57Z",
       "is_github_star": false,
-      "followers": 4176,
+      "followers": 4177,
       "following": 38,
       "public_repos": 158,
       "sponsorships_count": 11,
@@ -4173,8 +4699,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2634,
-      "engagement_score": 3.1
+      "sponsor_conversion_rate": 0.2633,
+      "engagement_score": 3.1,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "drcmda",
@@ -4199,7 +4728,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2597,
-      "engagement_score": 2.76
+      "engagement_score": 2.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Innei",
@@ -4224,7 +4756,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3169,
-      "engagement_score": 4.94
+      "engagement_score": 4.94,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "coreyhaines31",
@@ -4249,7 +4784,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3345,
-      "engagement_score": 1.81
+      "engagement_score": 1.81,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "AvdLee",
@@ -4274,7 +4812,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3431,
-      "engagement_score": 2.53
+      "engagement_score": 2.53,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "luke-jr",
@@ -4299,7 +4840,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4019,
-      "engagement_score": 2.35
+      "engagement_score": 2.35,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Andarist",
@@ -4324,7 +4868,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.475,
-      "engagement_score": 8.02
+      "engagement_score": 8.02,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "samber",
@@ -4349,7 +4896,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4752,
-      "engagement_score": 3.98
+      "engagement_score": 3.98,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "anonrig",
@@ -4364,7 +4914,7 @@
       "website_url": "https://yagiz.co",
       "created_at": "2012-07-07T08:42:28Z",
       "is_github_star": false,
-      "followers": 2271,
+      "followers": 2272,
       "following": 123,
       "public_repos": 295,
       "sponsorships_count": 11,
@@ -4373,8 +4923,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.4844,
-      "engagement_score": 4.28
+      "sponsor_conversion_rate": 0.4842,
+      "engagement_score": 4.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mcollina",
@@ -4389,7 +4942,7 @@
       "website_url": "nodeland.dev",
       "created_at": "2009-02-05T22:24:19Z",
       "is_github_star": true,
-      "followers": 11364,
+      "followers": 11365,
       "following": 473,
       "public_repos": 827,
       "sponsorships_count": 10,
@@ -4399,7 +4952,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.088,
-      "engagement_score": 10.41
+      "engagement_score": 10.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "markerikson",
@@ -4424,7 +4980,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.168,
-      "engagement_score": 2.7
+      "engagement_score": 2.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "jedisct1",
+      "type": "user",
+      "name": "Frank Denis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124872?v=4",
+      "html_url": "https://github.com/jedisct1",
+      "bio": "Get my public keys here: https://sk.tl/7CPRo8kn",
+      "location": "Antibes, France",
+      "company": null,
+      "twitter_username": "jedisct1",
+      "website_url": "https://primulinus.com",
+      "created_at": "2009-09-09T10:20:57Z",
+      "is_github_star": false,
+      "followers": 4358,
+      "following": 178,
+      "public_repos": 572,
+      "sponsorships_count": 10,
+      "sponsoring_count": 0,
+      "sponsors_total": 10,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2295,
+      "engagement_score": 7.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fatedier",
@@ -4449,32 +5036,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2317,
-      "engagement_score": 2.16
-    },
-    {
-      "login": "jedisct1",
-      "type": "user",
-      "name": "Frank Denis",
-      "avatar_url": "https://avatars.githubusercontent.com/u/124872?v=4",
-      "html_url": "https://github.com/jedisct1",
-      "bio": "Get my public keys here: https://sk.tl/7CPRo8kn",
-      "location": "Antibes, France",
-      "company": null,
-      "twitter_username": "jedisct1",
-      "website_url": "https://primulinus.com",
-      "created_at": "2009-09-09T10:20:57Z",
-      "is_github_star": false,
-      "followers": 4358,
-      "following": 178,
-      "public_repos": 571,
-      "sponsorships_count": 10,
-      "sponsoring_count": 0,
-      "sponsors_total": 10,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2295,
-      "engagement_score": 7.15
+      "engagement_score": 2.16,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "M0nica",
@@ -4489,7 +5054,7 @@
       "website_url": "https://aboutmonica.com/",
       "created_at": "2014-03-19T13:35:58Z",
       "is_github_star": true,
-      "followers": 4074,
+      "followers": 4075,
       "following": 50,
       "public_repos": 217,
       "sponsorships_count": 10,
@@ -4498,8 +5063,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2455,
-      "engagement_score": 3.58
+      "sponsor_conversion_rate": 0.2454,
+      "engagement_score": 3.58,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hoshinolina",
@@ -4514,7 +5082,7 @@
       "website_url": null,
       "created_at": "2022-03-21T11:29:54Z",
       "is_github_star": false,
-      "followers": 4019,
+      "followers": 4018,
       "following": 1,
       "public_repos": 50,
       "sponsorships_count": 10,
@@ -4523,8 +5091,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2488,
-      "engagement_score": 1.9
+      "sponsor_conversion_rate": 0.2489,
+      "engagement_score": 1.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "pilcrowonpaper",
@@ -4549,7 +5120,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3203,
-      "engagement_score": 2.0
+      "engagement_score": 2.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Tyrrrz",
@@ -4574,7 +5148,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3394,
-      "engagement_score": 1.71
+      "engagement_score": 1.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jackyzha0",
@@ -4599,7 +5176,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4155,
-      "engagement_score": 2.05
+      "engagement_score": 2.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "getify",
@@ -4624,7 +5204,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0198,
-      "engagement_score": 6.25
+      "engagement_score": 6.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jinzhu",
@@ -4649,7 +5232,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1608,
-      "engagement_score": 2.59
+      "engagement_score": 2.59,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "carlospolop",
@@ -4674,7 +5260,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2059,
-      "engagement_score": 2.92
+      "engagement_score": 2.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jaredhanson",
@@ -4699,7 +5288,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2192,
-      "engagement_score": 5.71
+      "engagement_score": 5.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "S3cur3Th1sSh1t",
@@ -4724,7 +5316,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2333,
-      "engagement_score": 2.71
+      "engagement_score": 2.71,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "juliusmarminge",
@@ -4749,7 +5344,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2624,
-      "engagement_score": 4.05
+      "engagement_score": 4.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "horsicq",
@@ -4774,7 +5372,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2935,
-      "engagement_score": 2.67
+      "engagement_score": 2.67,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "crazy-max",
@@ -4799,7 +5400,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3214,
-      "engagement_score": 4.25
+      "engagement_score": 4.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mre",
@@ -4824,7 +5428,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4121,
-      "engagement_score": 5.47
+      "engagement_score": 5.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mifi",
@@ -4849,7 +5456,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4442,
-      "engagement_score": 3.05
+      "engagement_score": 3.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "brendt",
@@ -4874,7 +5484,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.4433,
-      "engagement_score": 3.27
+      "engagement_score": 3.27,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cassidoo",
@@ -4899,7 +5512,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0532,
-      "engagement_score": 4.47
+      "engagement_score": 4.47,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "affaan-m",
@@ -4914,7 +5530,7 @@
       "website_url": "https://affaanmustafa.com",
       "created_at": "2023-02-04T11:57:38Z",
       "is_github_star": false,
-      "followers": 10750,
+      "followers": 10755,
       "following": 12,
       "public_repos": 31,
       "sponsorships_count": 8,
@@ -4924,7 +5540,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0744,
-      "engagement_score": 2.19
+      "engagement_score": 2.19,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lemire",
@@ -4949,7 +5568,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0968,
-      "engagement_score": 6.18
+      "engagement_score": 6.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "barryvdh",
@@ -4974,7 +5596,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1154,
-      "engagement_score": 5.0
+      "engagement_score": 5.0,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "alexeygrigorev",
@@ -4989,7 +5614,7 @@
       "website_url": "https://alexeygrigorev.com",
       "created_at": "2011-06-25T13:16:52Z",
       "is_github_star": false,
-      "followers": 6181,
+      "followers": 6182,
       "following": 0,
       "public_repos": 188,
       "sponsorships_count": 8,
@@ -4999,7 +5624,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1294,
-      "engagement_score": 3.3
+      "engagement_score": 3.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Yeachan-Heo",
@@ -5014,7 +5642,7 @@
       "website_url": "bellman.tistory.com",
       "created_at": "2019-09-01T02:02:23Z",
       "is_github_star": false,
-      "followers": 4756,
+      "followers": 4755,
       "following": 42,
       "public_repos": 77,
       "sponsorships_count": 8,
@@ -5024,7 +5652,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1682,
-      "engagement_score": 2.05
+      "engagement_score": 2.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "arvidn",
@@ -5049,7 +5680,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2374,
-      "engagement_score": 1.7
+      "engagement_score": 1.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cure53",
@@ -5064,7 +5698,7 @@
       "website_url": "https://cure53.de",
       "created_at": "2014-02-17T21:39:32Z",
       "is_github_star": false,
-      "followers": 2774,
+      "followers": 2773,
       "following": 0,
       "public_repos": 28,
       "sponsorships_count": 8,
@@ -5073,8 +5707,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2884,
-      "engagement_score": 1.36
+      "sponsor_conversion_rate": 0.2885,
+      "engagement_score": 1.36,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "hawkw",
@@ -5099,7 +5736,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3532,
-      "engagement_score": 4.14
+      "engagement_score": 4.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "sergiodxa",
@@ -5124,32 +5764,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3628,
-      "engagement_score": 2.84
-    },
-    {
-      "login": "nilbuild",
-      "type": "user",
-      "name": "Kamran Ahmed",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?u=93c523908528108bd544b43ab2c50509725c7b87&v=4",
-      "html_url": "https://github.com/nilbuild",
-      "bio": "I love building things \ud83e\uddd1\u200d\ud83d\udcbb",
-      "location": "United Kingdom",
-      "company": null,
-      "twitter_username": "nilbuild",
-      "website_url": "https://kamran.fyi",
-      "created_at": "2013-07-02T12:54:45Z",
-      "is_github_star": false,
-      "followers": 41018,
-      "following": 194,
-      "public_repos": 133,
-      "sponsorships_count": 7,
-      "sponsoring_count": 0,
-      "sponsors_total": 7,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.0171,
-      "engagement_score": 6.13
+      "engagement_score": 2.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "midudev",
@@ -5164,7 +5782,7 @@
       "website_url": "https://twitch.tv/midudev",
       "created_at": "2012-03-21T18:31:36Z",
       "is_github_star": true,
-      "followers": 39427,
+      "followers": 39429,
       "following": 2,
       "public_repos": 277,
       "sponsorships_count": 7,
@@ -5174,7 +5792,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0178,
-      "engagement_score": 7.41
+      "engagement_score": 7.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "nilbuild",
+      "type": "user",
+      "name": "Kamran Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?u=93c523908528108bd544b43ab2c50509725c7b87&v=4",
+      "html_url": "https://github.com/nilbuild",
+      "bio": "I love building things \ud83e\uddd1\u200d\ud83d\udcbb",
+      "location": "United Kingdom",
+      "company": null,
+      "twitter_username": "nilbuild",
+      "website_url": "https://kamran.fyi",
+      "created_at": "2013-07-02T12:54:45Z",
+      "is_github_star": false,
+      "followers": 41020,
+      "following": 194,
+      "public_repos": 133,
+      "sponsorships_count": 7,
+      "sponsoring_count": 0,
+      "sponsors_total": 7,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0171,
+      "engagement_score": 6.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "anuraghazra",
@@ -5189,7 +5838,7 @@
       "website_url": "https://anuraghazra.dev",
       "created_at": "2018-01-12T14:48:56Z",
       "is_github_star": false,
-      "followers": 14955,
+      "followers": 14956,
       "following": 124,
       "public_repos": 140,
       "sponsorships_count": 7,
@@ -5199,7 +5848,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0468,
-      "engagement_score": 3.6
+      "engagement_score": 3.6,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "koush",
@@ -5224,7 +5876,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.083,
-      "engagement_score": 5.39
+      "engagement_score": 5.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "FiloSottile",
@@ -5239,7 +5894,7 @@
       "website_url": "https://filippo.io",
       "created_at": "2011-11-28T13:06:49Z",
       "is_github_star": false,
-      "followers": 9421,
+      "followers": 9420,
       "following": 56,
       "public_repos": 156,
       "sponsorships_count": 7,
@@ -5249,7 +5904,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0743,
-      "engagement_score": 3.2
+      "engagement_score": 3.2,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "orta",
@@ -5274,7 +5932,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1115,
-      "engagement_score": 12.03
+      "engagement_score": 12.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "EvanBacon",
@@ -5289,7 +5950,7 @@
       "website_url": "http://evanbacon.dev/",
       "created_at": "2014-11-10T22:01:21Z",
       "is_github_star": false,
-      "followers": 6220,
+      "followers": 6219,
       "following": 92,
       "public_repos": 353,
       "sponsorships_count": 7,
@@ -5298,8 +5959,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.1125,
-      "engagement_score": 4.85
+      "sponsor_conversion_rate": 0.1126,
+      "engagement_score": 4.85,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "aidenybai",
@@ -5324,7 +5988,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1206,
-      "engagement_score": 3.43
+      "engagement_score": 3.43,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lukeed",
@@ -5349,7 +6016,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1378,
-      "engagement_score": 4.95
+      "engagement_score": 4.95,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "insidegui",
@@ -5374,7 +6044,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1416,
-      "engagement_score": 3.82
+      "engagement_score": 3.82,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Dimillian",
@@ -5389,7 +6062,7 @@
       "website_url": "https://dimillian.app",
       "created_at": "2010-12-24T10:49:30Z",
       "is_github_star": false,
-      "followers": 4354,
+      "followers": 4353,
       "following": 235,
       "public_repos": 178,
       "sponsorships_count": 7,
@@ -5399,7 +6072,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1608,
-      "engagement_score": 2.92
+      "engagement_score": 2.92,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "saadeghi",
@@ -5414,7 +6090,7 @@
       "website_url": "https://saadeghi.com",
       "created_at": "2014-04-18T22:16:09Z",
       "is_github_star": false,
-      "followers": 3479,
+      "followers": 3480,
       "following": 196,
       "public_repos": 91,
       "sponsorships_count": 7,
@@ -5423,8 +6099,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2012,
-      "engagement_score": 1.96
+      "sponsor_conversion_rate": 0.2011,
+      "engagement_score": 1.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Gezine",
@@ -5439,7 +6118,7 @@
       "website_url": "https://gist.github.com/Gezine",
       "created_at": "2017-07-08T11:20:14Z",
       "is_github_star": false,
-      "followers": 3292,
+      "followers": 3293,
       "following": 2,
       "public_repos": 14,
       "sponsorships_count": 7,
@@ -5449,7 +6128,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2126,
-      "engagement_score": 1.17
+      "engagement_score": 1.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rwxrob",
@@ -5474,7 +6156,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2241,
-      "engagement_score": 1.55
+      "engagement_score": 1.55,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mame",
@@ -5499,7 +6184,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2345,
-      "engagement_score": 3.17
+      "engagement_score": 3.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "umputun",
@@ -5524,7 +6212,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2443,
-      "engagement_score": 1.63
+      "engagement_score": 1.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jwiegley",
@@ -5549,7 +6240,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2582,
-      "engagement_score": 3.39
+      "engagement_score": 3.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "clauderic",
@@ -5564,7 +6258,7 @@
       "website_url": null,
       "created_at": "2012-02-07T15:28:10Z",
       "is_github_star": false,
-      "followers": 2495,
+      "followers": 2494,
       "following": 33,
       "public_repos": 89,
       "sponsorships_count": 7,
@@ -5573,8 +6267,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2806,
-      "engagement_score": 1.84
+      "sponsor_conversion_rate": 0.2807,
+      "engagement_score": 1.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "marten-seemann",
@@ -5599,32 +6296,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2942,
-      "engagement_score": 7.29
-    },
-    {
-      "login": "kean",
-      "type": "user",
-      "name": "Alex Grebenyuk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1567433?u=5f5ecec6af69719db105113a782bad77dc3c7ebe&v=4",
-      "html_url": "https://github.com/kean",
-      "bio": "\ud83d\ude1c",
-      "location": "Florida",
-      "company": "@Automattic ",
-      "twitter_username": null,
-      "website_url": "kean.blog",
-      "created_at": "2012-03-23T08:25:10Z",
-      "is_github_star": false,
-      "followers": 2287,
-      "following": 0,
-      "public_repos": 32,
-      "sponsorships_count": 7,
-      "sponsoring_count": 0,
-      "sponsors_total": 7,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.3061,
-      "engagement_score": 1.25
+      "engagement_score": 7.29,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mmistakes",
@@ -5649,7 +6324,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3125,
-      "engagement_score": 1.13
+      "engagement_score": 1.13,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "kean",
+      "type": "user",
+      "name": "Alex Grebenyuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1567433?u=5f5ecec6af69719db105113a782bad77dc3c7ebe&v=4",
+      "html_url": "https://github.com/kean",
+      "bio": "\ud83d\ude1c",
+      "location": "Florida",
+      "company": "@Automattic ",
+      "twitter_username": null,
+      "website_url": "kean.blog",
+      "created_at": "2012-03-23T08:25:10Z",
+      "is_github_star": false,
+      "followers": 2287,
+      "following": 0,
+      "public_repos": 32,
+      "sponsorships_count": 7,
+      "sponsoring_count": 0,
+      "sponsors_total": 7,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.3061,
+      "engagement_score": 1.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "safishamsi",
@@ -5674,7 +6380,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.3296,
-      "engagement_score": 1.05
+      "engagement_score": 1.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kennethreitz",
@@ -5699,7 +6408,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0199,
-      "engagement_score": 5.23
+      "engagement_score": 5.23,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "feross",
@@ -5724,7 +6436,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0402,
-      "engagement_score": 4.28
+      "engagement_score": 4.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "bvaughn",
@@ -5749,7 +6464,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0515,
-      "engagement_score": 3.58
+      "engagement_score": 3.58,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "stefanprodan",
@@ -5774,7 +6492,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0725,
-      "engagement_score": 2.49
+      "engagement_score": 2.49,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mjackson",
@@ -5799,7 +6520,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0802,
-      "engagement_score": 3.66
+      "engagement_score": 3.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cpojer",
@@ -5824,7 +6548,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1155,
-      "engagement_score": 2.3
+      "engagement_score": 2.3,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "lefticus",
@@ -5839,7 +6566,7 @@
       "website_url": "http://articles.emptycrate.com",
       "created_at": "2010-03-31T16:52:42Z",
       "is_github_star": false,
-      "followers": 5094,
+      "followers": 5095,
       "following": 2,
       "public_repos": 128,
       "sponsorships_count": 6,
@@ -5849,7 +6576,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1178,
-      "engagement_score": 2.39
+      "engagement_score": 2.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "patriciogonzalezvivo",
@@ -5874,7 +6604,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1389,
-      "engagement_score": 2.69
+      "engagement_score": 2.69,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "terrytangyuan",
@@ -5899,7 +6632,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1539,
-      "engagement_score": 2.87
+      "engagement_score": 2.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "oblador",
@@ -5924,7 +6660,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1576,
-      "engagement_score": 2.39
+      "engagement_score": 2.39,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "code-yeongyu",
@@ -5939,7 +6678,7 @@
       "website_url": "code-yeongyu.tistory.com",
       "created_at": "2015-02-23T03:17:05Z",
       "is_github_star": false,
-      "followers": 3793,
+      "followers": 3792,
       "following": 44,
       "public_repos": 216,
       "sponsorships_count": 6,
@@ -5949,32 +6688,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1582,
-      "engagement_score": 3.14
-    },
-    {
-      "login": "reinink",
-      "type": "user",
-      "name": "Jonathan Reinink",
-      "avatar_url": "https://avatars.githubusercontent.com/u/882133?u=7aabf6467d5c4337106a22fe9ccff3285fdff9d8&v=4",
-      "html_url": "https://github.com/reinink",
-      "bio": "\ud83d\udc68\u200d\ud83d\udcbb Hacking at @tailwindlabs.\r\n\u23e9 Author of @inertiajs.\r\n\ud83d\ude0d Fan of @laravel.\r\n\u2764\ufe0f Father and husband.\r\n\ud83d\ude4f Follower of Christ.",
-      "location": "Beamsville, Ontario",
-      "company": "@tailwindlabs",
-      "twitter_username": "reinink",
-      "website_url": "https://reinink.ca",
-      "created_at": "2011-06-28T18:50:23Z",
-      "is_github_star": false,
-      "followers": 3362,
-      "following": 0,
-      "public_repos": 34,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1785,
-      "engagement_score": 1.28
+      "engagement_score": 3.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Xuanwo",
@@ -5999,7 +6716,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1922,
-      "engagement_score": 5.28
+      "engagement_score": 5.28,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "osm0sis",
+      "type": "user",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2858716?v=4",
+      "html_url": "https://github.com/osm0sis",
+      "bio": "Android flashable zips, scripts, bins & automation. Creator of AnyKernel3 & Android Image Kitchen. Check my \"Odds & Ends\" thread link for a comprehensive list.",
+      "location": null,
+      "company": null,
+      "twitter_username": "osm0sis",
+      "website_url": "https://is.gd/osm0_",
+      "created_at": "2012-11-22T01:53:32Z",
+      "is_github_star": false,
+      "followers": 2809,
+      "following": 0,
+      "public_repos": 37,
+      "sponsorships_count": 6,
+      "sponsoring_count": 0,
+      "sponsors_total": 6,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2136,
+      "engagement_score": 1.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "kishikawakatsumi",
@@ -6024,32 +6772,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2029,
-      "engagement_score": 2.86
-    },
-    {
-      "login": "osm0sis",
-      "type": "user",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2858716?v=4",
-      "html_url": "https://github.com/osm0sis",
-      "bio": "Android flashable zips, scripts, bins & automation. Creator of AnyKernel3 & Android Image Kitchen. Check my \"Odds & Ends\" thread link for a comprehensive list.",
-      "location": null,
-      "company": null,
-      "twitter_username": "osm0sis",
-      "website_url": "https://is.gd/osm0_",
-      "created_at": "2012-11-22T01:53:32Z",
-      "is_github_star": false,
-      "followers": 2808,
-      "following": 0,
-      "public_repos": 37,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2137,
-      "engagement_score": 1.25
+      "engagement_score": 2.86,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "coreybutler",
@@ -6074,7 +6800,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2212,
-      "engagement_score": 2.05
+      "engagement_score": 2.05,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "weierophinney",
@@ -6099,7 +6828,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2324,
-      "engagement_score": 1.63
+      "engagement_score": 1.63,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "brettcannon",
@@ -6124,7 +6856,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2425,
-      "engagement_score": 3.66
+      "engagement_score": 3.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "fanquake",
@@ -6149,7 +6884,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2534,
-      "engagement_score": 1.96
+      "engagement_score": 1.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "cubiq",
@@ -6164,7 +6902,7 @@
       "website_url": "https://matt3o.com",
       "created_at": "2010-10-05T07:00:58Z",
       "is_github_star": false,
-      "followers": 2326,
+      "followers": 2325,
       "following": 2,
       "public_repos": 51,
       "sponsorships_count": 6,
@@ -6173,8 +6911,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.258,
-      "engagement_score": 1.34
+      "sponsor_conversion_rate": 0.2581,
+      "engagement_score": 1.34,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "daattali",
@@ -6199,7 +6940,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2689,
-      "engagement_score": 1.7
+      "engagement_score": 1.7,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "octref",
@@ -6224,7 +6968,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2796,
-      "engagement_score": 1.87
+      "engagement_score": 1.87,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "matthew-carroll",
@@ -6249,32 +6996,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2833,
-      "engagement_score": 1.18
-    },
-    {
-      "login": "TheAlexLichter",
-      "type": "user",
-      "name": "Alexander Lichter",
-      "avatar_url": "https://avatars.githubusercontent.com/u/640208?u=8103e364cbb1c0892c0cbe6831eef0dbcb6aff6b&v=4",
-      "html_url": "https://github.com/TheAlexLichter",
-      "bio": "@voidzero-dev (@cloudflare) \u2022 @nuxt team \u2022 Speaker \u2022 Podcast Host ",
-      "location": "Amsterdam, The Netherlands",
-      "company": "@voidzero-dev",
-      "twitter_username": "TheAlexLichter",
-      "website_url": "https://lichter.io",
-      "created_at": "2011-02-26T23:52:46Z",
-      "is_github_star": false,
-      "followers": 2016,
-      "following": 115,
-      "public_repos": 496,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2976,
-      "engagement_score": 5.76
+      "engagement_score": 1.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "nicobailon",
@@ -6299,32 +7024,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2975,
-      "engagement_score": 2.14
+      "engagement_score": 2.14,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
-      "login": "tj",
+      "login": "TheAlexLichter",
       "type": "user",
-      "name": "TJ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25254?u=d332bdd6d335df9f08e7cdac0e17143d898ec70d&v=4",
-      "html_url": "https://github.com/tj",
-      "bio": null,
-      "location": null,
-      "company": "Apex",
-      "twitter_username": null,
-      "website_url": null,
-      "created_at": "2008-09-18T22:37:28Z",
+      "name": "Alexander Lichter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/640208?u=8103e364cbb1c0892c0cbe6831eef0dbcb6aff6b&v=4",
+      "html_url": "https://github.com/TheAlexLichter",
+      "bio": "@voidzero-dev (@cloudflare) \u2022 @nuxt team \u2022 Speaker \u2022 Podcast Host ",
+      "location": "Amsterdam, The Netherlands",
+      "company": "@voidzero-dev",
+      "twitter_username": "TheAlexLichter",
+      "website_url": "https://lichter.io",
+      "created_at": "2011-02-26T23:52:46Z",
       "is_github_star": false,
-      "followers": 54378,
-      "following": 45,
-      "public_repos": 328,
-      "sponsorships_count": 5,
+      "followers": 2016,
+      "following": 115,
+      "public_repos": 496,
+      "sponsorships_count": 6,
       "sponsoring_count": 0,
-      "sponsors_total": 5,
+      "sponsors_total": 6,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.0092,
-      "engagement_score": 9.22
+      "sponsor_conversion_rate": 0.2976,
+      "engagement_score": 5.76,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rafaballerini",
@@ -6339,7 +7070,7 @@
       "website_url": "https://beacons.ai/rafaballerini",
       "created_at": "2019-08-20T15:07:30Z",
       "is_github_star": false,
-      "followers": 59931,
+      "followers": 59932,
       "following": 27,
       "public_repos": 73,
       "sponsorships_count": 5,
@@ -6349,7 +7080,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0083,
-      "engagement_score": 7.22
+      "engagement_score": 7.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "tj",
+      "type": "user",
+      "name": "TJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25254?u=d332bdd6d335df9f08e7cdac0e17143d898ec70d&v=4",
+      "html_url": "https://github.com/tj",
+      "bio": null,
+      "location": null,
+      "company": "Apex",
+      "twitter_username": null,
+      "website_url": null,
+      "created_at": "2008-09-18T22:37:28Z",
+      "is_github_star": false,
+      "followers": 54379,
+      "following": 45,
+      "public_repos": 328,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0092,
+      "engagement_score": 9.22,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "wesm",
@@ -6364,7 +7126,7 @@
       "website_url": "https://wesmckinney.com",
       "created_at": "2010-07-12T13:24:25Z",
       "is_github_star": false,
-      "followers": 16872,
+      "followers": 16871,
       "following": 56,
       "public_repos": 171,
       "sponsorships_count": 5,
@@ -6374,7 +7136,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0296,
-      "engagement_score": 3.9
+      "engagement_score": 3.9,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "tomnomnom",
@@ -6389,7 +7154,7 @@
       "website_url": "https://tomnomnom.com",
       "created_at": "2009-02-26T16:54:20Z",
       "is_github_star": false,
-      "followers": 13961,
+      "followers": 13962,
       "following": 140,
       "public_repos": 106,
       "sponsorships_count": 5,
@@ -6399,7 +7164,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0358,
-      "engagement_score": 2.96
+      "engagement_score": 2.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "miguelgrinberg",
@@ -6424,57 +7192,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0386,
-      "engagement_score": 3.88
+      "engagement_score": 3.88,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
-      "login": "eddiejaoude",
+      "login": "tiann",
       "type": "user",
-      "name": "Eddie Jaoude",
-      "avatar_url": "https://avatars.githubusercontent.com/u/624760?u=745ab278247f5babf08c1bcae7db3284be830a21&v=4",
-      "html_url": "https://github.com/eddiejaoude",
-      "bio": "\ud83c\udf0f Digital Nomad \ud83c\uddec\ud83c\udde7\ud83c\uddf5\ud83c\uddf9\ud83c\uddf9\ud83c\udded\r\n\u2b50\ufe0f GitHub Star of the Year\r\n\ud83d\udc68\u200d\ud83c\udfeb GitHub Top Teacher Award\r\n\ud83c\udfe6 Dev Advocate at @paypaldev ",
-      "location": "London, UK",
-      "company": "@paypaldev",
-      "twitter_username": "eddiejaoude",
-      "website_url": "https://eddiejaoude.substack.com/p/links",
-      "created_at": "2011-02-18T06:56:22Z",
-      "is_github_star": false,
-      "followers": 8709,
-      "following": 32,
-      "public_repos": 127,
-      "sponsorships_count": 5,
-      "sponsoring_count": 1,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.0574,
-      "engagement_score": 2.64
-    },
-    {
-      "login": "s0md3v",
-      "type": "user",
-      "name": "Somdev Sangwan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/26716802?u=06a425d3a19d8b71fe0b74a6ca489e9f6d1056ce&v=4",
-      "html_url": "https://github.com/s0md3v",
-      "bio": "I create free software, a lot of them.",
-      "location": "India",
+      "name": "weishu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4233744?u=bed71e3bdd9bd03bc2220ad89b7284c37dea3a86&v=4",
+      "html_url": "https://github.com/tiann",
+      "bio": "You deserve a better life :)",
+      "location": "Hong Kong",
       "company": null,
-      "twitter_username": "s0md3v",
-      "website_url": "https://somdev.in",
-      "created_at": "2017-03-27T14:28:19Z",
+      "twitter_username": "weishu1024",
+      "website_url": "https://weishu.me",
+      "created_at": "2013-04-23T10:06:20Z",
       "is_github_star": false,
-      "followers": 10080,
-      "following": 0,
-      "public_repos": 56,
+      "followers": 8604,
+      "following": 22,
+      "public_repos": 148,
       "sponsorships_count": 5,
       "sponsoring_count": 0,
       "sponsors_total": 5,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.0496,
-      "engagement_score": 2.07
+      "sponsor_conversion_rate": 0.0581,
+      "engagement_score": 2.84,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "evilsocket",
@@ -6499,32 +7248,66 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0533,
-      "engagement_score": 3.48
+      "engagement_score": 3.48,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
-      "login": "tiann",
+      "login": "s0md3v",
       "type": "user",
-      "name": "weishu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4233744?u=bed71e3bdd9bd03bc2220ad89b7284c37dea3a86&v=4",
-      "html_url": "https://github.com/tiann",
-      "bio": "You deserve a better life :)",
-      "location": "Hong Kong",
+      "name": "Somdev Sangwan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26716802?u=06a425d3a19d8b71fe0b74a6ca489e9f6d1056ce&v=4",
+      "html_url": "https://github.com/s0md3v",
+      "bio": "I create free software, a lot of them.",
+      "location": "India",
       "company": null,
-      "twitter_username": "weishu1024",
-      "website_url": "https://weishu.me",
-      "created_at": "2013-04-23T10:06:20Z",
+      "twitter_username": "s0md3v",
+      "website_url": "https://somdev.in",
+      "created_at": "2017-03-27T14:28:19Z",
       "is_github_star": false,
-      "followers": 8602,
-      "following": 22,
-      "public_repos": 148,
+      "followers": 10080,
+      "following": 0,
+      "public_repos": 56,
       "sponsorships_count": 5,
       "sponsoring_count": 0,
       "sponsors_total": 5,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.0581,
-      "engagement_score": 2.84
+      "sponsor_conversion_rate": 0.0496,
+      "engagement_score": 2.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "eddiejaoude",
+      "type": "user",
+      "name": "Eddie Jaoude",
+      "avatar_url": "https://avatars.githubusercontent.com/u/624760?u=745ab278247f5babf08c1bcae7db3284be830a21&v=4",
+      "html_url": "https://github.com/eddiejaoude",
+      "bio": "\ud83c\udf0f Digital Nomad \ud83c\uddec\ud83c\udde7\ud83c\uddf5\ud83c\uddf9\ud83c\uddf9\ud83c\udded\r\n\u2b50\ufe0f GitHub Star of the Year\r\n\ud83d\udc68\u200d\ud83c\udfeb GitHub Top Teacher Award\r\n\ud83c\udfe6 Dev Advocate at @paypaldev ",
+      "location": "London, UK",
+      "company": "@paypaldev",
+      "twitter_username": "eddiejaoude",
+      "website_url": "https://eddiejaoude.substack.com/p/links",
+      "created_at": "2011-02-18T06:56:22Z",
+      "is_github_star": false,
+      "followers": 8709,
+      "following": 32,
+      "public_repos": 127,
+      "sponsorships_count": 5,
+      "sponsoring_count": 1,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0574,
+      "engagement_score": 2.64,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "shuding",
@@ -6549,7 +7332,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0604,
-      "engagement_score": 3.19
+      "engagement_score": 3.19,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "rougier",
@@ -6574,7 +7360,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.0628,
-      "engagement_score": 4.6
+      "engagement_score": 4.6,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "JohannesMilke",
@@ -6599,32 +7388,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1021,
-      "engagement_score": 7.81
-    },
-    {
-      "login": "objective-see",
-      "type": "user",
-      "name": "Objective-See Foundation",
-      "avatar_url": "https://avatars.githubusercontent.com/u/11327812?u=1fff302f868e518a87b777382b99d4a528de1b55&v=4",
-      "html_url": "https://github.com/objective-see",
-      "bio": "We\u2019re a non-profit foundation focused on macOS security, driven by the mission to create free tools, grow and support a global community of students, researcher",
-      "location": "Hawaii, USA",
-      "company": "Objective-See Foundation",
-      "twitter_username": "objective_see",
-      "website_url": "https://www.objective-see.org",
-      "created_at": "2015-03-05T07:25:28Z",
-      "is_github_star": false,
-      "followers": 4584,
-      "following": 0,
-      "public_repos": 29,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1091,
-      "engagement_score": 1.25
+      "engagement_score": 7.81,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "dunossauro",
@@ -6649,7 +7416,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1091,
-      "engagement_score": 3.03
+      "engagement_score": 3.03,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Marak",
@@ -6674,32 +7444,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1098,
-      "engagement_score": 2.41
-    },
-    {
-      "login": "matryer",
-      "type": "user",
-      "name": "Mat Ryer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/101659?u=03382a41e9f7a37ccf8a4f8ce3ca62f524ff25ed&v=4",
-      "html_url": "https://github.com/matryer",
-      "bio": "Running AI at @Grafana Gopher, developer, speaker, podcaster, author.",
-      "location": "London",
-      "company": "@grafana  ",
-      "twitter_username": "matryer",
-      "website_url": "https://bsky.app/profile/matryer.bsky.social",
-      "created_at": "2009-07-04T14:49:10Z",
-      "is_github_star": false,
-      "followers": 4155,
-      "following": 187,
-      "public_repos": 119,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1203,
-      "engagement_score": 2.11
+      "engagement_score": 2.41,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "MikeMcQuaid",
@@ -6724,7 +7472,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1123,
-      "engagement_score": 1.44
+      "engagement_score": 1.44,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "matryer",
+      "type": "user",
+      "name": "Mat Ryer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101659?u=03382a41e9f7a37ccf8a4f8ce3ca62f524ff25ed&v=4",
+      "html_url": "https://github.com/matryer",
+      "bio": "Running AI at @Grafana Gopher, developer, speaker, podcaster, author.",
+      "location": "London",
+      "company": "@grafana  ",
+      "twitter_username": "matryer",
+      "website_url": "https://bsky.app/profile/matryer.bsky.social",
+      "created_at": "2009-07-04T14:49:10Z",
+      "is_github_star": false,
+      "followers": 4155,
+      "following": 187,
+      "public_repos": 119,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1203,
+      "engagement_score": 2.11,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "indutny",
@@ -6749,7 +7528,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1372,
-      "engagement_score": 5.4
+      "engagement_score": 5.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "muesli",
@@ -6774,7 +7556,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1469,
-      "engagement_score": 4.4
+      "engagement_score": 4.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "reinink",
+      "type": "user",
+      "name": "Jonathan Reinink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/882133?u=7aabf6467d5c4337106a22fe9ccff3285fdff9d8&v=4",
+      "html_url": "https://github.com/reinink",
+      "bio": "\ud83d\udc68\u200d\ud83d\udcbb Hacking at @tailwindlabs.\r\n\u23e9 Author of @inertiajs.\r\n\ud83d\ude0d Fan of @laravel.\r\n\u2764\ufe0f Father and husband.\r\n\ud83d\ude4f Follower of Christ.",
+      "location": "Beamsville, Ontario",
+      "company": "@tailwindlabs",
+      "twitter_username": "reinink",
+      "website_url": "https://reinink.ca",
+      "created_at": "2011-06-28T18:50:23Z",
+      "is_github_star": false,
+      "followers": 3363,
+      "following": 0,
+      "public_repos": 34,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1487,
+      "engagement_score": 1.18,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "Dicklesworthstone",
@@ -6799,7 +7612,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1487,
-      "engagement_score": 2.96
+      "engagement_score": 2.96,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mgeeky",
@@ -6824,7 +7640,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1673,
-      "engagement_score": 1.74
+      "engagement_score": 1.74,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "chrislusf",
+      "type": "user",
+      "name": "Chris Lu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1543151?u=b4788cca0e39aab9a6033218962aff65e0dff053&v=4",
+      "html_url": "https://github.com/chrislusf",
+      "bio": "https://github.com/seaweedfs/seaweedfs SeaweedFS the distributed file system and object store for billions of small files ... ",
+      "location": "San Francisco",
+      "company": null,
+      "twitter_username": "SeaweedFS",
+      "website_url": "https://github.com/seaweedfs/seaweedfs",
+      "created_at": "2012-03-16T07:17:44Z",
+      "is_github_star": false,
+      "followers": 2921,
+      "following": 11026,
+      "public_repos": 87,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1712,
+      "engagement_score": 1.66,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "patrick-kidger",
@@ -6849,32 +7696,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1696,
-      "engagement_score": 1.58
-    },
-    {
-      "login": "chrislusf",
-      "type": "user",
-      "name": "Chris Lu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1543151?u=b4788cca0e39aab9a6033218962aff65e0dff053&v=4",
-      "html_url": "https://github.com/chrislusf",
-      "bio": "https://github.com/seaweedfs/seaweedfs SeaweedFS the distributed file system and object store for billions of small files ... ",
-      "location": "San Francisco",
-      "company": null,
-      "twitter_username": "SeaweedFS",
-      "website_url": "https://github.com/seaweedfs/seaweedfs",
-      "created_at": "2012-03-16T07:17:44Z",
-      "is_github_star": false,
-      "followers": 2922,
-      "following": 11026,
-      "public_repos": 87,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1711,
-      "engagement_score": 1.66
+      "engagement_score": 1.58,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "EricZimmerman",
@@ -6899,32 +7724,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1925,
-      "engagement_score": 1.59
-    },
-    {
-      "login": "windingwind",
-      "type": "user",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/33902321?u=f0f39bdcd33ec7b00fc7177d3a3605cfe1458477&v=4",
-      "html_url": "https://github.com/windingwind",
-      "bio": null,
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": null,
-      "created_at": "2017-11-22T14:12:57Z",
-      "is_github_star": false,
-      "followers": 2527,
-      "following": 11,
-      "public_repos": 50,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1979,
-      "engagement_score": 1.25
+      "engagement_score": 1.59,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "jdvillal",
@@ -6949,7 +7752,38 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.1989,
-      "engagement_score": 1.07
+      "engagement_score": 1.07,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "windingwind",
+      "type": "user",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/33902321?u=f0f39bdcd33ec7b00fc7177d3a3605cfe1458477&v=4",
+      "html_url": "https://github.com/windingwind",
+      "bio": null,
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": null,
+      "created_at": "2017-11-22T14:12:57Z",
+      "is_github_star": false,
+      "followers": 2527,
+      "following": 11,
+      "public_repos": 50,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1979,
+      "engagement_score": 1.25,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "donmccurdy",
@@ -6974,7 +7808,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2011,
-      "engagement_score": 1.99
+      "engagement_score": 1.99,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "mgravell",
@@ -6999,7 +7836,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2328,
-      "engagement_score": 1.65
+      "engagement_score": 1.65,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "xenova",
@@ -7024,7 +7864,10 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2347,
-      "engagement_score": 1.4
+      "engagement_score": 1.4,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "diegosouzapw",
@@ -7039,7 +7882,7 @@
       "website_url": "https://omniroute.online",
       "created_at": "2014-06-29T05:55:01Z",
       "is_github_star": false,
-      "followers": 2077,
+      "followers": 2079,
       "following": 9,
       "public_repos": 71,
       "sponsorships_count": 5,
@@ -7048,8 +7891,39 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2407,
-      "engagement_score": 1.42
+      "sponsor_conversion_rate": 0.2405,
+      "engagement_score": 1.42,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
+    },
+    {
+      "login": "Leonxlnx",
+      "type": "user",
+      "name": "Leon Lin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?u=bbc1e8eb0abd903cb50f88b3418b64b34343c936&v=4",
+      "html_url": "https://github.com/Leonxlnx",
+      "bio": "I build cool stuff",
+      "location": "Munich",
+      "company": null,
+      "twitter_username": "lexnlin",
+      "website_url": null,
+      "created_at": "2025-07-03T11:15:01Z",
+      "is_github_star": false,
+      "followers": 2017,
+      "following": 31,
+      "public_repos": 47,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2479,
+      "engagement_score": 1.17,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     },
     {
       "login": "benaadams",
@@ -7074,41 +7948,19 @@
       "sponsor_follower_ratio": 0,
       "top_repos": [],
       "sponsor_conversion_rate": 0.2453,
-      "engagement_score": 2.93
-    },
-    {
-      "login": "Leonxlnx",
-      "type": "user",
-      "name": "Leon Lin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?u=bbc1e8eb0abd903cb50f88b3418b64b34343c936&v=4",
-      "html_url": "https://github.com/Leonxlnx",
-      "bio": "I build cool stuff",
-      "location": "Munich",
-      "company": null,
-      "twitter_username": "lexnlin",
-      "website_url": null,
-      "created_at": "2025-07-03T11:15:01Z",
-      "is_github_star": false,
-      "followers": 2018,
-      "following": 31,
-      "public_repos": 47,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2478,
-      "engagement_score": 1.17
+      "engagement_score": 2.93,
+      "prev_rank": null,
+      "rank_delta": null,
+      "status": "new"
     }
   ],
   "statistics": {
     "total_sponsors": 284,
-    "total_sponsorships": 10321,
-    "avg_sponsors_per_user": 36.34,
-    "avg_follower_count": 8210.13,
-    "avg_conversion_rate": 0.8555,
+    "total_sponsorships": 10381,
+    "avg_sponsors_per_user": 36.55,
+    "avg_follower_count": 8201.2,
+    "avg_conversion_rate": 0.8675,
     "github_stars_count": 13
   },
-  "last_updated": "2026-09-14T18:20:40.930027+00:00"
+  "last_updated": "2026-09-14T19:50:24.699329+00:00"
 }
