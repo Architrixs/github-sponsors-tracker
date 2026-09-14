@@ -482,6 +482,10 @@ def main():
           # Check if it's a rate limit or timeout issue
           error_msg = str(result['errors'])
           errors_list = result.get('errors') or []
+          if any(isinstance(err, dict) and err.get('type') == 'INSUFFICIENT_SCOPES' for err in errors_list):
+            print("  ❌ Token is missing required scopes.")
+            print("  Fix: https://github.com/settings/tokens → edit your token → check `read:org` (in addition to `read:user`) → update the GH_TOKEN secret and your local backend/.env, then re-run.")
+            return
           is_rate_limited_graphql = (
             any((isinstance(err, dict) and err.get('type') == 'RATE_LIMITED') for err in errors_list)
             or 'secondary rate limit' in error_msg.lower()
@@ -556,6 +560,14 @@ def main():
 
     # Sort by sponsorships count
     all_sponsors.sort(key=lambda x: x["sponsorships_count"], reverse=True)
+
+    # Guard: never overwrite good data with an empty/failed run
+    # (e.g. bad token scopes). CI would otherwise commit a wiped data.json.
+    if not all_sponsors:
+      print("\n❌ No sponsors collected — refusing to overwrite existing data files.")
+      print("   Most likely cause: token scopes. The query needs `read:user` + `read:org`.")
+      print("   Fix at https://github.com/settings/tokens, update GH_TOKEN / backend/.env, re-run.")
+      return
 
     # Calculate statistics
     stats = {

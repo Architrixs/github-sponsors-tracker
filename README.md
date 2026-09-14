@@ -35,16 +35,15 @@ Each strategy captures different types of developers, giving a well-rounded pict
 The scraper needs a GitHub personal access token (PAT) to call the API.
 
 1. Create a token at https://github.com/settings/tokens → "Generate new token (classic)".
-   Minimum scope: `read:user` (public data only).
+   Required scopes: `read:user` + `read:org` (the query fetches Organization fields; without `read:org` every strategy fails).
 2. Local run — pick one:
    - `.env` file: `Copy-Item backend\.env.example backend\.env` (PowerShell) or `cp backend/.env.example backend/.env`, then set `GITHUB_TOKEN=ghp_...` inside. The scraper loads `backend/.env` whether you run from the repo root or `backend/`.
-   - Env var: `$env:GITHUB_TOKEN="ghp_..."` (PowerShell) or `GITHUB_TOKEN=ghp_... python backend/scraper.py` (Bash). `GH_TOKEN` and `GITHUB_PAT` also work as fallbacks.
+   - Env var: `$env:GITHUB_TOKEN="ghp_..."` (PowerShell) or `GITHUB_TOKEN=ghp_... python backend/scraper.py` (Bash).
 3. Run it:
    ```
    pip install -r backend/requirements.txt
    python backend/scraper.py
    ```
-   On start it validates the token (`viewer.login`) and exits with setup instructions if missing/invalid — no more silent failures.
 4. CI (weekly workflow in `.github/workflows/update-data.yml`): save the same token as the `GH_TOKEN` repository secret (Settings → Secrets → Actions). The workflow maps it to `GITHUB_TOKEN` for the scraper.
 
 ## Check It Out
