@@ -25,9 +25,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 29.8645,
       "engagement_score": 68.68,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 3,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "foosel",
@@ -53,9 +53,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 23.8666,
       "engagement_score": 57.34,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 5,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "simonw",
@@ -81,9 +81,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.8791,
       "engagement_score": 60.56,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 7,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Vendicated",
@@ -109,9 +109,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 9.707,
       "engagement_score": 27.56,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 10,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "lpil",
@@ -137,9 +137,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 10.4372,
       "engagement_score": 31.28,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 11,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "skydoves",
@@ -165,9 +165,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.6023,
       "engagement_score": 23.08,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 20,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "sindresorhus",
@@ -193,9 +193,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2002,
       "engagement_score": 36.83,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 22,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "tannerlinsley",
@@ -221,9 +221,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.1129,
       "engagement_score": 20.29,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 23,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jesseduffield",
@@ -249,9 +249,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.3934,
       "engagement_score": 17.85,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 24,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "sebastianbergmann",
@@ -277,9 +277,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.0806,
       "engagement_score": 17.48,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 26,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "wez",
@@ -305,9 +305,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 4.0133,
       "engagement_score": 17.68,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 27,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "antfu",
@@ -333,9 +333,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3845,
       "engagement_score": 25.1,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 28,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "hlissner",
@@ -361,9 +361,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 5.6506,
       "engagement_score": 16.1,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 29,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "geerlingguy",
@@ -389,9 +389,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5326,
       "engagement_score": 20.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 31,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "yyx990803",
@@ -417,9 +417,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.123,
       "engagement_score": 27.21,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 33,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "fasterthanlime",
@@ -445,9 +445,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.8438,
       "engagement_score": 19.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 34,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "raysan5",
@@ -473,9 +473,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.3326,
       "engagement_score": 14.01,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 36,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Koenkk",
@@ -501,9 +501,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 5.0153,
       "engagement_score": 14.52,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 37,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "dtolnay",
@@ -529,9 +529,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.2216,
       "engagement_score": 14.21,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 41,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "tiangolo",
@@ -557,9 +557,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3634,
       "engagement_score": 15.65,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 43,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Xe",
@@ -585,9 +585,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.7046,
       "engagement_score": 14.5,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 44,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "borkdude",
@@ -613,9 +613,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 4.5338,
       "engagement_score": 15.21,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 47,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "BurntSushi",
@@ -641,9 +641,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7799,
       "engagement_score": 13.58,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 49,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "laurent22",
@@ -669,9 +669,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 3.5794,
       "engagement_score": 11.89,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 51,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "calebporzio",
@@ -697,9 +697,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.6112,
       "engagement_score": 10.7,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 53,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "d4rken",
@@ -725,9 +725,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 3.9732,
       "engagement_score": 10.06,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 54,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "kovidgoyal",
@@ -753,9 +753,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.539,
       "engagement_score": 9.83,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 57,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "danharrin",
@@ -781,9 +781,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 4.1257,
       "engagement_score": 8.94,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 60,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "SaltyAom",
@@ -809,9 +809,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.0048,
       "engagement_score": 12.16,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 62,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "awesomekling",
@@ -837,9 +837,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.353,
       "engagement_score": 8.69,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 64,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "azu",
@@ -865,9 +865,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.6914,
       "engagement_score": 23.51,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 67,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "cart",
@@ -893,9 +893,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 3.7481,
       "engagement_score": 8.2,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 70,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "bbatsov",
@@ -921,9 +921,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.5334,
       "engagement_score": 9.82,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 72,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "frenck",
@@ -949,9 +949,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.4177,
       "engagement_score": 9.1,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 75,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "tpope",
@@ -977,9 +977,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2949,
       "engagement_score": 10.15,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 79,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "junegunn",
@@ -1005,9 +1005,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7723,
       "engagement_score": 9.13,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 80,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "sharkdp",
@@ -1033,9 +1033,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7653,
       "engagement_score": 8.42,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 87,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "bagder",
@@ -1061,9 +1061,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7669,
       "engagement_score": 7.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 89,
+      "rank_delta": -2,
+      "status": "fell"
     },
     {
       "login": "marcan",
@@ -1089,9 +1089,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.171,
       "engagement_score": 7.48,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 92,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "seanmonstar",
@@ -1117,9 +1117,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.7523,
       "engagement_score": 7.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 94,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jdx",
@@ -1145,9 +1145,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.366,
       "engagement_score": 12.9,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 95,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "ljharb",
@@ -1173,9 +1173,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6758,
       "engagement_score": 11.75,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 100,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "xPaw",
@@ -1201,9 +1201,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.0166,
       "engagement_score": 6.4,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 97,
+      "rank_delta": -3,
+      "status": "fell"
     },
     {
       "login": "juliangarnier",
@@ -1229,9 +1229,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9627,
       "engagement_score": 6.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 104,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "bep",
@@ -1257,9 +1257,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 2.1635,
       "engagement_score": 9.48,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 105,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "rui314",
@@ -1285,9 +1285,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7696,
       "engagement_score": 6.4,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 107,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "colinhacks",
@@ -1313,9 +1313,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.2894,
       "engagement_score": 7.85,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 108,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "shadcn",
@@ -1341,9 +1341,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3054,
       "engagement_score": 9.27,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 112,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "tjdevries",
@@ -1369,9 +1369,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3516,
       "engagement_score": 8.3,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 117,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jart",
@@ -1397,9 +1397,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.405,
       "engagement_score": 8.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 118,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "obra",
@@ -1414,7 +1414,7 @@
       "website_url": "http://fsck.com",
       "created_at": "2009-01-09T20:24:15Z",
       "is_github_star": false,
-      "followers": 8588,
+      "followers": 8587,
       "following": 91,
       "public_repos": 250,
       "sponsorships_count": 49,
@@ -1425,9 +1425,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5706,
       "engagement_score": 8.26,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 119,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "sxzz",
@@ -1453,9 +1453,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9936,
       "engagement_score": 8.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 120,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "ggerganov",
@@ -1470,7 +1470,7 @@
       "website_url": "https://ggerganov.com",
       "created_at": "2012-07-17T12:41:43Z",
       "is_github_star": false,
-      "followers": 20601,
+      "followers": 20600,
       "following": 11,
       "public_repos": 81,
       "sponsorships_count": 47,
@@ -1479,11 +1479,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2281,
+      "sponsor_conversion_rate": 0.2282,
       "engagement_score": 7.57,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 121,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mholt",
@@ -1509,9 +1509,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6968,
       "engagement_score": 5.94,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 128,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mattgodbolt",
@@ -1537,9 +1537,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.0409,
       "engagement_score": 6.04,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 132,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mattn",
@@ -1565,9 +1565,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3186,
       "engagement_score": 28.66,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 133,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "matz",
@@ -1593,9 +1593,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4027,
       "engagement_score": 5.56,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 134,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "posva",
@@ -1621,9 +1621,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6244,
       "engagement_score": 8.73,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 140,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "balloob",
@@ -1649,9 +1649,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.3819,
       "engagement_score": 6.89,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 141,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "marijnh",
@@ -1677,9 +1677,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.563,
       "engagement_score": 5.36,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 143,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "richhickey",
@@ -1705,9 +1705,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6099,
       "engagement_score": 4.67,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 146,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "willmcgugan",
@@ -1733,9 +1733,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7568,
       "engagement_score": 4.94,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 147,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "JanDeDobbeleer",
@@ -1761,9 +1761,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.962,
       "engagement_score": 5.44,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 148,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "thetutlage",
@@ -1789,9 +1789,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.4818,
       "engagement_score": 7.34,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 149,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "schickling",
@@ -1817,9 +1817,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.5777,
       "engagement_score": 5.64,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 150,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "yusukebe",
@@ -1845,9 +1845,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.942,
       "engagement_score": 8.04,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 152,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "theacodes",
@@ -1873,9 +1873,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.6122,
       "engagement_score": 9.93,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 153,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Boshen",
@@ -1901,9 +1901,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.736,
       "engagement_score": 5.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 154,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Seldaek",
@@ -1929,9 +1929,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7846,
       "engagement_score": 7.04,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 156,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "m-ou-se",
@@ -1957,9 +1957,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9504,
       "engagement_score": 5.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 159,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "louislam",
@@ -1985,9 +1985,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9972,
       "engagement_score": 4.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 160,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "zx2c4",
@@ -2013,9 +2013,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.5901,
       "engagement_score": 4.14,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 161,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jgm",
@@ -2041,9 +2041,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.0448,
       "engagement_score": 4.95,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 165,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jonhoo",
@@ -2069,9 +2069,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2436,
       "engagement_score": 7.68,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 169,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "danielroe",
@@ -2097,9 +2097,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5653,
       "engagement_score": 14.32,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 171,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "asottile",
@@ -2125,9 +2125,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5593,
       "engagement_score": 5.28,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 170,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "schollz",
@@ -2153,9 +2153,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.8788,
       "engagement_score": 15.47,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 173,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "patak-cat",
@@ -2181,9 +2181,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9792,
       "engagement_score": 4.3,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 177,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "nekohasekai",
@@ -2209,9 +2209,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.2688,
       "engagement_score": 3.83,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 178,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "nunomaduro",
@@ -2237,9 +2237,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3314,
       "engagement_score": 7.43,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 182,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "orhun",
@@ -2265,9 +2265,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5735,
       "engagement_score": 9.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 183,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "TkDodo",
@@ -2293,9 +2293,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.8792,
       "engagement_score": 4.13,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 184,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "fabpot",
@@ -2321,9 +2321,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2207,
       "engagement_score": 5.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 188,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "privatenumber",
@@ -2349,9 +2349,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7568,
       "engagement_score": 6.26,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 189,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Kludex",
@@ -2377,9 +2377,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9124,
       "engagement_score": 5.3,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 190,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "alexellis",
@@ -2405,9 +2405,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5588,
       "engagement_score": 8.65,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 194,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "phil-opp",
@@ -2433,9 +2433,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9239,
       "engagement_score": 4.85,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 195,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "HerringtonDarkholme",
@@ -2461,9 +2461,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.1876,
       "engagement_score": 5.54,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 196,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mrdoob",
@@ -2489,9 +2489,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1097,
       "engagement_score": 6.14,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 203,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "progrium",
@@ -2517,9 +2517,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7016,
       "engagement_score": 6.15,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 204,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "ThePrimeagen",
@@ -2545,9 +2545,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0543,
       "engagement_score": 10.09,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 209,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "rrousselGit",
@@ -2573,9 +2573,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3547,
       "engagement_score": 4.19,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 210,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "egoist",
@@ -2601,9 +2601,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1936,
       "engagement_score": 12.8,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 222,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "rsms",
@@ -2629,9 +2629,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3253,
       "engagement_score": 5.27,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 223,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "badlogic",
@@ -2657,9 +2657,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3389,
       "engagement_score": 6.15,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 224,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "samuelcolvin",
@@ -2685,9 +2685,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3908,
       "engagement_score": 6.54,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 225,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "caarlos0",
@@ -2713,9 +2713,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5578,
       "engagement_score": 5.91,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 226,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "ThePhD",
@@ -2741,37 +2741,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.1022,
       "engagement_score": 3.79,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "codediodeio",
-      "type": "user",
-      "name": "Jeff Delaney",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10172199?u=da57a3907eedd829c3c48b16def4392666a722d2&v=4",
-      "html_url": "https://github.com/codediodeio",
-      "bio": "GDE. Creator of @fireship-io",
-      "location": "Phoenix, AZ",
-      "company": "Fireship LLC",
-      "twitter_username": "jeffdelaney23",
-      "website_url": "https://fireship.io",
-      "created_at": "2014-12-13T01:26:59Z",
-      "is_github_star": false,
-      "followers": 23130,
-      "following": 89,
-      "public_repos": 85,
-      "sponsorships_count": 25,
-      "sponsoring_count": 17,
-      "sponsors_total": 25,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1081,
-      "engagement_score": 5.66,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 227,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mitsuhiko",
@@ -2797,9 +2769,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0957,
       "engagement_score": 8.75,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 233,
+      "rank_delta": 0,
+      "status": "steady"
+    },
+    {
+      "login": "codediodeio",
+      "type": "user",
+      "name": "Jeff Delaney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10172199?u=da57a3907eedd829c3c48b16def4392666a722d2&v=4",
+      "html_url": "https://github.com/codediodeio",
+      "bio": "GDE. Creator of @fireship-io",
+      "location": "Phoenix, AZ",
+      "company": "Fireship LLC",
+      "twitter_username": "jeffdelaney23",
+      "website_url": "https://fireship.io",
+      "created_at": "2014-12-13T01:26:59Z",
+      "is_github_star": false,
+      "followers": 23130,
+      "following": 89,
+      "public_repos": 85,
+      "sponsorships_count": 25,
+      "sponsoring_count": 17,
+      "sponsors_total": 25,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1081,
+      "engagement_score": 5.66,
+      "prev_rank": 234,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "paulmillr",
@@ -2825,9 +2825,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5582,
       "engagement_score": 3.49,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 235,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "0atman",
@@ -2853,37 +2853,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9048,
       "engagement_score": 4.43,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "taylorotwell",
-      "type": "user",
-      "name": "Taylor Otwell",
-      "avatar_url": "https://avatars.githubusercontent.com/u/463230?u=a7c580187c1225b8fa90ee610dd921d1397e1c97&v=4",
-      "html_url": "https://github.com/taylorotwell",
-      "bio": "Creator of @laravel.",
-      "location": "Little Rock, AR",
-      "company": "Laravel",
-      "twitter_username": null,
-      "website_url": "http://laravel.com",
-      "created_at": "2010-11-01T20:15:30Z",
-      "is_github_star": false,
-      "followers": 35935,
-      "following": 3,
-      "public_repos": 26,
-      "sponsorships_count": 24,
-      "sponsoring_count": 0,
-      "sponsors_total": 24,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.0668,
-      "engagement_score": 6.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 236,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "steipete",
@@ -2909,9 +2881,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0454,
       "engagement_score": 10.03,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 243,
+      "rank_delta": 1,
+      "status": "climbed"
+    },
+    {
+      "login": "taylorotwell",
+      "type": "user",
+      "name": "Taylor Otwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/463230?u=a7c580187c1225b8fa90ee610dd921d1397e1c97&v=4",
+      "html_url": "https://github.com/taylorotwell",
+      "bio": "Creator of @laravel.",
+      "location": "Little Rock, AR",
+      "company": "Laravel",
+      "twitter_username": null,
+      "website_url": "http://laravel.com",
+      "created_at": "2010-11-01T20:15:30Z",
+      "is_github_star": false,
+      "followers": 35935,
+      "following": 3,
+      "public_repos": 26,
+      "sponsorships_count": 24,
+      "sponsoring_count": 0,
+      "sponsors_total": 24,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0668,
+      "engagement_score": 6.25,
+      "prev_rank": 242,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "yihui",
@@ -2937,9 +2937,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2431,
       "engagement_score": 4.96,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 244,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Shougo",
@@ -2965,9 +2965,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4778,
       "engagement_score": 5.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 245,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "raphamorim",
@@ -2993,9 +2993,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9382,
       "engagement_score": 6.52,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 246,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "hajimehoshi",
@@ -3021,9 +3021,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9596,
       "engagement_score": 4.47,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 247,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "messense",
@@ -3049,9 +3049,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 1.0944,
       "engagement_score": 4.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 248,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "andrewrk",
@@ -3077,9 +3077,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2168,
       "engagement_score": 6.24,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 256,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mrousavy",
@@ -3105,9 +3105,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.435,
       "engagement_score": 4.77,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 257,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Ocramius",
@@ -3133,9 +3133,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.525,
       "engagement_score": 6.92,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 259,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "swannodette",
@@ -3161,9 +3161,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5252,
       "engagement_score": 4.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 258,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "mvdan",
@@ -3189,9 +3189,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.8587,
       "engagement_score": 3.31,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 269,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "dai-shi",
@@ -3217,9 +3217,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2568,
       "engagement_score": 4.52,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 273,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "pi0",
@@ -3245,9 +3245,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4101,
       "engagement_score": 8.07,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 274,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "zkat",
@@ -3273,9 +3273,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.443,
       "engagement_score": 4.9,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 275,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "dunglas",
@@ -3301,9 +3301,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4553,
       "engagement_score": 7.64,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 276,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "antonmedv",
@@ -3329,9 +3329,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6522,
       "engagement_score": 3.13,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 277,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "nicolas-grekas",
@@ -3357,9 +3357,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9845,
       "engagement_score": 3.68,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 278,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "isaacs",
@@ -3385,9 +3385,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.123,
       "engagement_score": 8.88,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 281,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "neuecc",
@@ -3413,9 +3413,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4857,
       "engagement_score": 3.09,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 282,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "steveruizok",
@@ -3441,9 +3441,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5799,
       "engagement_score": 4.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 283,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "erincatto",
@@ -3469,9 +3469,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.8929,
       "engagement_score": 2.47,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 284,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "brandonroberts",
@@ -3497,9 +3497,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9183,
       "engagement_score": 6.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 285,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "rustdesk",
@@ -3525,9 +3525,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2014,
       "engagement_score": 3.35,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 297,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "doodlewind",
@@ -3553,9 +3553,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3986,
       "engagement_score": 3.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 298,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mrexodia",
@@ -3581,9 +3581,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4882,
       "engagement_score": 9.58,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 299,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "samaaron",
@@ -3609,9 +3609,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.9346,
       "engagement_score": 3.39,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 300,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "sdras",
@@ -3637,9 +3637,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0718,
       "engagement_score": 5.53,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 307,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "antonbabenko",
@@ -3665,9 +3665,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3236,
       "engagement_score": 2.89,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 308,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "kazupon",
@@ -3693,9 +3693,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4137,
       "engagement_score": 6.01,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 309,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "gcanti",
@@ -3721,9 +3721,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6739,
       "engagement_score": 2.93,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 310,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "nedbat",
@@ -3749,9 +3749,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.7332,
       "engagement_score": 3.64,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 311,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "ai",
@@ -3777,9 +3777,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1677,
       "engagement_score": 4.26,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 324,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "lissy93",
@@ -3805,9 +3805,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2283,
       "engagement_score": 3.86,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 325,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "Akryum",
@@ -3833,9 +3833,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3198,
       "engagement_score": 4.72,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 327,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "Brooooooklyn",
@@ -3861,9 +3861,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3346,
       "engagement_score": 5.57,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 328,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "Torantulino",
@@ -3889,9 +3889,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4758,
       "engagement_score": 2.49,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 329,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "WerWolv",
@@ -3917,9 +3917,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5407,
       "engagement_score": 3.46,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 330,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "JoshuaKGoldberg",
@@ -3945,9 +3945,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.572,
       "engagement_score": 8.16,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 331,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "nzakas",
@@ -3973,9 +3973,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1483,
       "engagement_score": 3.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 340,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "teknium1",
@@ -4001,9 +4001,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2395,
       "engagement_score": 2.94,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 326,
+      "rank_delta": -14,
+      "status": "fell"
     },
     {
       "login": "medvednikov",
@@ -4029,9 +4029,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5867,
       "engagement_score": 2.56,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 341,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "ZacSweers",
@@ -4057,9 +4057,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6107,
       "engagement_score": 4.52,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 342,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "danielmiessler",
@@ -4085,9 +4085,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0888,
       "engagement_score": 3.99,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 356,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jonschlinkert",
@@ -4113,9 +4113,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3027,
       "engagement_score": 13.64,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 358,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "D4Vinci",
@@ -4141,9 +4141,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4007,
       "engagement_score": 2.34,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 359,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "wooorm",
@@ -4169,9 +4169,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4208,
       "engagement_score": 4.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 360,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "johnlindquist",
@@ -4197,9 +4197,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6646,
       "engagement_score": 9.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 361,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "ChrisTitusTech",
@@ -4225,9 +4225,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0858,
       "engagement_score": 3.97,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 357,
+      "rank_delta": -15,
+      "status": "fell"
     },
     {
       "login": "tw93",
@@ -4253,9 +4253,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1076,
       "engagement_score": 3.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 372,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "typicode",
@@ -4281,9 +4281,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.137,
       "engagement_score": 3.2,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 373,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "jgthms",
@@ -4309,9 +4309,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2324,
       "engagement_score": 3.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 374,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "mudler",
@@ -4337,9 +4337,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.5499,
       "engagement_score": 5.48,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 375,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "PINTO0309",
@@ -4365,9 +4365,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.6186,
       "engagement_score": 6.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 376,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "t3dotgg",
@@ -4393,9 +4393,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0649,
       "engagement_score": 4.87,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 392,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "GrahamCampbell",
@@ -4421,9 +4421,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1832,
       "engagement_score": 3.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 393,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "hzoo",
@@ -4449,9 +4449,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.243,
       "engagement_score": 2.73,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 394,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "nlohmann",
@@ -4477,9 +4477,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4179,
       "engagement_score": 2.07,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 395,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "mattpocock",
@@ -4505,9 +4505,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0266,
       "engagement_score": 8.23,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 409,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "kijai",
@@ -4533,9 +4533,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1799,
       "engagement_score": 3.0,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 410,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "KATT",
@@ -4561,9 +4561,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3824,
       "engagement_score": 4.51,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 411,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Eugeny",
@@ -4589,9 +4589,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4678,
       "engagement_score": 2.77,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 412,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "antirez",
@@ -4617,37 +4617,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0348,
       "engagement_score": 5.37,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "felangel",
-      "type": "user",
-      "name": "Felix Angelov",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8855632?u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4",
-      "html_url": "https://github.com/felangel",
-      "bio": "software engineer by day, software engineer by night.",
-      "location": "Chicago",
-      "company": null,
-      "twitter_username": "felangelov",
-      "website_url": "https://felangel.dev",
-      "created_at": "2014-09-22T02:35:58Z",
-      "is_github_star": false,
-      "followers": 9282,
-      "following": 68,
-      "public_repos": 173,
-      "sponsorships_count": 11,
-      "sponsoring_count": 0,
-      "sponsors_total": 11,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1185,
-      "engagement_score": 3.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 429,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "kamilmysliwiec",
@@ -4673,37 +4645,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1234,
       "engagement_score": 2.62,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 430,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
-      "login": "timothystewart6",
+      "login": "felangel",
       "type": "user",
-      "name": "Techno Tim",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1322205?u=5b4f2219006577dc0426007fe5a02391c4899677&v=4",
-      "html_url": "https://github.com/timothystewart6",
-      "bio": "Principal Software Engineer | Web, Mobile, APIs, AI & Cloud",
-      "location": "Minneapolis, MN",
+      "name": "Felix Angelov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8855632?u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4",
+      "html_url": "https://github.com/felangel",
+      "bio": "software engineer by day, software engineer by night.",
+      "location": "Chicago",
       "company": null,
-      "twitter_username": "technotimlive",
-      "website_url": "https://technotim.com",
-      "created_at": "2012-01-11T16:11:57Z",
+      "twitter_username": "felangelov",
+      "website_url": "https://felangel.dev",
+      "created_at": "2014-09-22T02:35:58Z",
       "is_github_star": false,
-      "followers": 4177,
-      "following": 38,
-      "public_repos": 158,
+      "followers": 9282,
+      "following": 68,
+      "public_repos": 173,
       "sponsorships_count": 11,
       "sponsoring_count": 0,
       "sponsors_total": 11,
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.2633,
-      "engagement_score": 3.1,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "sponsor_conversion_rate": 0.1185,
+      "engagement_score": 3.76,
+      "prev_rank": 431,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "drcmda",
@@ -4729,9 +4701,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2597,
       "engagement_score": 2.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 433,
+      "rank_delta": 1,
+      "status": "climbed"
+    },
+    {
+      "login": "timothystewart6",
+      "type": "user",
+      "name": "Techno Tim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1322205?u=5b4f2219006577dc0426007fe5a02391c4899677&v=4",
+      "html_url": "https://github.com/timothystewart6",
+      "bio": "Principal Software Engineer | Web, Mobile, APIs, AI & Cloud",
+      "location": "Minneapolis, MN",
+      "company": null,
+      "twitter_username": "technotimlive",
+      "website_url": "https://technotim.com",
+      "created_at": "2012-01-11T16:11:57Z",
+      "is_github_star": false,
+      "followers": 4177,
+      "following": 38,
+      "public_repos": 158,
+      "sponsorships_count": 11,
+      "sponsoring_count": 0,
+      "sponsors_total": 11,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2633,
+      "engagement_score": 3.1,
+      "prev_rank": 432,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "Innei",
@@ -4757,9 +4757,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3169,
       "engagement_score": 4.94,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 434,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "coreyhaines31",
@@ -4785,9 +4785,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3345,
       "engagement_score": 1.81,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 435,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "AvdLee",
@@ -4813,9 +4813,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3431,
       "engagement_score": 2.53,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 436,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "luke-jr",
@@ -4841,9 +4841,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4019,
       "engagement_score": 2.35,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 437,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Andarist",
@@ -4869,9 +4869,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.475,
       "engagement_score": 8.02,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 438,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "samber",
@@ -4897,9 +4897,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4752,
       "engagement_score": 3.98,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 439,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "anonrig",
@@ -4925,9 +4925,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4842,
       "engagement_score": 4.28,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 440,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mcollina",
@@ -4942,7 +4942,7 @@
       "website_url": "nodeland.dev",
       "created_at": "2009-02-05T22:24:19Z",
       "is_github_star": true,
-      "followers": 11365,
+      "followers": 11366,
       "following": 473,
       "public_repos": 827,
       "sponsorships_count": 10,
@@ -4953,9 +4953,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.088,
       "engagement_score": 10.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 463,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "markerikson",
@@ -4981,9 +4981,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.168,
       "engagement_score": 2.7,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 464,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jedisct1",
@@ -5009,9 +5009,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2295,
       "engagement_score": 7.16,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 466,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "fatedier",
@@ -5037,9 +5037,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2317,
       "engagement_score": 2.16,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 465,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "M0nica",
@@ -5065,9 +5065,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2454,
       "engagement_score": 3.58,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 467,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "hoshinolina",
@@ -5093,9 +5093,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2489,
       "engagement_score": 1.9,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 468,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "pilcrowonpaper",
@@ -5121,9 +5121,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3203,
       "engagement_score": 2.0,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 469,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Tyrrrz",
@@ -5149,9 +5149,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3394,
       "engagement_score": 1.71,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 470,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jackyzha0",
@@ -5177,9 +5177,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4155,
       "engagement_score": 2.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 471,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "getify",
@@ -5205,9 +5205,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0198,
       "engagement_score": 6.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 494,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "jinzhu",
@@ -5233,9 +5233,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1608,
       "engagement_score": 2.59,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 495,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "carlospolop",
@@ -5261,9 +5261,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2059,
       "engagement_score": 2.92,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 496,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "jaredhanson",
@@ -5289,9 +5289,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2192,
       "engagement_score": 5.71,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 497,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "S3cur3Th1sSh1t",
@@ -5317,9 +5317,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2333,
       "engagement_score": 2.71,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 498,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "juliusmarminge",
@@ -5345,9 +5345,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2624,
       "engagement_score": 4.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 499,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "horsicq",
@@ -5373,9 +5373,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2935,
       "engagement_score": 2.67,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 500,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "crazy-max",
@@ -5401,9 +5401,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3214,
       "engagement_score": 4.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 501,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "mre",
@@ -5429,9 +5429,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4121,
       "engagement_score": 5.47,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 502,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "mifi",
@@ -5457,9 +5457,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4442,
       "engagement_score": 3.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 503,
+      "rank_delta": -2,
+      "status": "fell"
     },
     {
       "login": "brendt",
@@ -5485,9 +5485,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.4433,
       "engagement_score": 3.27,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 504,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "cassidoo",
@@ -5513,9 +5513,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0532,
       "engagement_score": 4.47,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 529,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "affaan-m",
@@ -5530,7 +5530,7 @@
       "website_url": "https://affaanmustafa.com",
       "created_at": "2023-02-04T11:57:38Z",
       "is_github_star": false,
-      "followers": 10755,
+      "followers": 10756,
       "following": 12,
       "public_repos": 31,
       "sponsorships_count": 8,
@@ -5541,9 +5541,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0744,
       "engagement_score": 2.19,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 530,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "lemire",
@@ -5569,9 +5569,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0968,
       "engagement_score": 6.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 531,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "barryvdh",
@@ -5597,9 +5597,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1154,
       "engagement_score": 5.0,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 532,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "alexeygrigorev",
@@ -5625,9 +5625,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1294,
       "engagement_score": 3.3,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 533,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "Yeachan-Heo",
@@ -5653,9 +5653,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1682,
       "engagement_score": 2.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 534,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "arvidn",
@@ -5681,9 +5681,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2374,
       "engagement_score": 1.7,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 535,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "cure53",
@@ -5709,9 +5709,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2885,
       "engagement_score": 1.36,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 536,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "hawkw",
@@ -5737,9 +5737,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3532,
       "engagement_score": 4.14,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 537,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "sergiodxa",
@@ -5765,9 +5765,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3628,
       "engagement_score": 2.84,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 538,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "midudev",
@@ -5793,9 +5793,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0178,
       "engagement_score": 7.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 563,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "nilbuild",
@@ -5821,9 +5821,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0171,
       "engagement_score": 6.13,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 562,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "anuraghazra",
@@ -5849,9 +5849,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0468,
       "engagement_score": 3.6,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 564,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "koush",
@@ -5877,9 +5877,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.083,
       "engagement_score": 5.39,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 565,
+      "rank_delta": -1,
+      "status": "fell"
     },
     {
       "login": "FiloSottile",
@@ -5905,9 +5905,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0743,
       "engagement_score": 3.2,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 566,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "orta",
@@ -5933,9 +5933,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1115,
       "engagement_score": 12.03,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 567,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "EvanBacon",
@@ -5961,9 +5961,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1126,
       "engagement_score": 4.85,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 568,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "aidenybai",
@@ -5978,7 +5978,7 @@
       "website_url": "https://aidenybai.com",
       "created_at": "2018-04-03T03:08:03Z",
       "is_github_star": false,
-      "followers": 5806,
+      "followers": 5807,
       "following": 36,
       "public_repos": 215,
       "sponsorships_count": 7,
@@ -5987,11 +5987,11 @@
       "sponsor_followers_total": 0,
       "sponsor_follower_ratio": 0,
       "top_repos": [],
-      "sponsor_conversion_rate": 0.1206,
+      "sponsor_conversion_rate": 0.1205,
       "engagement_score": 3.43,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 569,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "lukeed",
@@ -6017,9 +6017,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1378,
       "engagement_score": 4.95,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 570,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "insidegui",
@@ -6045,9 +6045,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1416,
       "engagement_score": 3.82,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 571,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Dimillian",
@@ -6073,9 +6073,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1608,
       "engagement_score": 2.92,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 572,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "saadeghi",
@@ -6101,9 +6101,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2011,
       "engagement_score": 1.96,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 573,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Gezine",
@@ -6129,9 +6129,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2126,
       "engagement_score": 1.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 574,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "rwxrob",
@@ -6157,9 +6157,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2241,
       "engagement_score": 1.55,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 575,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mame",
@@ -6185,9 +6185,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2345,
       "engagement_score": 3.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 576,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "umputun",
@@ -6213,9 +6213,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2443,
       "engagement_score": 1.63,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 577,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "jwiegley",
@@ -6241,9 +6241,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2582,
       "engagement_score": 3.39,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 578,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "clauderic",
@@ -6269,9 +6269,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2807,
       "engagement_score": 1.84,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 579,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "marten-seemann",
@@ -6297,9 +6297,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2942,
       "engagement_score": 7.29,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 580,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mmistakes",
@@ -6325,9 +6325,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3125,
       "engagement_score": 1.13,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 582,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "kean",
@@ -6353,9 +6353,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3061,
       "engagement_score": 1.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 581,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "safishamsi",
@@ -6381,9 +6381,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.3296,
       "engagement_score": 1.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 583,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "kennethreitz",
@@ -6409,9 +6409,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0199,
       "engagement_score": 5.23,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 607,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "feross",
@@ -6426,7 +6426,7 @@
       "website_url": "https://feross.org",
       "created_at": "2009-09-01T06:06:14Z",
       "is_github_star": false,
-      "followers": 14908,
+      "followers": 14907,
       "following": 291,
       "public_repos": 219,
       "sponsorships_count": 6,
@@ -6437,9 +6437,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0402,
       "engagement_score": 4.28,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 608,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "bvaughn",
@@ -6465,9 +6465,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0515,
       "engagement_score": 3.58,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 609,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "stefanprodan",
@@ -6493,9 +6493,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0725,
       "engagement_score": 2.49,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 610,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "mjackson",
@@ -6521,9 +6521,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0802,
       "engagement_score": 3.66,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 611,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "cpojer",
@@ -6549,9 +6549,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1155,
       "engagement_score": 2.3,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 612,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "lefticus",
@@ -6577,9 +6577,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1178,
       "engagement_score": 2.39,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 613,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "patriciogonzalezvivo",
@@ -6605,9 +6605,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1389,
       "engagement_score": 2.69,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 614,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "terrytangyuan",
@@ -6633,9 +6633,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1539,
       "engagement_score": 2.87,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 615,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "oblador",
@@ -6661,9 +6661,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1576,
       "engagement_score": 2.39,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 616,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "code-yeongyu",
@@ -6689,9 +6689,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1582,
       "engagement_score": 3.14,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 617,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "Xuanwo",
@@ -6717,37 +6717,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1922,
       "engagement_score": 5.28,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "osm0sis",
-      "type": "user",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2858716?v=4",
-      "html_url": "https://github.com/osm0sis",
-      "bio": "Android flashable zips, scripts, bins & automation. Creator of AnyKernel3 & Android Image Kitchen. Check my \"Odds & Ends\" thread link for a comprehensive list.",
-      "location": null,
-      "company": null,
-      "twitter_username": "osm0sis",
-      "website_url": "https://is.gd/osm0_",
-      "created_at": "2012-11-22T01:53:32Z",
-      "is_github_star": false,
-      "followers": 2809,
-      "following": 0,
-      "public_repos": 37,
-      "sponsorships_count": 6,
-      "sponsoring_count": 0,
-      "sponsors_total": 6,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.2136,
-      "engagement_score": 1.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 619,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "kishikawakatsumi",
@@ -6773,9 +6745,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2029,
       "engagement_score": 2.86,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 620,
+      "rank_delta": 1,
+      "status": "climbed"
+    },
+    {
+      "login": "osm0sis",
+      "type": "user",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2858716?v=4",
+      "html_url": "https://github.com/osm0sis",
+      "bio": "Android flashable zips, scripts, bins & automation. Creator of AnyKernel3 & Android Image Kitchen. Check my \"Odds & Ends\" thread link for a comprehensive list.",
+      "location": null,
+      "company": null,
+      "twitter_username": "osm0sis",
+      "website_url": "https://is.gd/osm0_",
+      "created_at": "2012-11-22T01:53:32Z",
+      "is_github_star": false,
+      "followers": 2809,
+      "following": 0,
+      "public_repos": 37,
+      "sponsorships_count": 6,
+      "sponsoring_count": 0,
+      "sponsors_total": 6,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.2136,
+      "engagement_score": 1.25,
+      "prev_rank": 621,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "coreybutler",
@@ -6801,9 +6801,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2212,
       "engagement_score": 2.05,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 622,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "weierophinney",
@@ -6829,9 +6829,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2324,
       "engagement_score": 1.63,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 623,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "brettcannon",
@@ -6857,9 +6857,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2425,
       "engagement_score": 3.66,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 624,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "fanquake",
@@ -6885,9 +6885,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2534,
       "engagement_score": 1.96,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 625,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "cubiq",
@@ -6913,9 +6913,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2581,
       "engagement_score": 1.34,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 626,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "daattali",
@@ -6941,9 +6941,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2689,
       "engagement_score": 1.7,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 627,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "octref",
@@ -6969,9 +6969,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2796,
       "engagement_score": 1.87,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 628,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "matthew-carroll",
@@ -6997,9 +6997,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2833,
       "engagement_score": 1.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 629,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "nicobailon",
@@ -7025,9 +7025,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2975,
       "engagement_score": 2.14,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 631,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "TheAlexLichter",
@@ -7053,9 +7053,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2976,
       "engagement_score": 5.76,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 630,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "rafaballerini",
@@ -7081,9 +7081,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0083,
       "engagement_score": 7.22,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 675,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "tj",
@@ -7109,9 +7109,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0092,
       "engagement_score": 9.22,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 674,
+      "rank_delta": 0,
+      "status": "steady"
     },
     {
       "login": "wesm",
@@ -7137,9 +7137,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0296,
       "engagement_score": 3.9,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 676,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "tomnomnom",
@@ -7165,9 +7165,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0358,
       "engagement_score": 2.96,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 677,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "miguelgrinberg",
@@ -7193,9 +7193,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0386,
       "engagement_score": 3.88,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 678,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "tiann",
@@ -7221,37 +7221,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0581,
       "engagement_score": 2.84,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "evilsocket",
-      "type": "user",
-      "name": "Simone Margaritelli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/86922?u=d520230a3f6cff87456f55fd636bb6d0dfa3f74b&v=4",
-      "html_url": "https://github.com/evilsocket",
-      "bio": null,
-      "location": "Italy",
-      "company": null,
-      "twitter_username": "evilsocket",
-      "website_url": "https://www.evilsocket.net",
-      "created_at": "2009-05-20T23:39:53Z",
-      "is_github_star": false,
-      "followers": 9378,
-      "following": 2,
-      "public_repos": 204,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.0533,
-      "engagement_score": 3.48,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 682,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "s0md3v",
@@ -7277,9 +7249,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0496,
       "engagement_score": 2.07,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 680,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "eddiejaoude",
@@ -7305,9 +7277,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0574,
       "engagement_score": 2.64,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 679,
+      "rank_delta": -1,
+      "status": "fell"
+    },
+    {
+      "login": "evilsocket",
+      "type": "user",
+      "name": "Simone Margaritelli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86922?u=d520230a3f6cff87456f55fd636bb6d0dfa3f74b&v=4",
+      "html_url": "https://github.com/evilsocket",
+      "bio": null,
+      "location": "Italy",
+      "company": null,
+      "twitter_username": "evilsocket",
+      "website_url": "https://www.evilsocket.net",
+      "created_at": "2009-05-20T23:39:53Z",
+      "is_github_star": false,
+      "followers": 9378,
+      "following": 2,
+      "public_repos": 204,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.0533,
+      "engagement_score": 3.48,
+      "prev_rank": 681,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "shuding",
@@ -7333,9 +7333,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0604,
       "engagement_score": 3.19,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 683,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "rougier",
@@ -7361,9 +7361,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.0628,
       "engagement_score": 4.6,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 684,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "JohannesMilke",
@@ -7389,9 +7389,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1021,
       "engagement_score": 7.81,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 685,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "dunossauro",
@@ -7417,9 +7417,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1091,
       "engagement_score": 3.03,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 687,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "Marak",
@@ -7445,37 +7445,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1098,
       "engagement_score": 2.41,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "MikeMcQuaid",
-      "type": "user",
-      "name": "Mike McQuaid",
-      "avatar_url": "https://avatars.githubusercontent.com/u/125011?u=17f92c9ee404f7feb7ab4870486193cee617cfe4&v=4",
-      "html_url": "https://github.com/MikeMcQuaid",
-      "bio": "Product and engineering leader, ex-@GitHub Principal Engineer, 18 years of experience reducing developer friction and scaling @Homebrew to >10,000,000 users.",
-      "location": "Edinburgh, Scotland",
-      "company": "@Administrate",
-      "twitter_username": "MikeMcQuaid",
-      "website_url": "https://mikemcquaid.com",
-      "created_at": "2009-09-09T18:00:06Z",
-      "is_github_star": false,
-      "followers": 4452,
-      "following": 1,
-      "public_repos": 49,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1123,
-      "engagement_score": 1.44,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 688,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "matryer",
@@ -7501,9 +7473,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1203,
       "engagement_score": 2.11,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 689,
+      "rank_delta": 1,
+      "status": "climbed"
+    },
+    {
+      "login": "MikeMcQuaid",
+      "type": "user",
+      "name": "Mike McQuaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125011?u=17f92c9ee404f7feb7ab4870486193cee617cfe4&v=4",
+      "html_url": "https://github.com/MikeMcQuaid",
+      "bio": "Product and engineering leader, ex-@GitHub Principal Engineer, 18 years of experience reducing developer friction and scaling @Homebrew to >10,000,000 users.",
+      "location": "Edinburgh, Scotland",
+      "company": "@Administrate",
+      "twitter_username": "MikeMcQuaid",
+      "website_url": "https://mikemcquaid.com",
+      "created_at": "2009-09-09T18:00:06Z",
+      "is_github_star": false,
+      "followers": 4452,
+      "following": 1,
+      "public_repos": 49,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1123,
+      "engagement_score": 1.44,
+      "prev_rank": 690,
+      "rank_delta": 3,
+      "status": "climbed"
     },
     {
       "login": "indutny",
@@ -7529,9 +7529,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1372,
       "engagement_score": 5.4,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 691,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "muesli",
@@ -7557,9 +7557,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1469,
       "engagement_score": 4.4,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 692,
+      "rank_delta": 2,
+      "status": "climbed"
     },
     {
       "login": "reinink",
@@ -7585,9 +7585,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1487,
       "engagement_score": 1.18,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 618,
+      "rank_delta": -73,
+      "status": "fell"
     },
     {
       "login": "Dicklesworthstone",
@@ -7613,9 +7613,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1487,
       "engagement_score": 2.96,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 693,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "mgeeky",
@@ -7641,9 +7641,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1673,
       "engagement_score": 1.74,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 694,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "chrislusf",
@@ -7669,9 +7669,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1712,
       "engagement_score": 1.66,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 696,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "patrick-kidger",
@@ -7697,9 +7697,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1696,
       "engagement_score": 1.58,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 695,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "EricZimmerman",
@@ -7725,9 +7725,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1925,
       "engagement_score": 1.59,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 697,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "jdvillal",
@@ -7753,37 +7753,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.1989,
       "engagement_score": 1.07,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
-    },
-    {
-      "login": "windingwind",
-      "type": "user",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/33902321?u=f0f39bdcd33ec7b00fc7177d3a3605cfe1458477&v=4",
-      "html_url": "https://github.com/windingwind",
-      "bio": null,
-      "location": null,
-      "company": null,
-      "twitter_username": null,
-      "website_url": null,
-      "created_at": "2017-11-22T14:12:57Z",
-      "is_github_star": false,
-      "followers": 2527,
-      "following": 11,
-      "public_repos": 50,
-      "sponsorships_count": 5,
-      "sponsoring_count": 0,
-      "sponsors_total": 5,
-      "sponsor_followers_total": 0,
-      "sponsor_follower_ratio": 0,
-      "top_repos": [],
-      "sponsor_conversion_rate": 0.1979,
-      "engagement_score": 1.25,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 699,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "donmccurdy",
@@ -7809,9 +7781,37 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2011,
       "engagement_score": 1.99,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 700,
+      "rank_delta": 1,
+      "status": "climbed"
+    },
+    {
+      "login": "windingwind",
+      "type": "user",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/33902321?u=f0f39bdcd33ec7b00fc7177d3a3605cfe1458477&v=4",
+      "html_url": "https://github.com/windingwind",
+      "bio": null,
+      "location": null,
+      "company": null,
+      "twitter_username": null,
+      "website_url": null,
+      "created_at": "2017-11-22T14:12:57Z",
+      "is_github_star": false,
+      "followers": 2527,
+      "following": 11,
+      "public_repos": 50,
+      "sponsorships_count": 5,
+      "sponsoring_count": 0,
+      "sponsors_total": 5,
+      "sponsor_followers_total": 0,
+      "sponsor_follower_ratio": 0,
+      "top_repos": [],
+      "sponsor_conversion_rate": 0.1979,
+      "engagement_score": 1.25,
+      "prev_rank": 698,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "mgravell",
@@ -7837,9 +7837,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2328,
       "engagement_score": 1.65,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 701,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "xenova",
@@ -7865,9 +7865,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2347,
       "engagement_score": 1.4,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 702,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "diegosouzapw",
@@ -7893,9 +7893,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2405,
       "engagement_score": 1.42,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 703,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "Leonxlnx",
@@ -7921,9 +7921,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2479,
       "engagement_score": 1.17,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 705,
+      "rank_delta": 1,
+      "status": "climbed"
     },
     {
       "login": "benaadams",
@@ -7949,9 +7949,9 @@
       "top_repos": [],
       "sponsor_conversion_rate": 0.2453,
       "engagement_score": 2.93,
-      "prev_rank": null,
-      "rank_delta": null,
-      "status": "new"
+      "prev_rank": 704,
+      "rank_delta": 1,
+      "status": "climbed"
     }
   ],
   "statistics": {
@@ -7962,5 +7962,5 @@
     "avg_conversion_rate": 0.8675,
     "github_stars_count": 13
   },
-  "last_updated": "2026-09-14T19:50:24.699329+00:00"
+  "last_updated": "2026-09-14T20:01:18.865457+00:00"
 }
