@@ -30,6 +30,23 @@ Each strategy captures different types of developers, giving a well-rounded pict
 - **Frontend**: React (Vite) for the website
 - **Data**: JSON files updated weekly with per-strategy breakdowns
 
+## Setup: GitHub Token
+
+The scraper needs a GitHub personal access token (PAT) to call the API.
+
+1. Create a token at https://github.com/settings/tokens → "Generate new token (classic)".
+   Minimum scope: `read:user` (public data only).
+2. Local run — pick one:
+   - `.env` file: `Copy-Item backend\.env.example backend\.env` (PowerShell) or `cp backend/.env.example backend/.env`, then set `GITHUB_TOKEN=ghp_...` inside. The scraper loads `backend/.env` whether you run from the repo root or `backend/`.
+   - Env var: `$env:GITHUB_TOKEN="ghp_..."` (PowerShell) or `GITHUB_TOKEN=ghp_... python backend/scraper.py` (Bash). `GH_TOKEN` and `GITHUB_PAT` also work as fallbacks.
+3. Run it:
+   ```
+   pip install -r backend/requirements.txt
+   python backend/scraper.py
+   ```
+   On start it validates the token (`viewer.login`) and exits with setup instructions if missing/invalid — no more silent failures.
+4. CI (weekly workflow in `.github/workflows/update-data.yml`): save the same token as the `GH_TOKEN` repository secret (Settings → Secrets → Actions). The workflow maps it to `GITHUB_TOKEN` for the scraper.
+
 ## Check It Out
 
 Visit the live site to explore the rankings, filter by type, and see who's leading in each category.

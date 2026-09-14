@@ -19,3 +19,9 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Env / secrets — never commit real tokens
+.env
+.env.*
+!.env.example
+!backend/.env.example

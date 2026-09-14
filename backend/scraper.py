@@ -3,12 +3,13 @@ import requests
 import os
 import json
 import time
+from pathlib import Path
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 import random
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 API_URL = "https://api.github.com/graphql"
