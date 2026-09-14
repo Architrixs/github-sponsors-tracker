@@ -558,8 +558,15 @@ def main():
       print(f"  Pausing 3 seconds before next strategy...")
       time.sleep(3)
 
-    # Sort by sponsorships count
-    all_sponsors.sort(key=lambda x: x["sponsorships_count"], reverse=True)
+    # Deterministic sort: sponsorships_count desc, followers desc, public_repos desc, login asc
+    all_sponsors.sort(
+      key=lambda x: (
+        -x["sponsorships_count"],
+        -x.get("followers", 0),
+        -x.get("public_repos", 0),
+        x["login"].lower()
+      )
+    )
 
     # Guard: never overwrite good data with an empty/failed run
     # (e.g. bad token scopes). CI would otherwise commit a wiped data.json.
@@ -568,6 +575,122 @@ def main():
       print("   Most likely cause: token scopes. The query needs `read:user` + `read:org`.")
       print("   Fix at https://github.com/settings/tokens, update GH_TOKEN / backend/.env, re-run.")
       return
+
+    # Slice top 1000 for the leaderboard
+    top_sponsors = all_sponsors[:1000]
+
+    # File paths
+    public_dir = os.path.join(os.path.dirname(__file__), "..", "frontend", "public")
+    output_path = os.path.join(public_dir, "data.json")
+    history_path = os.path.join(public_dir, "history.json")
+    os.makedirs(public_dir, exist_ok=True)
+
+    # Load previous data.json to compare ranks
+    prev_ranks = {}
+    if os.path.exists(output_path):
+      try:
+        with open(output_path, "r", encoding="utf-8") as f:
+          prev_data = json.load(f)
+          prev_sponsors = prev_data.get("sponsors", [])
+          prev_ranks = {s["login"]: idx + 1 for idx, s in enumerate(prev_sponsors)}
+      except Exception as e:
+        print(f"  ⚠️  Could not load previous data.json for rank comparison: {e}")
+
+    # Load history registry
+    history = {}
+    if os.path.exists(history_path):
+      try:
+        with open(history_path, "r", encoding="utf-8") as f:
+          history = json.load(f)
+      except Exception as e:
+        print(f"  ⚠️  Could not load history.json: {e}")
+
+    # Calculate movement for each top sponsor and update history
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    current_seen_logins = set()
+
+    for idx, sponsor in enumerate(top_sponsors):
+      current_rank = idx + 1
+      login = sponsor["login"]
+      current_seen_logins.add(login)
+
+      if login in prev_ranks:
+        prev_rank = prev_ranks[login]
+        rank_delta = prev_rank - current_rank
+        if rank_delta > 0:
+          status = "climbed"
+        elif rank_delta < 0:
+          status = "fell"
+        else:
+          status = "steady"
+        weeks_away = None
+      else:
+        prev_rank = None
+        rank_delta = None
+        was_absent = history.get(login, {}).get("weeks_absent", 0)
+        if was_absent >= 1:
+          status = "returned"
+          weeks_away = was_absent
+        else:
+          status = "new"
+          weeks_away = None
+
+      sponsor["prev_rank"] = prev_rank
+      sponsor["rank_delta"] = rank_delta
+      sponsor["status"] = status
+      if weeks_away is not None:
+        sponsor["weeks_away"] = weeks_away
+
+      # Update registry for this seen sponsor
+      if login not in history:
+        history[login] = {
+          "first_seen": today_str,
+          "last_seen": today_str,
+          "weeks_seen": 1,
+          "weeks_absent": 0,
+          "best_rank": current_rank
+        }
+      else:
+        history[login]["last_seen"] = today_str
+        history[login]["weeks_seen"] = history[login].get("weeks_seen", 0) + 1
+        history[login]["weeks_absent"] = 0
+        history[login]["best_rank"] = min(history[login].get("best_rank", current_rank), current_rank)
+
+    # Track absent logins in registry (internal only — never output as a dropped list)
+    for login, record in history.items():
+      if login not in current_seen_logins:
+        record["weeks_absent"] = record.get("weeks_absent", 0) + 1
+
+    # Movement summary metrics
+    new_count = sum(1 for s in top_sponsors if s["status"] == "new")
+    returned_count = sum(1 for s in top_sponsors if s["status"] == "returned")
+    climbed_count = sum(1 for s in top_sponsors if s["status"] == "climbed")
+    fell_count = sum(1 for s in top_sponsors if s["status"] == "fell")
+    returned_list = [
+      {"login": s["login"], "weeks_away": s["weeks_away"]}
+      for s in top_sponsors if s["status"] == "returned"
+    ]
+    climbers = [
+      {"login": s["login"], "rank": idx + 1, "delta": s["rank_delta"]}
+      for idx, s in enumerate(top_sponsors) if s["status"] == "climbed"
+    ]
+    climbers.sort(key=lambda x: x["delta"], reverse=True)
+
+    fallers = [
+      {"login": s["login"], "rank": idx + 1, "delta": s["rank_delta"]}
+      for idx, s in enumerate(top_sponsors) if s["status"] == "fell"
+    ]
+    fallers.sort(key=lambda x: x["delta"])  # Most negative first
+
+    movements = {
+      "new_count": new_count,
+      "returned_count": returned_count,
+      "climbed_count": climbed_count,
+      "fell_count": fell_count,
+      "returned": returned_list,
+      "top_climbers": climbers[:10],
+      "top_fallers": fallers[:10]
+    }
 
     # Calculate statistics
     stats = {
@@ -580,18 +703,17 @@ def main():
     }
 
     output_data = {
-      "sponsors": all_sponsors[:1000],  # Top 1000
+      "sponsors": top_sponsors,
       "statistics": stats,
+      "movements": movements,
       "last_updated": datetime.now(timezone.utc).isoformat()
     }
 
-    # Save data
-    public_dir = os.path.join(os.path.dirname(__file__), "..", "frontend", "public")
-    output_path = os.path.join(public_dir, "data.json")
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-
-    with open(output_path, "w") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
       json.dump(output_data, f, indent=2)
+
+    with open(history_path, "w", encoding="utf-8") as f:
+      json.dump(history, f, indent=2)
 
     # Also write per-strategy JSONs for deeper insight
     strategies_dir = os.path.join(public_dir, "strategies")
@@ -643,6 +765,9 @@ def main():
     print(f"   Avg sponsors per user: {stats['avg_sponsors_per_user']}")
     print(f"   Avg conversion rate: {stats['avg_conversion_rate']}%")
     print(f"   GitHub Stars: {stats['github_stars_count']}")
+    print(f"\n📈 Movements:")
+    print(f"   Climbed: {movements['climbed_count']} | Fell: {movements['fell_count']} | New: {movements['new_count']} | Returned: {movements['returned_count']}")
+    print(f"   History registry updated: {history_path} ({len(history)} total entities)")
     print(f"\n🧩 Per-strategy files written to: {strategies_dir}")
     print(f"\n⚙️  Configuration:")
     print(f"   Fetching top repos: {'✅ Enabled' if FETCH_TOP_REPOS else '❌ Disabled (faster)'}")

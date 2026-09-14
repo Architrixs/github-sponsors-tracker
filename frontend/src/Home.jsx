@@ -4,6 +4,62 @@ import Tooltip from './Tooltip';
 
 const ITEMS_PER_PAGE = 30;
 
+function renderMovementBadge(sponsor) {
+  if (!sponsor.status || sponsor.status === 'steady') {
+    return null;
+  }
+
+  if (sponsor.status === 'climbed' && sponsor.rank_delta) {
+    const prevText = sponsor.prev_rank ? ` (was #${sponsor.prev_rank})` : '';
+    return (
+      <span
+        className="badge badge-climbed"
+        title={`Moved up ${sponsor.rank_delta} spots in overall rank${prevText}`}
+      >
+        ▲{sponsor.rank_delta}
+      </span>
+    );
+  }
+
+  if (sponsor.status === 'fell' && sponsor.rank_delta) {
+    const absDelta = Math.abs(sponsor.rank_delta);
+    const prevText = sponsor.prev_rank ? ` (was #${sponsor.prev_rank})` : '';
+    return (
+      <span
+        className="badge badge-fell"
+        title={`Moved down ${absDelta} spots in overall rank${prevText}`}
+      >
+        ▼{absDelta}
+      </span>
+    );
+  }
+
+  if (sponsor.status === 'new') {
+    return (
+      <span
+        className="badge badge-new"
+        title="New to top sponsors leaderboard"
+      >
+        NEW
+      </span>
+    );
+  }
+
+  if (sponsor.status === 'returned') {
+    const weeks = sponsor.weeks_away || 1;
+    return (
+      <span
+        className="badge badge-returned"
+        title={`Returned to top sponsors after ${weeks} week${weeks > 1 ? 's' : ''} away`}
+      >
+        ↩ {weeks}w
+      </span>
+    );
+  }
+
+  return null;
+}
+
 function Home({ sponsors, loading }) {
   const [filter, setFilter] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
@@ -65,6 +121,10 @@ function Home({ sponsors, loading }) {
       </div>
       {loading ? (
         <p>Loading data...</p>
+      ) : paginatedData.length === 0 ? (
+        <p style={{ textAlign: 'center', color: 'var(--text-secondary-color)', marginTop: '40px' }}>
+          No sponsors found matching your criteria.
+        </p>
       ) : (
         <div className="sponsor-list">
           {paginatedData.map((sponsor) => {
@@ -75,7 +135,10 @@ function Home({ sponsors, loading }) {
 
             return (
               <div key={sponsor.login} className={cardClassName}>
-                <div className="rank-number">{sponsor.filteredRank}</div>
+                <div className="rank-container">
+                  <div className="rank-number">{sponsor.filteredRank}</div>
+                  {renderMovementBadge(sponsor)}
+                </div>
                 <Tooltip text={sponsor.bio}>
                   <img src={sponsor.avatar_url} alt={`${sponsor.login} avatar`} className="sponsor-avatar" />
                 </Tooltip>

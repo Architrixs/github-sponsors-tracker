@@ -10,8 +10,30 @@
   margin-bottom: 1rem;
 }
 
+.last-updated-badge {
+  display: inline-block;
+  font-size: 13px;
+  color: var(--text-secondary-color);
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+  background-color: var(--background-color, #f6f8fa);
+  border: 1px solid var(--border-color, #e1e4e8);
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
 .about-container p {
   margin-bottom: 1.5rem;
+}
+
+.about-container ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.about-container li {
+  margin-bottom: 0.75rem;
 }
 
 .strategy-grid {
@@ -41,4 +63,28 @@
 
 .strategy-card li {
   margin: 0.25rem 0;
+}
+
+.badge-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin: 1.25rem 0 1.5rem;
+  background: var(--card-background-color, #ffffff);
+  border: 1px solid var(--border-color, #e1e4e8);
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 14px;
+}
+
+.legend-item .badge {
+  min-width: 44px;
+  text-align: center;
+  flex-shrink: 0;
 }

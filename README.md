@@ -24,6 +24,15 @@ The scraper uses GitHub's API with multiple strategies to find sponsorable accou
 
 Each strategy captures different types of developers, giving a well-rounded picture of who's getting sponsored and why.
 
+## Movement Tracking
+
+The tracker monitors changes between weekly snapshots:
+- **`▲ N` / `▼ N`**: Climbed or fell N positions in universal overall rank compared to the prior week.
+- **`NEW`**: First time appearing on the top sponsors leaderboard.
+- **`↩ Nw`**: Returned to the leaderboard after N weeks away.
+- **Deterministic Ranking**: Uses multi-key tie-breaking (sponsors, followers, repos, username) to prevent thread race conditions from causing phantom rank swaps among maintainers with equal sponsor counts.
+- **Respectful Tracking**: Maintains an internal history registry without publicly displaying dropped accounts.
+
 ## Tech Stack
 
 - **Backend**: Python scraper using GitHub GraphQL API

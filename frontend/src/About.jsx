@@ -15,6 +15,7 @@ const About = () => {
   return (
     <div className="about-container">
       <h1>About This Project</h1>
+      <div className="last-updated-badge">Last edited: September 15, 2026</div>
       <p>
         I got curious about who's getting sponsored on GitHub and decided to track the top sponsored developers 
         and organizations. Built a scraper, ran it weekly, and found some interesting patterns in the data.
@@ -78,7 +79,46 @@ const About = () => {
         so some sponsored accounts that don't fit these criteria might not show up in the results.
       </p>
 
-            <h2>What's Next</h2>
+            <h2>Movement Tracking & Badges</h2>
+      <p>
+        Every weekly run compares current positions against the previous leaderboard to track momentum across the GitHub open-source ecosystem:
+      </p>
+      <div className="badge-legend">
+        <div className="legend-item">
+          <span className="badge badge-climbed">▲ 5</span>
+          <span><strong>Climbed:</strong> Moved up in overall leaderboard ranking compared to last week.</span>
+        </div>
+        <div className="legend-item">
+          <span className="badge badge-fell">▼ 3</span>
+          <span><strong>Fell:</strong> Moved down in overall leaderboard ranking compared to last week.</span>
+        </div>
+        <div className="legend-item">
+          <span className="badge badge-new">NEW</span>
+          <span><strong>New:</strong> First time appearing on the top sponsors leaderboard.</span>
+        </div>
+        <div className="legend-item">
+          <span className="badge badge-returned">↩ 2w</span>
+          <span><strong>Returned:</strong> Re-entered the top leaderboard after being away.</span>
+        </div>
+      </div>
+      <p>
+        <strong>Overall Ranking Note:</strong> Badges reflect movements in the universal global rank. This lets you see if a maintainer is gaining ground worldwide, even when browsing filtered views like Users or Organizations.
+      </p>
+
+      <h2>Recent Updates & Bug Fixes</h2>
+      <p>
+        A few core improvements and bug fixes were recently deployed to make the rankings, strategies, and movement tracking dependable:
+      </p>
+      <ul>
+        <li>
+          <strong>Deterministic Ranking (Tie-Breaking):</strong> Fixed an issue where concurrent worker threads returned in arbitrary order, causing accounts with identical sponsor counts to unpredictably swap ranks week-to-week. The scraper now enforces a deterministic multi-key sort (sponsor count, followers, public repos, and username).
+        </li>
+        <li>
+          <strong>Leaderboard-Aligned Registry:</strong> Historical tracking (first seen, last seen, best rank, streak tracker) is now strictly scoped to the public top 1,000 leaderboard, ensuring badges always match what visitors see on the site.
+        </li>
+      </ul>
+
+      <h2>What's Next</h2>
       <p>
         I might keep adding more data points or visualizations if I find something interesting. 
         For now, this is just a snapshot of who's getting sponsored on GitHub—updated weekly to keep it fresh.

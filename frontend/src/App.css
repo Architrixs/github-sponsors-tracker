@@ -128,13 +128,60 @@ h1 {
   border-left: 4px solid var(--bronze-color);
 }
 
+.rank-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 38px;
+  margin-right: 12px;
+  gap: 3px;
+  flex-shrink: 0;
+}
+
 .rank-number {
   font-size: 18px;
   font-weight: 600;
   color: var(--text-secondary-color);
-  margin-right: 12px;
-  min-width: 25px;
   text-align: center;
+  line-height: 1.1;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 4px;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.2;
+  cursor: help;
+  user-select: none;
+}
+
+.badge-climbed {
+  background-color: #dafbe1;
+  color: #1a7f37;
+  border: 1px solid #1a7f3733;
+}
+
+.badge-fell {
+  background-color: #ffebe9;
+  color: #cf222e;
+  border: 1px solid #cf222e33;
+}
+
+.badge-new {
+  background-color: #ddf4ff;
+  color: #0969da;
+  border: 1px solid #0969da33;
+}
+
+.badge-returned {
+  background-color: #fff8c5;
+  color: #9a6700;
+  border: 1px solid #9a670033;
 }
 
 .sponsor-avatar {
@@ -335,10 +382,17 @@ h1 {
     margin-top: 10px;
   }
 
-  .rank-number {
+  .rank-container {
     position: absolute;
     top: 10px;
     right: 15px;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    margin-right: 0;
+  }
+
+  .rank-number {
     font-size: 16px;
   }
 }
