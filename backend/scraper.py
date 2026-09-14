@@ -589,7 +589,7 @@ def main():
     prev_ranks = {}
     if os.path.exists(output_path):
       try:
-        with open(output_path, "r", encoding="utf-8") as f:
+        with open(output_path, "r", encoding="utf-8-sig") as f:
           prev_data = json.load(f)
           prev_sponsors = prev_data.get("sponsors", [])
           prev_ranks = {s["login"]: idx + 1 for idx, s in enumerate(prev_sponsors)}
@@ -600,7 +600,7 @@ def main():
     history = {}
     if os.path.exists(history_path):
       try:
-        with open(history_path, "r", encoding="utf-8") as f:
+        with open(history_path, "r", encoding="utf-8-sig") as f:
           history = json.load(f)
       except Exception as e:
         print(f"  ⚠️  Could not load history.json: {e}")
