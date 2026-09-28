@@ -1,869 +1,869 @@
 {
   "evcc-io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 1
   },
   "neovim": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 2
   },
   "thestinger": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 3
   },
   "Homebrew": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 4
   },
   "foosel": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 5
   },
   "Notifiarr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 6
   },
   "simonw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 7
   },
   "debridmediamanager": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 8
   },
   "coollabsio": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 9
   },
   "Vendicated": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 10
   },
   "lpil": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 11
   },
   "servo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 12
   },
   "imsnif": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 13
   },
   "elementary": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 14
   },
   "KDE": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 15
   },
   "mastodon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 16
   },
   "pi-hole": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 15
   },
   "ddev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 17
   },
   "ziglang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 19
   },
   "skydoves": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 19
   },
   "hachyderm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 21
   },
   "sindresorhus": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 22
   },
   "tannerlinsley": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 23
   },
   "jesseduffield": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 24
   },
   "python": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 23
   },
   "sebastianbergmann": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 26
   },
   "wez": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 27
   },
   "antfu": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 28
   },
   "hlissner": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 29
   },
   "YaLTeR": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 30
   },
   "geerlingguy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 31
   },
   "django": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 32
   },
   "yyx990803": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 32
   },
   "fasterthanlime": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 34
   },
   "syncthing": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 35
   },
   "raysan5": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 36
+    "best_rank": 34
   },
   "Koenkk": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 37
   },
   "johnsoncodehk": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 38
   },
   "FreeCAD": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 39
   },
   "derailed": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 40
   },
   "dtolnay": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 41
   },
   "AsahiLinux": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 40
   },
   "tiangolo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 43
   },
   "Xe": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 44
+    "best_rank": 43
   },
   "typst": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 45
   },
   "tokio-rs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 45
   },
   "borkdude": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 47
   },
   "meshcore-dev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 48
   },
   "BurntSushi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 49
   },
   "stalwartlabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 50
   },
   "laurent22": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 51
   },
   "derickr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 52
   },
   "calebporzio": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 53
   },
   "d4rken": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 54
   },
   "JuliaLang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 54
   },
   "johannesjo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 54
   },
   "kovidgoyal": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 56
+    "best_rank": 55
   },
   "openclaw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 58
+    "best_rank": 57
   },
   "roots": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 59
   },
   "danharrin": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 60
   },
   "protesilaos": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 57
   },
   "SaltyAom": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 62
   },
   "blakeblackshear": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 61
   },
   "awesomekling": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 64
   },
   "NixOS": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 65
   },
   "Gentleman-Programming": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 66
+    "best_rank": 64
   },
   "azu": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 66
   },
   "miraheze": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 68
   },
   "bitfireAT": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 69
+    "best_rank": 66
   },
   "cart": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 69
   },
   "desec-io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 64
   },
   "bbatsov": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 72
   },
   "accrescent": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 73
   },
   "arp242": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 74
+    "best_rank": 72
   },
   "frenck": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 75
   },
   "drizzle-team": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 74
   },
   "composer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 77
   },
   "organicmaps": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 76
   },
   "tpope": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 78
   },
   "junegunn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 80
   },
   "minad": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 81
   },
   "curl": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 80
   },
   "ncw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 83
   },
   "zed-industries": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 83
+    "best_rank": 76
   },
   "numfocus": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 85
   },
   "bigskysoftware": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 86
   },
   "sharkdp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 87
   },
   "eslint": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 84
   },
   "bagder": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 89
+    "best_rank": 86
   },
   "photoprism": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 89
   },
   "rustfoundation": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 85
+    "best_rank": 79
   },
   "marcan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 92
+    "best_rank": 91
   },
   "haiku": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 93
+    "best_rank": 92
   },
   "seanmonstar": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 94
   },
   "jdx": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 95
   },
   "FossifyOrg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 96
+    "best_rank": 95
   },
   "xPaw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 97
   },
   "micropython": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 97
   },
   "atuinsh": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 97
   },
   "ljharb": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 99
+    "best_rank": 96
   },
   "exercism": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 98
   },
   "bottlesdevs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 101
+    "best_rank": 98
   },
   "oerdnj": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 102
+    "best_rank": 101
   },
   "juliangarnier": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 104
   },
   "bep": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 105
   },
   "odin-lang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 100
+    "best_rank": 99
   },
   "rui314": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 107
   },
   "colinhacks": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 108
   },
   "benjie": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 109
   },
   "MonoGame": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 110
   },
   "roc-lang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 107
   },
   "shadcn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 112
+    "best_rank": 108
   },
   "nuxt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 111
+    "best_rank": 110
   },
   "vitejs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 114
   },
   "zen-browser": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 115
   },
   "jsdelivr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 114
+    "best_rank": 107
   },
   "tjdevries": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 115
+    "best_rank": 114
   },
   "jart": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 118
   },
   "obra": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 116
   },
   "sxzz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 120
+    "best_rank": 119
   },
   "ggerganov": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 119
   },
   "nodejs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 122
+    "best_rank": 118
   },
   "PaperMC": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 123
+    "best_rank": 120
   },
   "dominikh": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 124
   },
@@ -871,3898 +871,3898 @@
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 125
   },
   "Tienisto": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 124
   },
   "GothenburgBitFactory": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 127
   },
   "mholt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 125
   },
   "tulir": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 129
   },
   "hynek": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 126
+    "best_rank": 123
   },
   "archlinux": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 128
+    "best_rank": 127
   },
   "mattgodbolt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 131
-  },
-  "mattn": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 133
-  },
-  "matz": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 130
   },
+  "mattn": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 124
+  },
+  "matz": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 129
+  },
   "RaspAP": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 133
+    "best_rank": 132
   },
   "tjbck": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 136
   },
   "M66B": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 137
   },
   "linuxserver": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 132
   },
   "gleam-lang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 138
   },
   "posva": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 140
   },
   "balloob": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 141
   },
   "prettier": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 139
   },
   "marijnh": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 140
   },
   "plone": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 143
+    "best_rank": 142
   },
   "golangci": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 144
+    "best_rank": 143
   },
   "richhickey": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 145
   },
   "willmcgugan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 147
   },
   "JanDeDobbeleer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 148
   },
   "thetutlage": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 146
   },
   "schickling": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 149
   },
   "pnpm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 151
+    "best_rank": 140
   },
   "yusukebe": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 148
   },
   "theacodes": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 150
   },
   "Boshen": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 152
   },
   "biomejs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 154
   },
   "Seldaek": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 156
   },
   "marcoroth": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 157
   },
   "babel": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 147
+    "best_rank": 144
   },
   "m-ou-se": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 159
   },
   "louislam": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 160
   },
   "zx2c4": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 151
   },
   "ReVanced": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 162
   },
   "zulip": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 161
   },
   "PCSX2": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 158
+    "best_rank": 145
   },
   "jgm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 162
   },
   "tauri-apps": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 163
   },
   "ImageMagick": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 165
+    "best_rank": 160
   },
   "phpstan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 166
+    "best_rank": 165
   },
   "jonhoo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 167
   },
   "asottile": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 168
+    "best_rank": 166
   },
   "danielroe": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 169
+    "best_rank": 167
   },
   "vapor": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 164
   },
   "schollz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 172
   },
   "fregante": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 173
+    "best_rank": 169
   },
   "meshtastic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 175
+    "best_rank": 173
   },
   "maplibre": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 174
   },
   "patak-cat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 177
   },
   "nekohasekai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 178
   },
   "AzuraCast": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 176
   },
   "silverbulletmd": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 178
-  },
-  "LycheeOrg": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 177
   },
+  "LycheeOrg": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 176
+  },
   "nunomaduro": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 180
+    "best_rank": 179
   },
   "orhun": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 181
+    "best_rank": 180
   },
   "TkDodo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 183
+    "best_rank": 182
   },
   "jamii": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 185
   },
   "f-droid": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 186
   },
   "zigtools": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 186
   },
   "fabpot": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 179
+    "best_rank": 178
   },
   "privatenumber": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 182
+    "best_rank": 171
   },
   "Kludex": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 189
-  },
-  "pallets": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 191
-  },
-  "encode": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 192
-  },
-  "tcgdex": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 187
   },
+  "pallets": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 185
+  },
+  "encode": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 190
+  },
+  "tcgdex": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 186
+  },
   "alexellis": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 193
   },
   "phil-opp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 194
+    "best_rank": 192
   },
   "HerringtonDarkholme": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 195
+    "best_rank": 193
   },
   "freeCodeCamp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 197
+    "best_rank": 196
   },
   "cryptomator": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 196
   },
   "OSGeo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 199
   },
   "LizardByte": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 198
   },
   "ueberdosis": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 197
   },
   "rust-analyzer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 198
   },
   "mrdoob": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 201
   },
   "progrium": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 202
   },
   "cheeaun": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 203
   },
   "OCA": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 205
+    "best_rank": 195
   },
   "outline": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 207
   },
   "amidaware": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 199
   },
   "ThePrimeagen": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 200
   },
   "rrousselGit": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 210
   },
   "djc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 211
   },
   "jrfnl": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 204
+    "best_rank": 194
   },
   "termux": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 213
+    "best_rank": 207
   },
   "withastro": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 214
   },
   "armbian": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 208
   },
   "cloudposse": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 214
   },
   "openssl": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 217
+    "best_rank": 213
   },
   "plantuml": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 218
   },
   "rclone": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 210
   },
   "unifiedjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 207
   },
   "devlooped": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 215
   },
   "egoist": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 221
   },
   "rsms": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 222
   },
   "badlogic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 223
   },
   "samuelcolvin": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 213
   },
   "caarlos0": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 214
   },
   "ThePhD": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 224
   },
   "fuma-nama": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 225
   },
   "AvaloniaUI": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 228
+    "best_rank": 219
   },
   "actualbudget": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 230
   },
   "dimforge": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 231
-  },
-  "BlueBubblesApp": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 230
   },
+  "BlueBubblesApp": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 229
+  },
   "mitsuhiko": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 233
+    "best_rank": 221
   },
   "codediodeio": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 234
   },
   "paulmillr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 235
   },
   "0atman": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 236
   },
   "xoofx": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 237
   },
   "catppuccin": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 226
+    "best_rank": 225
   },
   "spatie": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 238
   },
   "plausible": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 240
   },
   "nvaccess": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 240
   },
   "taylorotwell": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 242
-  },
-  "steipete": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 233
   },
+  "steipete": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 220
+  },
   "yihui": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 236
   },
   "Shougo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 243
   },
   "raphamorim": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 239
+    "best_rank": 238
   },
   "hajimehoshi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 244
   },
   "messense": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 245
   },
   "huntabyte": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 249
+    "best_rank": 247
   },
   "hediet": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 246
+    "best_rank": 239
   },
   "ritchie46": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 247
   },
   "simplex-chat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 250
   },
   "ruffle-rs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 252
   },
   "Virtual-Coffee": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 253
   },
   "lando": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 252
   },
   "andrewrk": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 254
   },
   "mrousavy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 255
+    "best_rank": 254
   },
   "swannodette": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 257
-  },
-  "Ocramius": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 256
   },
+  "Ocramius": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 255
+  },
   "TomasVotruba": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 259
   },
   "Byron": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 260
   },
   "shivammathur": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 261
   },
   "RocketChat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 263
   },
   "pypa": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 264
-  },
-  "ppy": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 251
   },
+  "ppy": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 241
+  },
   "skiptools": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 264
   },
   "misskey-dev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 267
-  },
-  "Vets-Who-Code": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 266
   },
+  "Vets-Who-Code": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 265
+  },
   "mvdan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 269
+    "best_rank": 258
   },
   "panva": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 270
   },
   "ente": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 271
+    "best_rank": 250
   },
   "openemr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 272
   },
   "dai-shi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 273
   },
   "pi0": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 274
   },
   "zkat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 275
   },
   "dunglas": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 269
   },
   "antonmedv": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 270
   },
   "nicolas-grekas": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 277
   },
   "supabase": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 279
   },
   "vllm-project": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 280
   },
   "isaacs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 268
+    "best_rank": 267
   },
   "neuecc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 281
   },
   "steveruizok": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 282
   },
   "erincatto": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 283
   },
   "brandonroberts": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 276
   },
   "ioquatix": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 286
   },
   "FurkanGozukara": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 278
   },
   "ellie": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 285
   },
   "anomalyco": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 289
   },
   "AlmaLinux": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 288
   },
   "wevm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 291
   },
   "knurling-rs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 292
   },
   "zauberzeug": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 290
   },
   "hanami": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 280
   },
   "Ablaze-MIRAI": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 291
   },
   "subsurface": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 296
   },
   "rustdesk": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 282
   },
   "doodlewind": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 298
   },
   "mrexodia": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 297
+    "best_rank": 270
   },
   "samaaron": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 298
   },
   "daviwil": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 299
   },
   "psf": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 302
   },
   "capawesome-team": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 302
   },
   "open-meteo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 281
   },
   "borgbackup": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 295
+    "best_rank": 276
   },
   "emacs-lsp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 304
   },
   "sdras": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 306
   },
   "antonbabenko": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 308
   },
   "kazupon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 308
   },
   "gcanti": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 309
   },
   "nedbat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 310
   },
   "hsbt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 311
   },
   "sveltejs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 313
+    "best_rank": 302
   },
   "nix-community": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 314
+    "best_rank": 300
   },
   "directus": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 315
   },
   "xyflow": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 316
   },
   "music-assistant": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 317
   },
   "metabrainz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 301
+    "best_rank": 292
   },
   "mswjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 319
+    "best_rank": 281
   },
   "iina": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 320
   },
   "racket": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 315
   },
   "SixLabors": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 322
   },
   "voxpupuli": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 313
   },
   "ai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 307
   },
   "lissy93": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 324
+    "best_rank": 322
   },
   "teknium1": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 326
   },
   "Akryum": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 325
+    "best_rank": 324
   },
   "Brooooooklyn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 326
+    "best_rank": 325
   },
   "Torantulino": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 327
   },
   "WerWolv": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 328
+    "best_rank": 313
   },
   "JoshuaKGoldberg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 329
+    "best_rank": 327
   },
   "bunnie": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 312
   },
   "bitbank2": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 331
   },
   "DioxusLabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 333
+    "best_rank": 330
   },
   "livewire": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 335
   },
   "fosrl": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 323
+    "best_rank": 308
   },
   "phalcon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 332
+    "best_rank": 329
   },
   "probe-rs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 334
+    "best_rank": 332
   },
   "positron-solutions": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 337
   },
   "nzakas": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 337
+    "best_rank": 336
   },
   "medvednikov": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 341
+    "best_rank": 340
   },
   "ZacSweers": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 342
   },
   "brianc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 331
+    "best_rank": 328
   },
   "stefanjudis": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 344
   },
   "ko1": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 344
+    "best_rank": 341
   },
   "opencv": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 346
   },
   "Leaflet": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 347
   },
   "Heroic-Games-Launcher": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 348
   },
   "NLnetLabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 346
+    "best_rank": 343
   },
   "compiler-explorer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 317
   },
   "mailcow": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 351
   },
   "c3lang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 350
   },
   "openscad": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 348
-  },
-  "napi-rs": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 350
-  },
-  "SWI-Prolog": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 347
   },
+  "napi-rs": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 349
+  },
+  "SWI-Prolog": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 345
+  },
   "danielmiessler": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 355
   },
   "ChrisTitusTech": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 357
   },
   "jonschlinkert": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 339
+    "best_rank": 338
   },
   "D4Vinci": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 340
   },
   "wooorm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 357
   },
   "johnlindquist": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 358
   },
   "Qix-": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 359
   },
   "harlan-zw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 361
   },
   "taiki-e": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 362
   },
   "pmndrs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 364
   },
   "uutils": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 349
+    "best_rank": 348
   },
   "ratatui": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 367
   },
   "AstroNvim": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 354
+    "best_rank": 353
   },
   "doctrine": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 365
   },
   "xunit": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 368
   },
   "calagopus": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 369
   },
   "tw93": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 356
   },
   "typicode": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 373
   },
   "jgthms": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 374
   },
   "mudler": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 375
+    "best_rank": 360
   },
   "PINTO0309": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 376
+    "best_rank": 361
   },
   "abo-abo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 377
   },
   "mnapoli": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 378
   },
   "epoberezkin": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 379
   },
   "natew": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 380
   },
   "SimonCropp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 380
   },
   "webpro": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 381
   },
   "processing": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 383
+    "best_rank": 382
   },
   "utmapp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 366
   },
   "sagemath": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 382
   },
   "11ty": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 384
   },
   "fyne-io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 387
   },
   "emberjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 385
+    "best_rank": 384
   },
   "Excel-DNA": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 389
   },
   "FyraLabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 363
+    "best_rank": 344
   },
   "vivliostyle": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 367
   },
   "t3dotgg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 372
   },
   "GrahamCampbell": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 392
   },
   "hzoo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 389
   },
   "nlohmann": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 390
+    "best_rank": 388
   },
   "ErikEJ": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 391
+    "best_rank": 389
   },
   "Blaizzy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 392
+    "best_rank": 391
   },
   "seancorfield": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 394
+    "best_rank": 393
   },
   "CodingTrain": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 396
+    "best_rank": 395
   },
   "SeleniumHQ": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 400
   },
   "testcontainers": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 399
   },
   "fastify": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 395
+    "best_rank": 394
   },
   "better-auth": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 403
   },
   "ActivityWatch": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 397
   },
   "gristlabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 400
   },
   "MobiFlight": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 405
+    "best_rank": 386
   },
   "inventree": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 404
   },
   "clap-rs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 407
+    "best_rank": 406
   },
   "mattpocock": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 408
+    "best_rank": 407
   },
   "kijai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 410
   },
   "KATT": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 411
   },
   "Eugeny": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 412
   },
   "headius": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 413
+    "best_rank": 412
   },
   "k0kubun": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 414
+    "best_rank": 413
   },
   "clue": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 415
+    "best_rank": 414
   },
   "hecrj": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 416
+    "best_rank": 415
   },
   "webknjaz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 417
+    "best_rank": 416
   },
   "kyleconroy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 418
+    "best_rank": 417
   },
   "alyssais": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 419
+    "best_rank": 418
   },
   "pydantic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 420
+    "best_rank": 419
   },
   "matplotlib": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 421
+    "best_rank": 401
   },
   "discordjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 422
   },
   "netbirdio": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 398
   },
   "preactjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 402
   },
   "react-navigation": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 423
   },
   "stashapp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 426
   },
   "pdm-project": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 425
   },
   "tqdm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 426
   },
   "antirez": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 428
   },
   "kamilmysliwiec": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 430
+    "best_rank": 429
   },
   "felangel": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 429
   },
   "timothystewart6": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 431
   },
   "drcmda": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 432
   },
   "Innei": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 432
   },
   "coreyhaines31": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 433
+    "best_rank": 432
   },
   "AvdLee": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 434
+    "best_rank": 433
   },
   "luke-jr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 435
   },
   "Andarist": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 437
+    "best_rank": 410
   },
   "samber": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 436
   },
   "anonrig": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 438
   },
   "unclecode": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 439
   },
   "eddelbuettel": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 440
   },
   "blakeembrey": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 441
   },
   "JohnTitor": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 443
   },
   "baku89": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 445
   },
   "sdogruyol": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 446
+    "best_rank": 445
   },
   "potatoqualitee": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 447
   },
   "rxrbln": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 413
+    "best_rank": 411
   },
   "tree-sitter": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 449
   },
   "opnsense": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 450
   },
   "Vanilla-OS": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 450
   },
   "thunderbird": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 449
+    "best_rank": 447
   },
   "qgis": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 453
+    "best_rank": 448
   },
   "privacyguides": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 454
   },
   "pytest-dev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 452
+    "best_rank": 383
   },
   "ostris": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 456
   },
   "defold": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 448
+    "best_rank": 446
   },
   "pybricks": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 455
+    "best_rank": 451
   },
   "loro-dev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 456
+    "best_rank": 452
   },
   "readest": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 460
+    "best_rank": 458
   },
   "chirpstack": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 459
+    "best_rank": 454
   },
   "strawberry-graphql": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 457
   },
   "mcollina": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 463
+    "best_rank": 460
   },
   "markerikson": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 464
+    "best_rank": 462
   },
   "fatedier": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 465
+    "best_rank": 464
   },
   "jedisct1": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 465
+    "best_rank": 463
   },
   "M0nica": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 467
+    "best_rank": 465
   },
   "hoshinolina": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 468
+    "best_rank": 466
   },
   "pilcrowonpaper": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 469
   },
   "Tyrrrz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 470
+    "best_rank": 468
   },
   "jackyzha0": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 471
+    "best_rank": 469
   },
   "GuillaumeGomez": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 472
+    "best_rank": 470
   },
   "abiosoft": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 442
   },
   "syl20bnr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 474
+    "best_rank": 472
   },
   "jethrokuan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 475
+    "best_rank": 473
   },
   "mumoshu": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 476
+    "best_rank": 474
   },
   "glyph": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 477
+    "best_rank": 476
   },
   "scikit-learn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 462
+    "best_rank": 456
   },
   "opencloud-eu": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 455
+    "best_rank": 420
   },
   "libretro": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 479
   },
   "invoke-ai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 481
   },
   "adoptium": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 482
   },
   "macadmins": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 483
+    "best_rank": 482
   },
   "pulsar-edit": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 478
+    "best_rank": 477
   },
   "trpc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 485
   },
   "SeaQL": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 486
+    "best_rank": 485
   },
   "statamic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 484
+    "best_rank": 481
   },
   "typelevel": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 480
+    "best_rank": 478
   },
   "dokku": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 451
   },
   "mlr-org": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 482
+    "best_rank": 480
   },
   "secureblue": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 487
   },
   "hpc-social": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 492
+    "best_rank": 488
   },
   "Lidarr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 493
+    "best_rank": 490
   },
   "getify": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 494
   },
   "jinzhu": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 495
+    "best_rank": 491
   },
   "carlospolop": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 496
+    "best_rank": 492
   },
   "jaredhanson": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 497
   },
   "S3cur3Th1sSh1t": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 497
+    "best_rank": 494
   },
   "juliusmarminge": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 499
   },
   "horsicq": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 498
+    "best_rank": 496
   },
   "crazy-max": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 499
+    "best_rank": 497
   },
   "mre": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 500
+    "best_rank": 498
   },
   "mifi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 502
+    "best_rank": 500
   },
   "brendt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 501
+    "best_rank": 499
   },
   "krzyzanowskim": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 504
+    "best_rank": 502
   },
   "yaahc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 503
+    "best_rank": 501
   },
   "alecthomas": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 444
   },
   "witnessmenow": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 508
+    "best_rank": 507
   },
   "TheOrcDev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 509
   },
   "williamboman": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 510
+    "best_rank": 508
   },
   "rom1v": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 511
   },
   "oskardudycz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 505
+    "best_rank": 503
   },
   "asciimoo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 507
+    "best_rank": 505
   },
   "unslothai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 466
+    "best_rank": 428
   },
   "kiwix": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 515
   },
   "floci-io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 490
   },
   "oxc-project": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 517
   },
   "BC-SECURITY": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 514
+    "best_rank": 483
   },
   "swiftwasm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 513
+    "best_rank": 512
   },
   "phosphor-icons": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 520
   },
   "WeblateOrg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 516
+    "best_rank": 515
   },
   "skeletonlabs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 491
+    "best_rank": 487
   },
   "DestinyItemManager": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 517
+    "best_rank": 516
   },
   "AvengeMedia": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 492
   },
   "vikejs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 523
+    "best_rank": 522
   },
   "pythonkr": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 515
+    "best_rank": 513
   },
   "shakacode": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 511
+    "best_rank": 510
   },
   "EssentialsX": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 464
   },
   "cassidoo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 526
   },
   "affaan-m": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 527
   },
   "lemire": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 528
   },
   "barryvdh": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 529
   },
   "alexeygrigorev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 530
   },
   "Yeachan-Heo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 531
   },
   "arvidn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 533
   },
   "cure53": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 534
   },
   "hawkw": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 535
   },
   "sergiodxa": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 536
   },
   "StevenBlack": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 537
   },
   "javiereguiluz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 506
+    "best_rank": 504
   },
   "hrsh7th": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 541
   },
   "sapphi-red": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 542
   },
   "dahlia": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 543
+    "best_rank": 506
   },
   "nicolo-ribaudo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 544
   },
   "waruqi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 545
   },
   "hugovk": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 546
+    "best_rank": 545
   },
   "bkaradzic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 538
   },
   "scottbez1": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 540
   },
   "twbs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 549
+    "best_rank": 518
   },
   "NativePHP": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 550
   },
   "software-mansion": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 550
   },
   "LawnchairLauncher": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 552
   },
   "pterodactyl": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 553
   },
   "traefik": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 552
   },
   "CodeEditApp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 555
   },
   "OpenRefine": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 556
-  },
-  "Flow-Launcher": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 553
   },
+  "Flow-Launcher": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 514
+  },
   "ChurchApps": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 519
   },
   "gulpjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 549
   },
   "ZoneMinder": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 558
+    "best_rank": 556
   },
   "aurelia": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 548
+    "best_rank": 547
   },
   "nilbuild": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 560
+    "best_rank": 559
   },
   "midudev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 561
+    "best_rank": 525
   },
   "anuraghazra": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 562
   },
   "koush": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 565
   },
   "FiloSottile": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 563
+    "best_rank": 560
   },
   "orta": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 564
+    "best_rank": 561
   },
   "EvanBacon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 565
   },
   "aidenybai": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 566
+    "best_rank": 562
   },
   "lukeed": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 567
+    "best_rank": 563
   },
   "insidegui": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 568
+    "best_rank": 564
   },
   "Dimillian": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 569
+    "best_rank": 566
   },
   "saadeghi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 570
+    "best_rank": 567
   },
   "Gezine": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-14",
-    "weeks_seen": 2,
-    "weeks_absent": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 3,
+    "weeks_absent": 0,
     "best_rank": 574
   },
   "rwxrob": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 571
+    "best_rank": 568
   },
   "mame": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 572
+    "best_rank": 569
   },
   "umputun": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 573
+    "best_rank": 570
   },
   "jwiegley": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 574
+    "best_rank": 571
   },
   "clauderic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 575
+    "best_rank": 572
   },
   "marten-seemann": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 580
   },
   "kean": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 576
+    "best_rank": 573
   },
   "mmistakes": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 577
+    "best_rank": 574
   },
   "safishamsi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 578
   },
   "UlisesGascon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 581
+    "best_rank": 576
   },
   "nekomeowww": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 582
+    "best_rank": 578
   },
   "Mic92": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 583
+    "best_rank": 543
   },
   "andris9": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 584
+    "best_rank": 579
   },
   "mysticatea": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 588
   },
   "Shinmera": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 585
+    "best_rank": 581
   },
   "sfackler": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 586
+    "best_rank": 582
   },
   "go-gitea": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 591
   },
   "darkroomengineering": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 592
-  },
-  "frida": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 590
   },
+  "frida": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 585
+  },
   "chatwoot": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 594
   },
   "guardianproject": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 588
   },
   "aio-libs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 592
-  },
-  "ScoopInstaller": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 597
-  },
-  "siderolabs": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 591
-  },
-  "stan-dev": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 593
-  },
-  "tuist": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 589
-  },
-  "formkit": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 601
-  },
-  "BlockchainCommons": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 587
   },
+  "ScoopInstaller": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 593
+  },
+  "siderolabs": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 586
+  },
+  "stan-dev": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 589
+  },
+  "tuist": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 583
+  },
+  "formkit": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 598
+  },
+  "BlockchainCommons": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 584
+  },
   "sphinx-doc": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 598
   },
   "nvim-treesitter": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 602
+    "best_rank": 599
   },
   "ExistentialAudio": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 600
-  },
-  "woodpecker-ci": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 596
   },
+  "woodpecker-ci": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 592
+  },
   "kennethreitz": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 604
   },
   "feross": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 605
+    "best_rank": 602
   },
   "bvaughn": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 606
+    "best_rank": 603
   },
   "stefanprodan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 608
+    "best_rank": 605
   },
   "mjackson": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 609
+    "best_rank": 606
   },
   "cpojer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 610
+    "best_rank": 608
   },
   "lefticus": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 611
+    "best_rank": 609
   },
   "patriciogonzalezvivo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 612
+    "best_rank": 610
   },
   "terrytangyuan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 613
+    "best_rank": 612
   },
   "oblador": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 614
+    "best_rank": 613
   },
   "code-yeongyu": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 615
   },
   "reinink": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 618
   },
   "Xuanwo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 617
+    "best_rank": 616
   },
   "kishikawakatsumi": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 618
+    "best_rank": 617
   },
   "osm0sis": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 619
+    "best_rank": 618
   },
   "coreybutler": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 620
+    "best_rank": 619
   },
   "weierophinney": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 621
+    "best_rank": 620
   },
   "brettcannon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 622
+    "best_rank": 621
   },
   "fanquake": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 624
+    "best_rank": 622
   },
   "cubiq": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 625
+    "best_rank": 624
   },
   "daattali": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 626
+    "best_rank": 625
   },
   "octref": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 627
   },
   "matthew-carroll": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 628
   },
   "TheAlexLichter": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 630
   },
   "nicobailon": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 629
   },
   "gr2m": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 631
   },
   "itzg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 633
   },
   "sophiajt": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 633
   },
   "kitlangton": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 635
   },
   "Carreau": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 635
   },
   "quii": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 636
   },
   "postmodern": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 637
   },
   "Mariatta": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 639
   },
   "wei": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 640
   },
   "hiroppy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 641
   },
   "freakboy3742": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 580
+    "best_rank": 575
   },
   "lowlighter": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 632
   },
   "bluwy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 634
   },
   "EbookFoundation": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 595
+    "best_rank": 591
   },
   "terraform-aws-modules": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 646
   },
   "SciML": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 642
   },
   "toeverything": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 648
   },
   "msys2": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 649
   },
   "SlimeVR": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 650
   },
   "yarnpkg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 651
   },
   "react-hook-form": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 652
   },
   "swc-project": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 653
   },
   "yiisoft": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 643
   },
   "junit-team": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 655
+    "best_rank": 595
   },
   "moonrepo": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 654
   },
   "csstools": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 645
   },
   "pyenv": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 658
   },
   "webrecorder": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 646
   },
   "mautic": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 644
   },
   "litestar-org": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 649
   },
   "celery": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 660
   },
   "ferdium": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 663
   },
   "JasperFx": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 659
   },
   "vyperlang": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 655
   },
   "django-cms": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 650
   },
   "cumbucadev": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 661
   },
   "code-hike": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 667
   },
   "serverless-dns": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 668
-  },
-  "semaphoreui": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 667
   },
+  "semaphoreui": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 666
+  },
   "starfederation": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 662
+    "best_rank": 554
   },
   "networkupstools": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 599
+    "best_rank": 594
   },
   "dprint": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 657
   },
   "tj": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 671
-  },
-  "rafaballerini": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 670
   },
+  "rafaballerini": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 669
+  },
   "wesm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 672
   },
   "tomnomnom": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 673
   },
   "miguelgrinberg": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 674
   },
   "eddiejaoude": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 677
   },
   "s0md3v": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 675
   },
   "evilsocket": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 676
   },
@@ -4770,525 +4770,546 @@
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 678
   },
   "shuding": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 679
+    "best_rank": 678
   },
   "rougier": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 680
   },
   "JohannesMilke": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 684
   },
   "objective-see": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 2,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 3,
     "weeks_absent": 0,
     "best_rank": 685
   },
   "dunossauro": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 685
   },
   "Marak": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 686
   },
   "matryer": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 688
+    "best_rank": 611
   },
   "MikeMcQuaid": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 687
   },
   "indutny": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 616
+    "best_rank": 614
   },
   "muesli": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 690
+    "best_rank": 615
   },
   "Dicklesworthstone": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 691
   },
   "mgeeky": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 693
+    "best_rank": 691
   },
   "patrick-kidger": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 694
   },
   "chrislusf": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 695
   },
   "EricZimmerman": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 695
+    "best_rank": 692
   },
   "windingwind": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 696
+    "best_rank": 693
   },
   "jdvillal": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 698
   },
   "donmccurdy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 697
+    "best_rank": 694
   },
   "mgravell": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 699
+    "best_rank": 627
   },
   "xenova": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 700
+    "best_rank": 695
   },
   "diegosouzapw": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 698
   },
   "benaadams": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 701
+    "best_rank": 696
   },
   "Leonxlnx": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 579
+    "best_rank": 537
   },
   "natemoo-re": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 702
+    "best_rank": 697
   },
   "ttscoff": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 704
+    "best_rank": 699
   },
   "chenjiahan": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 706
+    "best_rank": 701
   },
   "weavejester": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 705
+    "best_rank": 700
   },
   "simonbs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 710
+    "best_rank": 706
   },
   "Nyholm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 711
+    "best_rank": 709
   },
   "walkerke": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 712
-  },
-  "remorses": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 713
-  },
-  "benhoyt": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 714
-  },
-  "sidorares": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 715
-  },
-  "joshdholtz": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 716
-  },
-  "NataliaTepluhina": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 707
-  },
-  "johnno1962": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 710
   },
-  "solnic": {
+  "remorses": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 711
+  },
+  "benhoyt": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 712
   },
-  "imaNNeo": {
+  "sidorares": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 713
   },
+  "joshdholtz": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 714
+  },
+  "NataliaTepluhina": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 702
+  },
+  "johnno1962": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 705
+  },
+  "solnic": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 707
+  },
+  "imaNNeo": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 708
+  },
   "VoltAgent": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 721
   },
   "FlowiseAI": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 722
   },
   "TryGhost": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 722
+    "best_rank": 717
   },
   "tinygrad": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 724
   },
   "BerriAI": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 725
+    "best_rank": 721
   },
   "ciderapp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 724
+    "best_rank": 719
   },
   "thoughtbot": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 720
   },
   "typesense": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 723
+    "best_rank": 718
   },
   "flarum": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 729
+    "best_rank": 725
   },
   "freelawproject": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 727
+    "best_rank": 722
   },
   "rolldown": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 731
   },
   "automerge": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 732
+    "best_rank": 728
   },
   "AudioKit": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 731
+    "best_rank": 727
   },
   "ipython": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 734
   },
   "macports": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14",
     "weeks_seen": 2,
-    "weeks_absent": 1,
+    "weeks_absent": 2,
     "best_rank": 733
   },
   "NativeScript": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 721
+    "best_rank": 715
   },
   "reactphp": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 737
   },
   "ethers-io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 734
+    "best_rank": 730
   },
   "mainsail-crew": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 739
   },
   "DjangoGirls": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 740
   },
   "Tresjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 741
   },
   "hummingbird-project": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 735
+    "best_rank": 731
   },
   "artifact-keeper": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 742
-  },
-  "bugzilla": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 729
-  },
-  "MediaArea": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
-    "weeks_absent": 0,
-    "best_rank": 725
-  },
-  "stylelint": {
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
     "best_rank": 738
   },
+  "bugzilla": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 724
+  },
+  "MediaArea": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 720
+  },
+  "stylelint": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
+    "weeks_absent": 0,
+    "best_rank": 736
+  },
   "moleculerjs": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 728
+    "best_rank": 723
   },
   "atomvm": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 3,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 4,
     "weeks_absent": 0,
-    "best_rank": 736
+    "best_rank": 732
   },
   "f3d-app": {
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-21",
     "weeks_seen": 3,
-    "weeks_absent": 0,
+    "weeks_absent": 1,
     "best_rank": 746
   },
   "MiaAI-Lab": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
     "best_rank": 249
   },
   "phith0n": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
     "best_rank": 681
   },
   "creationix": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
     "best_rank": 682
   },
   "DenverCoder1": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
     "best_rank": 683
   },
   "arcanis": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
-    "best_rank": 703
+    "best_rank": 698
   },
   "itchyny": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
-    "weeks_seen": 1,
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
     "weeks_absent": 0,
-    "best_rank": 716
+    "best_rank": 638
   },
   "EngineHub": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 2,
+    "weeks_absent": 0,
+    "best_rank": 726
+  },
+  "giswqs": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
     "weeks_seen": 1,
     "weeks_absent": 0,
-    "best_rank": 731
+    "best_rank": 679
+  },
+  "excid3": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 1,
+    "weeks_absent": 0,
+    "best_rank": 689
+  },
+  "torproject": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "weeks_seen": 1,
+    "weeks_absent": 0,
+    "best_rank": 729
   }
 }
